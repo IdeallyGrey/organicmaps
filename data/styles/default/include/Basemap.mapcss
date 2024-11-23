@@ -139,10 +139,11 @@ area|z14-[landuse=recreation_ground],
 area|z14-[landuse=village_green],
 area|z14-[landuse=field],
 {fill-color: @green1;}
-area|z11-12[landuse=forest],
-area|z12[leisure=garden],
 area|z16-[natural=grassland],
 area|z16-[landuse=meadow],
+{fill-color: @green7;}
+area|z11-12[landuse=forest],
+area|z12[leisure=garden],
 {fill-color: @green2;}
 area|z13[landuse=forest],
 area|z13[leisure=garden]
