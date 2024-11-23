@@ -20,6 +20,7 @@
     it = Cerca
     ja = 検索
     ko = 검색하기
+    lt = Ieškoti
     mr = शोधा
     nb = Søk
     nl = Zoeken
@@ -63,6 +64,7 @@
     it = Luoghi preferiti e percorsi
     ja = ブックマークとトラック
     ko = 북마크 및 트랙
+    lt = Žymės ir takeliai
     mr = खूणपत्रे आणि ट्रॅक
     nb = Bokmerker og ruter
     nl = Bladwijzers en tracks
@@ -158,6 +160,7 @@
     it = Il rilevamento della posizione corrente in background è necessario per godere appieno delle funzionalità dell'app. Viene utilizzato per la navigazione e il salvataggio della traccia percorsa di recente.
     ja = バックグラウンドでの現在位置の定義は、アプリの機能を完全にご利用いただくために必要です。にルート追跡と最近の道のりの保存に使用されます。
     ko = 백그라운드에서 현재 위치를 정의하는 것은 완전히 앱의 기능을 즐길 수 있도록 해줍니다. 이는 로 경로를 따르고 최근 여행 경로를 저장하는 옵션에 사용됩니다.
+    lt = Norint naudotis visomis programėlės funkcijomis, būtina nustatyti buvimo vietą fone. Ji naudojama navigacijai ir neseniai nukeliauto kelio išsaugojimui.
     mr = ऍपच्या कार्यक्षमतेचा पूर्णपणे आनंद घेण्यासाठी पार्श्वभूमीतील स्थान जाणणे आवश्यक आहे. मार्गनिर्देशनासाठी व अलीकडे प्रवास केलेला मार्ग जतन करण्यासाठी ह्याचा उपयोग होतो.
     nb = Det er nødvendig å fastslå den gjeldende posisjonen i bakgrunnen for å utnytte appens funksjonalitet til fulle. Dette brukes når en rute skal følges og når den siste reiseruten din skal lagres.
     nl = Het op de achtergrond vaststellen van de huidige locatie is noodzakelijk om volledig gebruik te maken van de functionaliteit van de app. Dit wordt gebruikt bij de opties voor het volgen van de route en het opslaan van je recent afgelegde pad.
@@ -201,6 +204,7 @@
     it = La definizione della posizione corrente viene utilizzata nelle opzioni di tracciamento del percorso e salvataggio del percorso effettuato di recente.
     ja = 現在位置の定義はルート追跡オプションと最近使用したルートの保存に使用されます。
     ko = 현재 위치를 정의하는 것은 경로를 따르고 최근 여행한 경로를 저장하는 옵션에서 사용됩니다.
+    lt = Vietos nustatymas reikalingas navigacijai ir neseniai nukeliauto kelio išsaugojimui.
     mr = मार्गनिर्देशनासाठी व अलीकडे प्रवास केलेला मार्ग जतन करण्यासाठी तुमचे स्थान जाणणे आवश्यक आहे.
     nb = Definerer nåværende plassering brukes i alternativene hvor man følger ruten og lagrer din nylige reiseretning.
     nl = Bepaling van de huidige locatie wordt gebruikt in de opties voor het volgen van de route en het opslaan van uw onlangs afgelegde weg.

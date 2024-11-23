@@ -23,6 +23,7 @@
     it = Rimani sulla destra.
     ja = 右側を走行してください。
     ko = 오른쪽에 두기.
+    lt = Laikykitės dešinės.
     mr = उजवीकडे ठेवा.
     nb = Hold til høyre.
     nl = Rechts aanhouden.
@@ -74,6 +75,7 @@
     it = Gira a destra.
     ja = 右折です。
     ko = 우회전하십시오.
+    lt = Pasukite į dešinę.
     mr = उजवीकडे वळा.
     nb = Ta til høyre.
     nl = Sla rechtsaf.
@@ -121,6 +123,7 @@
     it = Svoltare a destra.
     ja = 右に大きく曲がります。
     ko = 급우회전.
+    lt = Smarkiai pasukite į dešinę.
     mr = तीव्र उजवे वळण
     nb = Ta skarpt til høyre.
     nl = Scherp rechtsaf.
@@ -168,6 +171,7 @@
     it = Entra nella rotonda.
     ja = ラウンドアバウトに入り。
     ko = 로터리 진입입니다.
+    lt = Įvažiuokite į žieda.
     mr = चौकात प्रवेश करा.
     nb = Kjør inn i rundkjøringen.
     nl = Rij de rotonde op.
@@ -223,6 +227,7 @@
     it = Esci dalla rotonda.
     ja = ロータリーを出ます。
     ko = 원형 교차로에서 나갑니다.
+    lt = Išvažiuokite iš žiedo.
     mr = चौकातून बाहेर पडा.
     nb = Kjør ut av rundkjøringen.
     nl = Verlaat de rotonde.
@@ -277,6 +282,7 @@
     it = Rimani sulla sinistra.
     ja = 左側を走行してください。
     ko = 왼쪽에 두기.
+    lt = Laikykitės kairės.
     mr = डावीकडे ठेवा.
     nb = Hold til venstre.
     nl = Links aanhouden.
@@ -328,6 +334,7 @@
     it = Gira a sinistra.
     ja = 左折です。
     ko = 좌회전하십시오.
+    lt = Pasukite į kairę.
     mr = डावीकडे वळा.
     nb = Ta til venstre.
     nl = Sla linksaf.
@@ -375,6 +382,7 @@
     it = Svoltare a sinistra.
     ja = 左に大きく曲がります。
     ko = 급좌회전.
+    lt = Smarkiai pasukite į kairę.
     mr = तीव्र डावे वळण
     nb = Ta skarpt til venstre.
     nl = Scherp linksaf.
@@ -421,6 +429,7 @@
     it = Effettua un'inversione a U.
     ja = 後ろ方向です。
     ko = 유턴입니다.
+    lt = Apsisukite.
     mr = यू-टर्न घ्या.
     nb = Ta en U-sving.
     nl = Keer om.
@@ -473,6 +482,7 @@
     it = Sempre dritto.
     ja = 直進です。
     ko = 직진입니다.
+    lt = Eikite tiesiai.
     mr = सरळ जा.
     nb = Fortsett rett fram.
     nl = Rij rechtdoor.
@@ -514,6 +524,7 @@
     it = Uscita.
     ja = 出口です。
     ko = 출구.
+    lt = Išeikite.
     mr = बाहेर पडा.
     nb = Ta avkjøringen.
     nl = Verlaat.
@@ -556,6 +567,7 @@
     it = in
     ja = NULL
     ko = NULL
+    lt = į
     mr = वर
     nb = inn på
     nl = naar
@@ -599,6 +611,7 @@
     it = Uscita su
     ja = 出口を出る
     ko = 출구
+    lt = Išvažiuokite išvažiavimu
     mr = बाहेर पडा वर
     nb = Ta avkjøringen inn på
     nl = Verlaat naar
@@ -646,6 +659,7 @@
     it = Arriverai.
     ja = 到着します。
     ko = 도착할 예정입니다.
+    lt = Atvyksite.
     mr = तुम्ही पोहोचाल.
     nb = Ankommer du.
     nl = Arriveert u.
@@ -688,6 +702,7 @@
     it = Sei arrivato.
     ja = 目的地に到着しました。
     ko = 도착했습니다.
+    lt = Atvykote.
     mr = तुम्ही पोहोचला आहात.
     nb = Du har ankommet.
     nl = Bestemming bereikt.
@@ -729,7 +744,8 @@
     id = Setelah lima puluh meter
     it = Tra cinquanta metri
     ja = 五十メートル先
-    ko = 오십 미터 앞
+    ko = 오십 미터 앞l
+    lt = Už penkiasdešimt metrų
     mr = पन्नास मीटर मध्ये
     nb = Om femti meter
     nl = Over vijftig meter
@@ -772,6 +788,7 @@
     it = Tra cento metri
     ja = 百メートル先
     ko = 백 미터 앞
+    lt = Už šimto metrų
     mr = शंभर मीटर मध्ये
     nb = Om hundre meter
     nl = Over honderd meter
@@ -814,6 +831,7 @@
     it = Tra duecento metri
     ja = 二百メートル先
     ko = 이백 미터 앞
+    lt = Už dviejų šimtų metrų
     mr = दोनशे मीटर मध्ये
     nb = Om to hundre meter
     nl = Over tweehonderd meter
@@ -856,6 +874,7 @@
     it = Tra duecento cinquanta metri
     ja = 二百五十メートル先
     ko = 이백오십 미터 앞
+    lt = Už du šimtai penkiasdešimt metrų
     mr = अडीचशे मीटर मध्ये
     nb = Om to hundre og femti meter
     nl = Over tweehonderdvijftig meter
@@ -898,6 +917,7 @@
     it = Tra trecento metri
     ja = 三百メートル先
     ko = 삼백 미터 앞
+    lt = Už trijų šimtų metrų
     mr = तीनशे मीटर मध्ये
     nb = Om tre hundre meter
     nl = Over driehonderd meter
@@ -940,6 +960,7 @@
     it = Tra quattrocento metri
     ja = 四百メートル先
     ko = 사백 미터 앞
+    lt = Už keturių šimtų metrų
     mr = चारशे मीटर मध्ये
     nb = Om fire hundre meter
     nl = Over vierhonderd meter
@@ -982,6 +1003,7 @@
     it = Tra cinquecento metri
     ja = 五百メートル先
     ko = 오백 미터 앞
+    lt = Už penkių šimtų metrų
     mr = पाचशे मीटर मध्ये
     nb = Om fem hundre meter
     nl = Over vijfhonderd meter
@@ -1024,6 +1046,7 @@
     it = Tra seicento metri
     ja = 六百メートル先
     ko = 육백 미터 앞
+    lt = Už šešių šimtų metrų
     mr = सहाशे मीटर मध्ये
     nb = Om seks hundre meter
     nl = Over zeshonderd meter
@@ -1066,6 +1089,7 @@
     it = Tra settecento metri
     ja = 七百メートル先
     ko = 칠백 미터 앞
+    lt = Už septynių šimtų metrų
     mr = सातशे मीटर मध्ये
     nb = Om sju hundre meter
     nl = Over zevenhonderd meter
@@ -1108,6 +1132,7 @@
     it = Tra settecento cinquanta metri
     ja = 七百五十メートル先
     ko = 칠백오십 미터 앞
+    lt = Už septynių šimtų penkiasdešimt metrų
     mr = साडेसातशे मीटर मध्ये
     nb = Om sju hundre og femti meter
     nl = Over zevenhonderdvijftig meter
@@ -1150,6 +1175,7 @@
     it = Tra ottocento metri
     ja = 八百メートル先
     ko = 팔백 미터 앞
+    lt = Už aštuonių šimtų metrų
     mr = आठशे मीटर मध्ये
     nb = Om åtte hundre meter
     nl = Over achthonderd meter
@@ -1192,6 +1218,7 @@
     it = Tra novecento metri
     ja = 九百メートル先
     ko = 구백 미터 앞
+    lt = Už devynių šimtų metrų
     mr = नऊशे मीटर मध्ये
     nb = Om ni hundre meter
     nl = Over negenhonderd meter
@@ -1234,6 +1261,7 @@
     it = Tra un chilometro
     ja = 一キロ先
     ko = 일 킬로미터 앞
+    lt = Už vieno kilometro
     mr = एक किलोमीटर मध्ये
     nb = Om en kilometer
     nl = Over één kilometer
@@ -1276,6 +1304,7 @@
     it = Tra un chilometro e mezzo
     ja = 一.五キロ先
     ko = 일점오 킬로미터 앞
+    lt = Už pusantro kilometro
     mr = दीड किलोमीटरमध्ये
     nb = Om halvannen kilometer
     nl = Over anderhalve kilometer
@@ -1318,6 +1347,7 @@
     it = Tra due chilometri
     ja = 二キロ先
     ko = 이 킬로미터 앞
+    lt = Už dviejų kilometrų
     mr = दोन किलोमीटर मध्ये
     nb = Om to kilometer
     nl = Over twee kilometer
@@ -1360,6 +1390,7 @@
     it = Tra due chilometri e mezzo
     ja = 二.五キロ先
     ko = 이점오 킬로미터 앞
+    lt = Už dviejų su puse kilometrų
     mr = अडीच किलोमीटरमध्ये
     nb = Om to og en halv kilometer
     nl = Over tweeëneenhalve kilometer
@@ -1402,6 +1433,7 @@
     it = Tra tre chilometri
     ja = 三キロ先
     ko = 삼 킬로미터 앞
+    lt = Už trijų kilometrų
     mr = तीन किलोमीटर मध्ये
     nb = Om tre kilometer
     nl = Over drie kilometer
@@ -1444,6 +1476,7 @@
     it = Poi
     ja = その先
     ko = 그 다음
+    lt = Tada
     mr = मग
     nb = deretter
     nl = Daarna
@@ -1496,6 +1529,7 @@
     it = Prendi la prima uscita.
     ja = 一番目の出口を出て。
     ko = 첫 번째 출구입니다.
+    lt = Išvažiuokite pirmuoju išvažiavimu.
     mr = पहिला निर्गमन घ्या
     nb = Ta første avkjøring.
     nl = Neem de eerste afslag.
@@ -1550,6 +1584,7 @@
     it = Prendi la seconda uscita.
     ja = 二番目の出口を出て。
     ko = 두 번째 출구입니다.
+    lt = Išvažiuokite antruoju išvažiavimu.
     mr = दुसरा निर्गमन घ्या
     nb = Ta andre avkjøring.
     nl = Neem de tweede afslag.
@@ -1604,6 +1639,7 @@
     it = Prendi la terza uscita.
     ja = 三番目の出口を出て。
     ko = 세 번째 출구입니다.
+    lt = Išvažiuokite trečiuoju išvažiavimu.
     mr = तिसरा निर्गमन घ्या
     nb = Ta tredje avkjøring.
     nl = Neem de derde afslag.
@@ -1658,6 +1694,7 @@
     it = Prendi la quarta uscita.
     ja = 四番目の出口を出て。
     ko = 네 번째 출구입니다.
+    lt = Išvažiuokite ketvirtuoju išvažiavimu.
     mr = चौथा निर्गमन घ्या
     nb = Ta fjerde avkjøring.
     nl = Neem de vierde afslag.
@@ -1712,6 +1749,7 @@
     it = Prendi la quinta uscita.
     ja = 五番目の出口を出て。
     ko = 다섯 번째 출구입니다.
+    lt = Išvažiuokite penktuoju išvažiavimu.
     mr = पाचवा निर्गमन घ्या
     nb = Ta femte avkjøring.
     nl = Neem de vijfde afslag.
@@ -1766,6 +1804,7 @@
     it = Prendi la sesta uscita.
     ja = 六番目の出口を出て。
     ko = 여섯 번째 출구입니다.
+    lt = Išvažiuokite šeštuoju išvažiavimu.
     mr = सहावा निर्गमन घ्या
     nb = Ta sjette avkjøring.
     nl = Neem de zesde afslag.
@@ -1820,6 +1859,7 @@
     it = Prendi la settima uscita.
     ja = 七番目の出口を出て。
     ko = 일곱 번째 출구입니다.
+    lt = Išvažiuokite septintuoju išvažiavimu.
     mr = सातवा निर्गमन घ्या
     nb = Ta sjuende avkjøring.
     nl = Neem de zevende afslag.
@@ -1874,6 +1914,7 @@
     it = Prendi l'ottava uscita.
     ja = 八番目の出口を出て。
     ko = 여덟 번째 출구입니다.
+    lt = Išvažiuokite aštuntuoju išvažiavimu.
     mr = आठवा निर्गमन घ्या
     nb = Ta åttende avkjøring.
     nl = Neem de achtste afslag.
@@ -1928,6 +1969,7 @@
     it = Prendi la nona uscita.
     ja = 九番目の出口を出て。
     ko = 아홉 번째 출구입니다.
+    lt = Išvažiuokite devintuoju išvažiavimu.
     mr = नववा निर्गमन घ्या
     nb = Ta niende avkjøring.
     nl = Neem de negende afslag.
@@ -1982,6 +2024,7 @@
     it = Prendi la decima uscita.
     ja = 十番目の出口を出て。
     ko = 열 번째 출구입니다.
+    lt = Išvažiuokite dešimtuoju išvažiavimu.
     mr = दहावा निर्गमन घ्या
     nb = Ta tiende avkjøring.
     nl = Neem de tiende afslag.
@@ -2036,6 +2079,7 @@
     it = Prendi l'undicesima uscita.
     ja = 十一番目の出口を出て。
     ko = 열한 번째 출구입니다.
+    lt = Išvažiuokite vienuoliktuoju išvažiavimu.
     mr = अकरावा निर्गमन घ्या
     nb = Ta ellevte avkjøring.
     nl = Neem de elfde afslag.
@@ -2090,6 +2134,7 @@
     it = Tra cinquanta piedi
     ja = 五十フィート先
     ko = 오십 피트 앞
+    lt = Už penkiasdešimt pėdų
     mr = पन्नास फुटांत
     nb = Om femti fot
     nl = Over vijftig voet
@@ -2132,6 +2177,7 @@
     it = Tra cento piedi
     ja = 百フィート先
     ko = 백 피트 앞
+    lt = Už šimto pėdų
     mr = शंभर फुटात
     nb = Om hundre fot
     nl = Over honderd voet
@@ -2175,6 +2221,7 @@
     ja = 二百フィート先
     ko = 이백 피트 앞
     mr = दोनशे फुटांत
+    lt = Už dviejų šimtų pėdų
     nb = Om to hundre fot
     nl = Over tweehonderd voet
     pl = Za dwieście stóp
@@ -2216,6 +2263,7 @@
     it = Tra trecento piedi
     ja = 三百フィート先
     ko = 삼백 피트 앞
+    lt = Už trijų šimtų pėdų
     mr = तीनशे फुटांत
     nb = Om tre hundre fot
     nl = Over driehonderd voet
@@ -2258,6 +2306,7 @@
     it = Tra quattrocento piedi
     ja = 四百フィート先
     ko = 사백 피트 앞
+    lt =  Už keturių šimtų pėdų
     mr = चारशे फुटांत
     nb = Om fire hundre fot
     nl = Over vierhonderd voet
@@ -2300,6 +2349,7 @@
     it = Tra cinquecento piedi
     ja = 五百フィート先
     ko = 오백 피트 앞
+    lt = Už penkių šimtų pėdų
     mr = पाचशे फुटात
     nb = Om fem hundre fot
     nl = Over vijfhonderd voet
@@ -2342,6 +2392,7 @@
     it = Tra seicento piedi
     ja = 六百フィート先
     ko = 육백 피트 앞
+    lt = Už šešių šimtų pėdų
     mr = सहाशे फुटांत
     nb = Om seks hundre fot
     nl = Over zeshonderd voet
@@ -2384,6 +2435,7 @@
     it = Tra settecento piedi
     ja = 七百フィート先
     ko = 칠백 피트 앞
+    lt = Už septynių šimtų pėdų
     mr = सातशे फुटांत
     nb = Om sju hundre fot
     nl = Over zevenhonderd voet
@@ -2426,6 +2478,7 @@
     it = Tra ottocento piedi
     ja = 八百フィート先
     ko = 팔백 피트 앞
+    lt = Už aštuonių šimtų pėdų
     mr = आठशे फुटांत
     nb = Om åtte hundre fot
     nl = Over achthonderd voet
@@ -2468,6 +2521,7 @@
     it = Tra novecento piedi
     ja = 九百フィート先
     ko = 구백 피트 앞
+    lt = Už devynių šimtų pėdų
     mr = नऊशे फुटांत
     nb = Om ni hundre fot
     nl = Over negenhonderd voet
@@ -2510,6 +2564,7 @@
     it = Tra mille piedi
     ja = 千フィート先
     ko = 천 피트 앞
+    lt = Už tūkstančio pėdų
     mr = एक हजार फुटात
     nb = Om tusen fot
     nl = Over duizend voet
@@ -2552,6 +2607,7 @@
     it = Tra mille cinquecento piedi
     ja = 千五百フィート先
     ko = 천오백 피트 앞
+    lt = Už tūkstančio penkių šimtų pėdų
     mr = पंधराशे फुटांत
     nb = Om femten hundre fot
     nl = Over vijftienhonderd voet
@@ -2594,6 +2650,7 @@
     it = Tra duemila piedi
     ja = 二千フィート先
     ko = 이천 피트 앞
+    lt = Už dviejų tūkstančių pėdų
     mr = दोन हजार फुटात
     nb = Om to tusen fot
     nl = Over tweeduizend voet
@@ -2636,6 +2693,7 @@
     it = Tra duemila cinquecento piedi
     ja = 二千五百フィート先
     ko = 이천오백 피트 앞
+    lt = Už dviejų tūkstančių penkių šimtų pėdų
     mr = पंचवीसशे फुटांत
     nb = Om to tusen fem hundre fot
     nl = Over vijfentwintighonderd voet
@@ -2678,6 +2736,7 @@
     it = Tra tremila piedi
     ja = 三千フィート先
     ko = 삼천 피트 앞
+    lt = Už trijų tūkstančių pėdų
     mr = तीन हजार फुटात
     nb = Om tre tusen fot
     nl = Over drieduizend voet
@@ -2720,6 +2779,7 @@
     it = Tra tremila cinquecento piedi
     ja = 三千五百フィート先
     ko = 삼천오백 피트 앞
+    lt = Už trijų tūkstančių penkių šimtų pėdų
     mr = पस्तीसशे फुटांत
     nb = Om tre tusen fem hundre fot
     nl = Over vijfendertighonderd voet
@@ -2762,6 +2822,7 @@
     it = Tra quattromila piedi
     ja = 四千フィート先
     ko = 사천 피트 앞
+    lt = Už keturių tūkstančių pėdų
     mr = चार हजार फुटात
     nb = Om fire tusen fot
     nl = Over vierduizend voet
@@ -2804,6 +2865,7 @@
     it = Tra quattromila cinquecento piedi
     ja = 四千五百フィート先
     ko = 사천오백 피트 앞
+    lt = Už keturių tūkstančių penkių šimtų pėdų
     mr = पंचेचाळीसशे फुटांत
     nb = Om fire tusen fem hundre fot
     nl = Over vijfenveertighonderd voet
@@ -2846,6 +2908,7 @@
     it = Tra cinquemila piedi
     ja = 五千フィート先
     ko = 오천 피트 앞
+    lt = Už penkių tūkstančių pėdų
     mr = पाच हजार फुटात
     nb = Om fem tusen fot
     nl = Over vijfduizend voet
@@ -2888,6 +2951,7 @@
     it = Tra un miglio
     ja = 一マイル先
     ko = 일 마일 앞
+    lt = Už vienos mylios
     mr = एक मैल मध्ये
     nb = Om en mile
     nl = Over één mijl
@@ -2930,6 +2994,7 @@
     it = Tra un miglio e mezzo
     ja = 一.五マイル先
     ko = 일점오 마일 앞
+    lt = Už pusantros mylios
     mr = दीड मैल मध्ये
     nb = Om halvannen mile
     nl = Over anderhalve mijl
@@ -2972,6 +3037,7 @@
     it = Tra due miglia
     ja = 二マイル先
     ko = 이 마일 앞
+    lt = Už dviejų mylių
     mr = दोन मैल मध्ये
     nb = Om to mile
     nl = Over twee mijl
@@ -3014,6 +3080,7 @@
     it = Autovelox in prossimità
     ja = この先に自動速度違反取締装置があります。
     ko = 전방에 카메라
+    lt = Artėja greičio matavimo kamera.
     mr = पुढे कॅमेरा आहे
     nb = Fotoboks foran
     nl = Camera in zicht
