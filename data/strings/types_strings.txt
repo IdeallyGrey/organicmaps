@@ -7161,7 +7161,7 @@
     fr = Frontière nationale
     he = גבול לאומי
     it = Confine nazionale
-    l t= Valstybinė siena
+    lt= Valstybinė siena
     mr = राष्ट्रीय सीमा
     nl = Natiegrens
     pl = Granica państwa
@@ -17386,7 +17386,7 @@
     he = אזור תעשייה
     it = Zona industriale
     ja = 工業用地
-    lt Pramoninė zona
+    lt = Pramoninė zona
     mr = औद्योगिक जमीन
     nl = Industrieterrein
     pl = Obszar przemysłowy
