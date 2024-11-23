@@ -1286,6 +1286,7 @@
     it = Impostazioni della posizione
     ja = ロケーション設定
     ko = 위치 설정
+    lt = Buvimo vietos nustatymai
     lv = Atrašanās vietas iestatījumi
     mr = स्थान सेटिंग्ज
     mt = Settings tal-lokażżjoni
@@ -2119,6 +2120,7 @@
     it = Luoghi preferiti e percorsi
     ja = ブックマークとトラック
     ko = 북마크 및 트랙
+    lt = Žymekliai ir keliai
     lv = Grāmatzīmes un ceļi
     mr = खूणपत्रे आणि ट्रॅक
     mt = Bookmarks u Korsi
@@ -2449,6 +2451,7 @@
     it = Seleziona il luogo in cui le mappe devono essere scaricate
     ja = マップのダウンロード先を選択してください
     ko = 지도가 다운로드될 곳을 선택합니다
+    lt = Pasirinkite aplanką, į kurį norite atsisiųsti žemėlapius.
     lv = Norādiet mapi, kurā lejupielādēt kartes.
     mr = नकाशे डाउनलोड करायचे ठिकाण निवडा
     mt = Għażel il-post fejn tixtieq tniżżel il-mapep.
@@ -3219,6 +3222,7 @@
     it = Di seconda mano
     ja = 中古品
     ko = 중고
+    lt = Naudotos prekės
     lv = Lietotas preces
     mr = वापरलेले
     nb = Brukt
@@ -5985,6 +5989,7 @@
     it = Annunciare i nomi delle strade
     ja = 通りの名前を発表
     ko = "거리 이름 발표"
+    lt = Skelbti gatvių pavadinimus
     lv = Izrunāt ielu nosaukumus
     nb = Kunngjør gatenavn
     nl = Straatnamen aankondigen
@@ -6028,6 +6033,7 @@
     it = Se abilitato, verrà pronunciato ad alta voce il nome della via o dell'uscita in cui svoltare.
     ja = 有効にすると、右折する通りまたは出口の名前が読み上げられます。
     ko = "사용하도록 설정하면 회전할 거리 또는 출구의 이름을 소리내어 말합니다."
+    lt = Kai ši funkcija įjungta, bus ištartas gatvės arba išvažiavimo pavadinimas, į kurį reikia pasukti.
     lv = Kad ieslēgts, ielas vai ceļa nobrauktuves nosaukumu skaļi izrunās.
     nb = Når aktivert, vil navnet på gaten eller avkjørselen du skal svinge inn på, bli lest opp.
     nl = Indien ingeschakeld, wordt de naam van de straat of afrit waar u afslaat hardop uitgesproken.
@@ -6119,6 +6125,7 @@
     it = Prova le indicazioni vocali (TTS, Text-To-Speech)
     ja = 音声案内をテストする（TTS、Text-To-Speech）
     ko = 음성 길 안내 테스트(TTS, 텍스트 음성 변환)
+    lt = Balso nurodymų testavimas (TTS, tekstas į kalbą)
     lv = Pārbaudīt balss norādes (TTS, teksta pārvēršana runā)
     mr = चाचणी आवाज दिशानिर्देश (TTS, टेक्स्ट-टू-स्पीच)
     nb = Test taleanvisninger (TTS, tekst-til-tale)
@@ -6165,6 +6172,7 @@
     it = Controlla il volume o le impostazioni del sistema di sintesi vocale se ora non senti la voce.
     ja = 音声が聞こえない場合は、音量またはシステムの音声合成設定を確認する。
     ko = 지금 음성이 들리지 않으면 볼륨 또는 시스템 텍스트 음성 변환 설정을 확인하세요.
+    lt = Jei dabar negirdite balso, patikrinkite garsumą arba sistemos teksto į kalbą nustatymus.
     lv = Ja nedzirdat balsi, pārbaudiet skaļumu vai teksta pārvēršanas runā iestatījumus.
     mr = तुम्हाला आता आवाज ऐकू येत नसल्यास व्हॉल्यूम किंवा सिस्टम टेक्स्ट-टू-स्पीच सेटिंग्ज तपासा.
     nb = Kontroller volumet eller systeminnstillingene for tekst-til-tale hvis du ikke hører stemmen nå.
@@ -14759,6 +14767,7 @@
     en = Level: %s
     de = Stock: %s
     fr = Niveau : %s
+    lt = Aukštas: %s
     lv = Stāvi virs zemes: %s
     ru = Этаж: %s
     tr = Kat sayısı:  %s
@@ -18099,6 +18108,7 @@
     it = Foto, recensioni, prenotazioni
     ja = 写真、レビュー、予約
     ko = 사진, 리뷰, 예약
+    lt = Nuotraukos, atsiliepimai, užsakymai
     lv = Foto, atsauksmes, rezervācija
     mr = फोटोपुनरावलोकनेबुकिंगबुकिंग
     nb = Bilder, anmeldelser, bestilling
@@ -18145,6 +18155,7 @@
     it = Il bonus ricevuto per ogni prenotazione effettuata tramite questo link è destinato allo sviluppo di Organic Maps.
     ja = このリンクを経由した予約の紹介ボーナスは、Organic Mapsの発展のために使われる。
     ko = 이 링크를 통해 예약할 때마다 받는 추천 보너스는 오가닉맵 개발에 사용됩니다.
+    lt = Premija, gauta už kiekvieną užsakymą per nuorodą, skiriama „Organic Maps“ vystymui.
     lv = No ieteikuma saites saņemtais bonuss par katru rezervāciju nonāk „Organic Maps“ attīstīšanai.
     mr = या लिंकद्वारे प्रत्येक बुकिंगसाठी मिळणारा रेफरल बोनस ऑरगॅनिक नकाशांच्या विकासासाठी जातो.
     nb = Henvisningsbonusen som mottas for hver bestilling via denne lenken, går til utviklingen av Organic Maps.
@@ -18191,6 +18202,7 @@
     it = Dettagli su Kayak
     ja = Kayak で詳細表示
     ko = Kayak의 세부 정보
+    lt = Informacija apie „Kayak“
     lv = Informācija par „Kayak“
     mr = कायाक वर तपशील
     nb = Mer informasjon om Kayak
@@ -21682,6 +21694,9 @@
     it:other = %d preferiti
     ja = %d個のブックマーク
     ko = %d 북마크
+    lt:one = %d žymė
+    lt:other = %d žymės
+    lt:zero = %d žymų
     lv:one = %d grāmatzīme
     lv:other = %d grāmatzīmes
     lv:zero = %d grāmatzīmju
@@ -22639,6 +22654,8 @@
     it:other = %d file trovati. Li vedrai dopo la conversione.
     ja = %d ファイルが見つかりました。 あなたは変換後にそれらを見るでしょう。
     ko = %d 파일을 찾았습니다. 회심 후 그들을 볼 수 있습니다.
+    lt:one = Rastas %d failas. Jį galite pamatyti po konvertavimo.
+    lt:other = Rasta %d failų. Juos galite pamatyti po konvertavimo.
     lv:one = Lietotne atrada %d jaunu datni. Varat to apskatīt pēc konvertācijas.
     lv:other = Lietotne atrada %d jaunas datnes. Varat tās apskatīt pēc konvertācijas.
     lv:zero = Lietotne atrada %d jaunu datņu. Varat tās apskatīt pēc konvertācijas.
@@ -22903,6 +22920,9 @@
     it:other = %d percorsi
     ja = %dの追跡
     ko = %d 추적
+    lt:one = %d kelias
+    lt:other = %d keliai
+    lt:zero = %d kelių
     lv:one = %d ceļš
     lv:other = %d ceļi
     lv:zero = %d ceļu
@@ -24617,6 +24637,7 @@
     it = Evita le strade a pedaggio
     ja = 有料道路を避ける
     ko = 유료 도로 피하기
+    lt = Vengti mokamų kelių
     lv = Izvairīties no maksas ceļiem
     mr = टोल रस्ते टाळा
     nb = Unngå bompenger
@@ -24756,6 +24777,7 @@
     it = Evita l'autostrada
     ja = 高速道路を避ける
     ko = 고속도로를 피하세요
+    lt = Vengti greitkelių
     lv = Izvairīties no automaģistrālēm
     mr = मोटरवे टाळा
     nb = Unngå motorveien
@@ -29065,6 +29087,7 @@
     it = Tieni lo schermo acceso
     ja = 画面を表示したままにする
     ko = 화면 켜짐 유지
+    lt = Laikykite ekraną įjungtą
     lv = Paturēt ekrānu ieslēgtu
     mr = स्क्रीन चालू ठेवा
     nb = Behold skjermen på
@@ -29111,6 +29134,7 @@
     it = Se abilitato, lo schermo sarà sempre acceso quando si visualizza la mappa.
     ja = 有効にすると、地図を表示するときにスクリーンが常にオンになる。
     ko = 활성화하면 지도를 표시할 때 화면이 항상 켜져 있습니다.
+    lt = Kai įjungta, rodant žemėlapį ekranas visada bus įjungtas.
     lv = Kad ieslēgts, rādot karti, ekrāns vienmēr būs ieslēgts.
     mr = सक्षम असतानानकाशाशप्रदर्शितिकरतानानस्क्रीनीनेहमीमचालूाअसेलसेल.
     nb = Når dette er aktivert, vil skjermen alltid være på når kartet vises.
@@ -29671,6 +29695,7 @@
     hu = https://organicmaps.app/hu/
     id = https://organicmaps.app/id/
     it = https://organicmaps.app/it/
+    lt = https://organicmaps.app/lt/
     mr = https://organicmaps.app/mr/
     nl = https://organicmaps.app/nl/
     pl = https://organicmaps.app/pl/
@@ -29741,6 +29766,7 @@
     it = Grazie per aver utilizzato le nostre mappe costruite dalla comunità!
     ja = 私たちのコミュニティが作った地図をご利用いただき、ありがとうございます！
     ko = 커뮤니티에서 제작한 지도를 이용해 주셔서 감사합니다!
+    lt = Dėkojame, kad naudojatės mūsų bendruomenės sukurtais žemėlapiais!
     lv = Paldies, ka izmantojat mūsu kopienas veidotās kartes!
     mr = आमचे समुदाय-निर्मित नकाशे वापरल्याबद्दल धन्यवाद!
     nb = Takk for at du bruker kartene vi har laget i fellesskap!
@@ -29785,6 +29811,7 @@
     it = Con le tue donazioni e il tuo supporto, possiamo creare le migliori mappe del mondo!
     ja = あなたの寄付とサポートがあれば、世界で最高の地図を作成できます。
     ko = 여러분의 기부와 지원으로 우리는 세계 최고의 지도를 만들 수 있습니다!
+    lt = Su jūsų aukomis ir parama galime sukurti geriausius žemėlapius pasaulyje!
     lv = Ar jūsu ziedojumiem un atbalstu varam izveidot pasaulē labākās kartes!
     mr = तुमच्या देणग्या आणि समर्थनासह, आम्ही जगातील सर्वोत्तम नकाशे तयार करू शकतो!
     nb = Med dine donasjoner og støtte kan vi lage de beste kartene i verden!
@@ -29829,7 +29856,8 @@
     it = Ti piace la nostra app? Si prega di donare per sostenere lo sviluppo! Non ti piace ancora? Fatecelo sapere e risolveremo il problema!
     ja = 私たちのアプリは気に入っていますか? 開発をサポートするために寄付をお願いします！ まだ気に入らないですか？ お知らせください。修正させていただきます。
     ko = 우리 앱이 마음에 드시나요? 발전을 위해 기부해주세요! 아직 마음에 들지 않으세요? 알려주시면 수정하겠습니다!
-    lv = lv = Vai jums patīk mūsu lietotne? Lūdzam ziedot tās attīstībai! Varbūt tā nepatīk? Tādā gadījumā lūdzam mums pastāstīt, kas tajā nepatīk, lai varam „Organic Maps“ uzlabot!
+    lt = Ar jums patinka mūsų programėlė? Paaukokite ir paremkite programėlės kūrimą! Kol kas nepatinka? Praneškite mums, kodėl, ir mes tai ištaisysime!
+    lv = Vai jums patīk mūsu lietotne? Lūdzam ziedot tās attīstībai! Varbūt tā nepatīk? Tādā gadījumā lūdzam mums pastāstīt, kas tajā nepatīk, lai varam „Organic Maps“ uzlabot!
     mr = तुम्हाला आमचे अॅप आवडते का? कृपया विकासाला पाठिंबा देण्यासाठी देणगी द्या! अजून आवडत नाही? कृपया आम्हाला कळवा आणि आम्ही त्याचे निराकरण करू!
     nb = Liker du appen vår? Vennligst doner for å støtte utviklingen! Liker du det ikke ennå? Gi oss beskjed, så fikser vi det!
     nl = Vind je onze app leuk? Doneer alsjeblieft om de ontwikkeling te ondersteunen! Vind je het nog niet leuk? Laat het ons weten, dan lossen we het op!
@@ -29873,6 +29901,7 @@
     it = Se conosci uno sviluppatore di software, puoi chiedergli di implementare una funzionalità di cui hai bisogno.
     ja = ソフトウェア開発者を知っている場合は、必要な機能を実装するように依頼できます。
     ko = 소프트웨어 개발자를 알고 있다면 필요한 기능을 구현하도록 요청할 수 있습니다.
+    lt = Jei pažįstate programuotoją, galite jo(-s) paprašyti įdiegti jums reikalingą funkciją.
     lv = Ja pazīstat kādu programmatūras izstrādātāju, varat viņam vai viņai palūgt ieviest funkciju, kas jums pietrūkst.
     mr = तुम्हाला सॉफ्टवेअर डेव्हलपर माहीत असल्यास, तुम्ही त्याला किंवा तिला तुम्हाला आवश्यक असलेले वैशिष्ट्य लागू करण्यास सांगू शकता.
     nb = Hvis du kjenner en programvareutvikler, kan du be ham eller henne implementere en funksjon du trenger.
@@ -29963,6 +29992,7 @@
     it = Sai che puoi selezionare la tua posizione attuale sulla mappa?
     ja = 地図上で現在地を選択できることをご存知ですか?
     ko = 지도에서 현재 위치를 선택할 수 있다는 것을 알고 계셨나요?
+    lt = Ar žinojote, kad galite pasirinkti savo dabartinę vietą žemėlapyje?
     lv = Vai zinājāt, ka ir iespējams atlasīt jūsu pašreizējo atrašanās vietu kartē?
     mr = तुम्हाला माहीत आहे का की तुम्ही नकाशावर तुमचे वर्तमान स्थान निवडू शकता?
     nb = Vet du at du kan velge din nåværende posisjon på kartet?
@@ -30007,6 +30037,7 @@
     it = Puoi aiutare a tradurre la nostra app nella tua lingua.
     ja = 私たちのアプリをあなたの言語に翻訳するのを手伝ってください。
     ko = 우리 앱을 귀하의 언어로 번역하는 데 도움을 줄 수 있습니다.
+    lt = Jūs galite padėti išversti mūsų programėlę į savo kalbą.
     lv = Varat palīdzēt tulkot lietotni savā valodā.
     mr = तुम्ही आमच्या अॅपचे तुमच्या भाषेत भाषांतर करण्यात मदत करू शकता.
     nb = Du kan hjelpe til med å oversette appen vår til ditt språk.
@@ -30051,6 +30082,7 @@
     it = La nostra app è sviluppata da alcuni appassionati e dalla community.
     ja = 私たちのアプリは数人の愛好家とコミュニティによって開発されました。
     ko = 우리 앱은 소수의 열성팬과 커뮤니티에 의해 개발되었습니다.
+    lt = Mūsų programėlę sukūrė keli entuziastai ir mūsų bendruomenė.
     lv = Šo lietotni veido daži entuziasti un mūsu kopiena.
     mr = आमचे अॅप काही उत्साही आणि समुदायाने विकसित केले आहे.
     nb = Appen vår er utviklet av noen få entusiaster og samfunnet.
@@ -30095,6 +30127,7 @@
     it = Puoi facilmente correggere e migliorare i dati della mappa.
     ja = 地図データを簡単に修正および改善できます。
     ko = 지도 데이터를 쉽게 수정하고 개선할 수 있습니다.
+    lt = Galite lengvai taisyti ir tobulinti žemėlapio duomenis.
     lv = Kartes datus varat viegli labot un papildināt.
     mr = तुम्ही नकाशा डेटा सहजपणे दुरुस्त करू शकता आणि सुधारू शकता.
     nb = Du kan enkelt fikse og forbedre kartdataene.
@@ -30139,6 +30172,7 @@
     it = Il nostro obiettivo principale è creare mappe veloci, incentrate sulla privacy e facili da usare che adorerai.
     ja = 私たちの主な目標は、ユーザーに気に入っていただける、プライバシーを重視した使いやすいマップを高速に構築することです。
     ko = 우리의 주요 목표는 귀하가 좋아할 빠르고 개인 정보 보호에 중점을 두고 사용하기 쉬운 지도를 구축하는 것입니다.
+    lt = Pagrindinis mūsų tikslas - kurti greitus, į privatumą orientuotus, lengvai naudojamus žemėlapius, kurie jums patinka naudoti.
     lv = Mūsu mērķis ir izveidot viegli lietojamas kartes, kas respektē jūsu privātumu un kuras jums patiks.
     mr = आमचे मुख्य ध्येय जलद, गोपनीयता-केंद्रित, वापरण्यास-सुलभ नकाशे तयार करणे आहे जे तुम्हाला आवडतील.
     nb = Vårt hovedmål er å bygge raske, personvernfokuserte, brukervennlige kart som du vil elske.
@@ -30184,6 +30218,7 @@
     it = Ora stai utilizzando Organic Maps sullo schermo del telefono
     ja = 端末の画面でOrganic Mapsを使用している
     ko = 이제 휴대폰 화면에서 유기적 지도를 사용하고 있습니다
+    lt = Dabar telefono ekrane naudojate „Organic Maps“
     lv = Tagad „Organic Maps“ izmantojat tālruņa ekrānā
     mr = तुम्ही आता फोन स्क्रीनवर ऑरगॅनिक नकाशे वापरत आहात
     nb = Du bruker nå Organic Maps på telefonskjermen
@@ -30230,6 +30265,7 @@
     it = Ora stai utilizzando le Organic Maps sullo schermo dell'auto
     ja = あなたは今、車の画面でオーガニック・マップを使用している
     ko = 이제 자동차 화면에서 유기적 지도를 사용하고 있습니다
+    lt = Dabar automobilio ekrane naudojate „Organic Maps“
     lv = Tagad „Organic Maps“ izmantojat automobiļa ekrānā
     mr = तुम्ही आता कार स्क्रीनवर ऑरगॅनिक नकाशे वापरत आहात
     nb = Du bruker nå Organic Maps på bilskjermen
@@ -30275,6 +30311,7 @@
     it = Sei connesso ad Android Auto
     ja = アンドロイド・オートに接続している
     ko = Android Auto에 연결되어 있습니다.
+    lt = Esate prisijungę prie „Android Auto“
     lv = Savienojās ar „Android Audio“
     mr = तुम्ही Android Auto शी कनेक्ट आहात
     nb = Du er koblet til Android Auto
@@ -30320,6 +30357,7 @@
     it = Continua nel telefono
     ja = 電話で続ける
     ko = 전화기에서 계속
+    lt = Tęsti telefone
     lv = Turpināt tālrunī
     mr = फोनवर सुरू ठेवा
     nb = Fortsett i telefonen
@@ -30366,6 +30404,7 @@
     it = Allo schermo dell'auto
     ja = 車のスクリーンへ
     ko = 차량 화면으로 이동
+    lt = Automobilio ekrane
     lv = Uz auto ekrānu
     mr = कारच्या स्क्रीनकडे
     nb = Til bilens skjerm
@@ -30411,6 +30450,7 @@
     it = Questa applicazione richiede l'accesso alla tua posizione per la navigazione.
     ja = このアプリケーションは、ナビゲーションのために位置情報へのアクセスを必要とする。
     ko = 이 애플리케이션을 사용하려면 내비게이션 목적으로 사용자 위치에 액세스해야 합니다.
+    lt = Šiai programėlei reikia prieigos prie jūsų buvimo vietos navigacijos tikslais.
     lv = Lai darbotos navigācija, lietotnei ir nepieciešama ierīces atrašanās vietas informācija.
     mr = नेव्हिगेशन हेतूंसाठी या अनुप्रयोगास आपल्या स्थानावर प्रवेश आवश्यक आहे.
     nb = Denne applikasjonen krever tilgang til posisjonen din for navigasjonsformål.
@@ -30456,6 +30496,7 @@
     it = Concessione dei permessi
     ja = 許可を与える
     ko = 권한 부여
+    lt = Suteikti leidimus
     lv = Atļaut piekļuvi
     mr = परवानग्या द्या
     nb = Gi tillatelser
@@ -30502,6 +30543,7 @@
     it = Collegato all'auto
     ja = 自動車に接続されている
     ko = 차량에 연결
+    lt = Prijungtas prie automobilio
     lv = Savienots ar automobili
     mr = कारला जोडलेले
     nb = Tilkoblet til bil
