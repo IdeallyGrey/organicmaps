@@ -1859,7 +1859,7 @@
     it = Aria compressa
     ja = 圧縮空気
     ko = 압축 공기
-    lt= Suslėgtas oras
+    lt = Suslėgtas oras
     mr = संकुचित हवा
     nb = Komprimert luft
     nl = Samengeperste lucht
@@ -6886,7 +6886,7 @@
     he = קיר תמך
     it = Muro di sostegno
     ja = 擁壁
-    lt= Atraminė siena
+    lt = Atraminė siena
     mr = संधारक भिंत
     nl = Keermuur
     pl = Mur oporowy
@@ -7003,7 +7003,7 @@
     it = Barriera ferroviaria
     ja = ブームバリア
     ko = 차량차단기
-    lt= Pasukamieji vartai
+    lt = Pasukamieji vartai
     mr = झुलते दार
     nb = Bom
     nl = Slagboom
@@ -7043,7 +7043,7 @@
     it = Casello di pedaggio
     ja = 料金所
     ko = 톨게이트
-    lt= Mokesčių rinkimo stendas
+    lt = Mokesčių rinkimo stendas
     mr = टोल बूथ
     nb = Bomstasjon
     nl = Tolhokje
@@ -7161,7 +7161,7 @@
     fr = Frontière nationale
     he = גבול לאומי
     it = Confine nazionale
-    lt= Valstybinė siena
+    lt = Valstybinė siena
     mr = राष्ट्रीय सीमा
     nl = Natiegrens
     pl = Granica państwa
