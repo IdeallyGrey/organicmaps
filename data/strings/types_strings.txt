@@ -24,6 +24,7 @@
     it = Indirizzo/Blocco
     ja = アドレス/ブロック
     ko = 주소/블록
+    lt = Adresas/Kvartalas
     mr = पत्ता/ब्लॉक
     nb = Adresse/blokk
     nl = Adres/blok
@@ -92,6 +93,7 @@
     hi = आकाशीय रज्जुमार्ग
     it = Teleferica
     ja = ロープウェイ
+    lt = Lynų keltuvas
     mr = हवाई मार्ग
     nb = Pendeltaubane
     nl = Cabinelift
@@ -121,6 +123,7 @@
     he = רכבל סקי
     it = Seggiovia
     ja = チェアリフト
+    lt = Kėdžių keltuvas
     mr = हवाई मार्ग
     nb = Stolheis
     nl = Stoeltjeslift
@@ -270,6 +273,7 @@
     fr = Equipement aérien
     it = Infrastruttura aeroportuale
     ja = 空路
+    lt = Skrydžių erdvės infrastruktūra
     mr = हवाई आधार संरचना
     nl = Luchtvaartinfrastructuur
     pl = Infrastruktura lotnicza
@@ -304,6 +308,7 @@
     it = Aeroporto
     ja = 空港
     ko = 공항
+    lt = Oro uostas
     mr = विमानतळ
     nb = Flyplass
     nl = Vliegveld
@@ -344,6 +349,7 @@
     it = Aeroporto
     ja = 空港
     ko = 공항
+    lt = Tarptautinis oro uostas
     mr = आंतरराष्ट्रीय विमानतळ
     nb = Flyplass
     nl = Vliegveld
@@ -400,6 +406,7 @@
     he = שער עליה למטוס
     it = Cancello aeroportuale
     ja = 搭乗口
+    lt = Oro uosto vartai
     mr = दार
     nl = Gate
     pl = Wyjście lotniskowe
@@ -433,6 +440,7 @@
     it = Piattaforma per elicotteri
     ja = ヘリポート
     ko = 헬기착륙장
+    lt = Sraigtasparnių nusileidimo aikštelė
     mr = हेलिपॅड
     nl = Heliplatform
     pl = Lądowisko dla helikopterów
@@ -465,6 +473,7 @@
     hi = उड़ानपट्टी
     it = Pista di decollo/atterraggio
     ja = 滑走路
+    lt = Kilimo takas
     mr = धावपट्टी
     nl = Startbaan
     pl = Droga startowa
@@ -517,6 +526,7 @@
     he = מסוף נוסעים
     it = Terminal aeroportuale
     ja = 空港ターミナルビル
+    lt = Oro uosto terminalas
     mr = टर्मिनल
     nl = Luchthaventerminal
     pl = Terminal lotniskowy
@@ -595,6 +605,7 @@
     it = Centro artistico
     ja = 芸術センター
     ko = 예술 회관
+    lt = Menų centras
     mr = कला केंद्र
     nb = Kunstsenter
     nl = Kunstcentrum
@@ -631,6 +642,7 @@
     hi = एटीएम
     hu = Bankautomata
     it = Bancomat
+    lt = Bankomatas
     nb = Minibank
     nl = Geldautomaat
     pl = Bankomat
@@ -665,6 +677,7 @@
     it = Banca
     ja = 銀行
     ko = 은행
+    lt = Bankas
     mr = बँक
     nl = Bank
     pl = Bank
@@ -698,6 +711,7 @@
     it = Bar alcolico
     ja = 居酒屋
     ko = 바
+    lt = Baras
     mr = बार
     nl = Bar
     pl = Bar alkoholowy
@@ -778,6 +792,7 @@
     it = Panchina
     ja = ベンチ
     ko = 벤치
+    lt = Suolas
     mr = बाक
     nb = Benk
     nl = Zitbank
@@ -820,6 +835,7 @@
     it = Parcheggio biciclette
     ja = 駐輪場
     ko = 자전거 주차장
+    lt = Dviračių stovėjimo vietos
     mr = सायकल वाहनतळ
     nb = Sykkelparkering
     nl = Fietsenstalling
@@ -861,6 +877,7 @@
     it = Noleggio biciclette
     ja = レンタサイクル
     ko = 자전거 대여
+    lt = Dviračių nuoma
     mr = भाड्याची सायकल
     nb = Sykkelutleie
     nl = Fietsverhuur
@@ -898,6 +915,7 @@
     it = Stazione di riparazione biciclette
     ja = 自転車修理ステーション
     ko = 자전거 수리소
+    lt = Dviračių taisymo stotis
     nb = Sykkelreparasjonsstasjon
     nl = Fiets reparatie station
     pl = Stacja naprawy rowerów
@@ -968,6 +986,7 @@
     it = Bordello
     ja = 売春宿
     ko = 사창가
+    lt = Viešnamis
     mr = वेश्यालय
     nb = Bordell
     nl = Bordeel
@@ -1008,6 +1027,7 @@
     it = Cambio valute
     ja = 外貨両替所
     ko = 환전
+    lt = Valiutos keitimas
     mr = चलन विनिमय
     nb = Valutaveksling
     nl = Wisselkantoor
@@ -1048,6 +1068,7 @@
     it = Autostazione
     ja = バスステーション
     ko = 버스 터미널
+    lt = Autobusų stotis
     mr = बस स्थानक
     nb = Busstasjon
     nl = Busstation
@@ -1088,6 +1109,7 @@
     it = Caffè
     ja = カフェ
     ko = 카페
+    lt = Kavinė
     mr = अमृततुल्य
     nb = Kafé
     nl = Café
@@ -1129,6 +1151,7 @@
     it = Noleggio automobili
     ja = レンタカー
     ko = 카 렌탈
+    lt = Automobilių nuoma
     mr = भाड्याची गाडी
     nb = Bilutleie
     nl = Autoverhuur
@@ -1208,6 +1231,7 @@
     it = Lavaggio auto
     ja = 洗車場
     ko = 세차
+    lt = Automobilių plovykla
     mr = कार धुणे
     nb = Bilvask
     nl = Car Wash
@@ -1247,6 +1271,7 @@
     it = Casinò
     ja = カジノ
     ko = 카지노
+    lt = Kazino
     mr = जुगारगृह
     nb = Kasino
     nl = Casino
@@ -1287,6 +1312,7 @@
     it = Gioco d'azzardo
     ja = ギャンブル
     ko = 도박
+    lt = Lošimas
     mr = जुगार
     nb = Gambling
     nl = Gokken
@@ -1493,6 +1519,7 @@
     it = Stazione di ricarica per autoveicoli
     ja = 自動車充電ステーション
     ko = 자동차 충전소
+    lt = Elektromobilių įkrovimo stotis
     mr = मोटार कार चार्जिंग स्टेशन
     nb = Ladestasjon for biler
     nl = Oplaadstation voor auto's
@@ -1534,6 +1561,7 @@
     it = Asilo
     ja = 託児所
     ko = 보육
+    lt = Vaikų darželis
     mr = बालवाडी
     nb = Daghjem
     nl = Crèche
@@ -1574,6 +1602,7 @@
     it = Cinema
     ja = 映画館
     ko = 영화관
+    lt = Kino teatras
     mr = चित्रपटगृह
     nb = Kino
     nl = Bioscoop
@@ -1615,6 +1644,7 @@
     it = Sala da bowling
     ja = ボーリング場
     ko = 볼링장
+    lt = Boulingo alėja
     mr = गोलंदाजी गल्ली
     nb = Bowlinghall
     nl = Bowlingbaan
@@ -1656,6 +1686,7 @@
     it = Clinica
     ja = クリニック
     ko = 클리닉
+    lt = Klinika
     mr = चिकित्सालय
     nb = Klinikk
     nl = Kliniek
@@ -1696,6 +1727,7 @@
     it = Collegio
     ja = カレッジ
     ko = 칼리지
+    lt = Kolegija
     mr = महाविद्यालय
     nb = Høyskole
     nl = Hogeschool
@@ -1736,6 +1768,7 @@
     it = Centro ricreativo
     ja = コミュニティセンター
     ko = 커뮤니티센터
+    lt = Bendruomenės centras
     mr = समुदाय केंद्र
     nb = Samfunnshus
     nl = Gemeenschapscentrum
@@ -1776,6 +1809,7 @@
     it = Aria compressa
     ja = 圧縮空気
     ko = 압축 공기
+    lt= Suslėgtas oras
     mr = संकुचित हवा
     nb = Komprimert luft
     nl = Samengeperste lucht
@@ -1859,6 +1893,7 @@
     it = Tribunale
     ja = 裁判所
     ko = 법원
+    lt = Teismo rūmai
     mr = न्यायालय
     nb = Domstol
     nl = Rechtbank
@@ -1899,6 +1934,7 @@
     it = Dentista
     ja = 歯医者
     ko = 치과
+    lt = Odontologas
     mr = दंतवैद्य
     nb = Tannlege
     nl = Tandarts
@@ -1938,6 +1974,7 @@
     it = Studio medico
     ja = 医院
     ko = 개인병원
+    lt = Gydytojas
     mr = डॉक्टर
     nb = Legekontor
     nl = Huisartsenpost
@@ -1977,6 +2014,7 @@
     it = Acqua potabile
     ja = 水飲み場
     ko = 음수대
+    lt = Geriamasis vanduo
     mr = पिण्याचे पाणी
     nb = Drikkevann
     nl = Drinkwater
@@ -2022,6 +2060,7 @@
     it = Scuola guida
     ja = 自動車教習所
     ko = 운전학원
+    lt = Vairavimo mokykla
     mr = वाहनचालक शाळा
     nb = Kjøreskole
     nl = Rijschool
@@ -2106,6 +2145,7 @@
     it = Trasferimento di denaro
     ja = 送金
     ko = 송금
+    lt = Pinigų pervedimas
     mr = पैसे हस्तांतरण
     nb = Pengeoverføring
     nl = Overschrijving
@@ -2149,6 +2189,7 @@
     it = Scuola di musica
     ja = 音楽学校
     ko = 음악 학교
+    lt = Muzikos mokykla
     nb = Musikkskole
     nl = Muziekschool
     pl = Szkoła muzyczna
@@ -2190,6 +2231,7 @@
     it = Scuola di lingue
     ja = 語学学校
     ko = 언어 학교
+    lt = Kalbų mokykla
     nb = Språkskole
     nl = Taalschool
     pl = Szkoła językowa
@@ -2229,6 +2271,7 @@
     it = Ambasciata
     ja = 大使館
     ko = 대사관
+    lt = Ambasada
     mr = दूतावास
     nb = Ambassade
     nl = Ambassade
@@ -2269,6 +2312,7 @@
     it = Fast food
     ja = ファストフード
     ko = 패스트 푸드
+    lt = Greitasis maistas
     mr = फास्ट फूड
     nb = Hurtigmat
     nl = Fast food
@@ -2309,6 +2353,7 @@
     it = Terminal traghetti
     ja = フェリー
     ko = 페리
+    lt = Keltas
     mr = होडी
     nb = Ferje
     nl = Veerpont
@@ -2350,6 +2395,7 @@
     it = Squadra antincendio
     ja = 消防署
     ko = 소방서
+    lt = Gaisrinė
     mr = अग्निशमन केंद्र
     nb = Brannstasjon
     nl = Brandweer
@@ -2414,6 +2460,7 @@
     it = Fontana
     ja = 噴水
     ko = 분수
+    lt = Fontanas
     mr = कारंजे
     nb = Fontene
     nl = Fontein
@@ -2456,6 +2503,7 @@
     it = Stazione di rifornimento
     ja = ガソリンスタンド
     ko = 주유소
+    lt = Degalinė
     mr = पेट्रोल पंप
     nb = Bensinstasjon
     nl = Tankstation
@@ -2498,6 +2546,7 @@
     it = Cimitero
     ja = 墓地
     ko = 묘소
+    lt = Kapinės
     mr = स्मशानभूमी
     nb = Gravplass
     nl = Kerkhof
@@ -2531,6 +2580,7 @@
     hi = ईसाई कब्रिस्तान
     it = Cimitero cristiano
     ja = キリスト教墓地
+    lt = Krikščionių kapinės
     mr = ख्रिश्चन स्मशानभूमी
     nl = Christelijk kerkhof
     pl = Cmentarz chrześcijański
@@ -2565,6 +2615,7 @@
     it = Ospedale
     ja = 病院
     ko = 병원
+    lt = Ligoninė
     mr = रुग्णालय
     nb = Sykehus
     nl = Ziekenhuis
@@ -2645,6 +2696,7 @@
     it = Gelateria
     ja = アイスクリーム屋
     ko = 아이스크림 스탠드
+    lt = Ledai
     mr = आईसक्रीम
     nb = Iskrem
     nl = IJssalon
@@ -2685,6 +2737,7 @@
     it = Cybercaffè
     ja = インターネットカフェ
     ko = 인터넷 카페
+    lt = Interneto kavinė
     mr = इंटरनेट कॅफे
     nb = Internettkafé
     nl = Internetcafé
@@ -2764,6 +2817,7 @@
     it = Biblioteca
     ja = 図書館
     ko = 도서관
+    lt = Biblioteka
     mr = ग्रंथालय
     nb = Bibliotek
     nl = Bibliotheek
@@ -2847,6 +2901,7 @@
     it = Mercato
     ja = 市場
     ko = 시장
+    lt = Turgavietė
     mr = बाजारपेठ
     nb = Torg
     nl = Markt
@@ -2888,6 +2943,7 @@
     it = Parcheggio moto
     ja = バイク駐輪場
     ko = 오토바이 주차
+    lt = Motociklų stovėjimo aikštelė
     mr = दुचाकी वाहनतळ
     nb = Motorsykkelparkering
     nl = Parking Motorfietsen
@@ -2928,6 +2984,7 @@
     it = Locale notturno
     ja = ナイトクラブ
     ko = 나이트 클럽
+    lt = Naktinis klubas
     mr = नाईट क्लब
     nb = Nattklubb
     nl = Nachtclub
@@ -2968,6 +3025,7 @@
     it = Casa di riposo
     ja = 養護施設
     ko = 요양원
+    lt = Senelių namai
     mr = वृद्धाश्रम
     nb = Sykehjem
     nl = Bejaardentehuis
@@ -3011,6 +3069,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lt = Stovėjimo aikštelė
     mr = वाहनतळ
     nb = Parkering
     nl = Parkeerplaats
@@ -3057,6 +3116,7 @@
     it = Parcheggio multipiano
     ja = 立体駐車場
     ko = 다층 주차장
+    lt = Daugiaaukštė stovėjimo aikštelė
     nb = Parkering i flere etasjer
     nl = Parkeren met meerdere verdiepingen
     pl = Parking wielopoziomowy
@@ -3109,6 +3169,7 @@
     it = Parcheggio privato
     ja = 専用駐車場
     ko = 전용 주차장
+    lt = Privati stovėjimo aikštelė
     nb = Privat parkering
     nl = Privé parkeerplaats
     pl = Parking prywatny
@@ -3193,6 +3254,7 @@
     it = Parcheggio sotterraneo
     ja = 地下駐車場
     ko = 지하주차장
+    lt = Požeminė stovėjimo aikštelė
     nb = Underjordisk parkering
     nl = Ondergrondse parking
     pl = Parking podziemny
@@ -3237,6 +3299,7 @@
     it = Parcheggio privato sotterraneo
     ja = 専用地下駐車場
     ko = 전용 지하 주차장
+    lt = Privati požeminė stovėjimo aikštelė
     mr = खाजगी भूमिगत पार्किंग
     nb = Privat parkeringskjeller
     nl = Ondergronds privéparkeren
@@ -3279,6 +3342,7 @@
     it = Parcheggio laterale alla strada
     ja = 路上駐車
     ko = 노상 주차장
+    lt = Stovėjimo aikštelė prie gatvės
     mr = स्ट्रीट साइड पार्किंग
     nb = Parkering på gatesiden
     nl = Parkeren aan de straatkant
@@ -3323,6 +3387,7 @@
     it = Strada privata parcheggio laterale
     ja = プライベート・ストリート・サイド・パーキング
     ko = 전용 노상 주차장
+    lt = Privati stovėjimo aikštelė prie gatvės
     mr = खाजगी रस्त्यावरील बाजूचे पार्किंग
     nb = Privat parkering på gatesiden
     nl = Prive straat parkeren aan de zijkant
@@ -3365,6 +3430,7 @@
     it = Parcheggio in corsia
     ja = レーンパーキング
     ko = 차선 주차
+    lt = Automobilių stovėjimo juosta
     mr = लेन पार्किंग
     nb = Parkering i kjørefelt
     nl = Rijbaan parkeren
@@ -3410,6 +3476,7 @@
     it = Parcheggio in corsia privata
     ja = 専用レーン駐車場
     ko = 전용 차선 주차
+    lt = Privati automobilių stovėjimo juosta
     mr = खाजगी लेन पार्किंग
     nb = Parkering i privat kjørefelt
     nl = Privé parkeerplaats
@@ -3454,6 +3521,7 @@
     it = Ingresso parcheggio
     ja = 駐車場入口
     ko = 주차장 입구
+    lt = Įvažiavimas į aikštelę
     nb = Parkeringsinngang
     nl = Parkeeringang
     pl = Wjazd na parking
@@ -3494,6 +3562,7 @@
     it = Ingresso al parcheggio privato
     ja = 専用駐車場入り口
     ko = 전용 주차장 입구
+    lt = Privatus įvažiavimas į aikštelę
     mr = खाजगी पार्किंग प्रवेशद्वार
     nb = Privat parkeringsinngang
     nl = Eigen parkeerplaats ingang
@@ -3539,6 +3608,7 @@
     it = Posteggio singolo
     ja = 駐車スペース
     ko = 주차장
+    lt = Automobilių stovėjimo vieta
     mr = पार्किंगची जागा
     nb = Parkeringsplass
     nl = Parkeerplek
@@ -3591,6 +3661,7 @@
     it = Posto auto per disabili
     ja = 身障者用駐車スペース
     ko = 장애인 주차 공간
+    lt = Neįgaliųjų automobilių stovėjimo vieta
     nb = Parkeringsplass for funksjonshemmede
     nl = Invalide parkeerplaats
     pl = Miejsce parkingowe dla niepełnosprawnych
@@ -3630,6 +3701,7 @@
     it = Terminale di pagamento
     ja = 決済端末
     ko = 결제 단말기
+    lt = Mokėjimo terminalas
     mr = पेमेंट टर्मिनल
     nb = Betalingsterminal
     nl = Betaalautomaat
@@ -3670,6 +3742,7 @@
     it = Farmacia
     ja = 薬局
     ko = 약국
+    lt = Vaistinė
     mr = औषधालय
     nb = Apotek
     nl = Apotheek
@@ -3710,6 +3783,7 @@
     it = Luogo di culto
     ja = 礼拝
     ko = 예배 장소
+    lt = Pamaldų vieta
     mr = धार्मिक ठिकाण
     nb = Gudshus
     nl = Gebedsplaats
@@ -3749,6 +3823,7 @@
     it = Tempio buddista
     ja = 寺院
     ko = 불교 사원
+    lt = Budistų šventykla
     mr = मंदिर
     nb = Tempel
     nl = Tempel
@@ -3789,6 +3864,7 @@
     it = Chiesa
     ja = キリスト教会
     ko = 교회
+    lt = Bažnyčia
     mr = चर्च
     nb = Kirke
     nl = Kerk
@@ -3829,6 +3905,7 @@
     it = Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni
     ja = 末日聖徒イエス・キリスト教会
     ko = 예수 그리스도 후기 성도 교회
+    lt = Pastarųjų Dienų Šventųjų Jėzaus Kristaus Bažnyčia
     mr = चर्च ऑफ जिझस क्राइस्ट ऑफ लेटर डे सेंट्स
     nb = Jesu Kristi Kirke av Siste Dagers Hellige
     nl = Kerk van Jezus Christus van de Heiligen der Laatste Dagen
@@ -3869,6 +3946,7 @@
     it = Sala del Regno dei Testimoni di Geova
     ja = イエホバの証人の王国ホール
     ko = 예수 그리스도의 후기 성도 국회당
+    lt = Jehovos liudytojų karalystės salė
     mr = यहोवा साक्षींचे राज्य सभा
     nb = Jehovas vitners Rikets sal
     nl = Koninkrijkszaal van Jehovah's Getuigen
@@ -3909,6 +3987,7 @@
     it = Tempio induista
     ja = ヒンドゥー教寺院
     ko = 힌두교 사원
+    lt = Hinduistų šventykla
     mr = मंदिर
     nb = Tempel
     nl = Tempel
@@ -3948,6 +4027,7 @@
     it = Sinagoga
     ja = ユダヤ教会
     ko = 유태교 회당
+    lt = Sinagoga
     mr = सिनेगॉग
     nb = Synagoge
     nl = Synagoge
@@ -3988,6 +4068,7 @@
     it = Moschea
     ja = モスク
     ko = 모스크
+    lt = Mečetė
     mr = मशीद
     nb = Moské
     nl = Moskee
@@ -4028,6 +4109,7 @@
     it = Santuario shintoista
     ja = 神社
     ko = 사당
+    lt = Šintoistinė šventovė
     mr = देवस्थान
     nb = Alter
     nl = Heiligdom
@@ -4068,6 +4150,7 @@
     it = Tempio taoista
     ja = 道教寺院
     ko = 도교 사원
+    lt = Taoistų šventykla
     mr = मंदिर
     nb = Tempel
     nl = Tempel
@@ -4107,6 +4190,7 @@
     it = Polizia
     ja = 警察
     ko = 경찰
+    lt = Policija
     mr = पोलीस
     nb = Politi
     nl = Politie
@@ -4149,6 +4233,7 @@
     it = Casella postale
     ja = 郵便ポスト
     ko = 우편함
+    lt = Pašto dėžutė
     mr = टपालपेटी
     nb = Postboks
     nl = Brievenbus
@@ -4189,6 +4274,7 @@
     it = Ufficio postale
     ja = 郵便局
     ko = 우체국
+    lt = Paštas
     mr = टपालघर
     nb = Postkontor
     nl = Postkantoor
@@ -4232,6 +4318,7 @@
     it = Prigione
     ja = 刑務所
     ko = 감옥
+    lt = Kalėjimas
     mr = तुरुंग
     nb = Fengsel
     nl = Gevangenis
@@ -4309,6 +4396,7 @@
     it = Biblioteca di strada
     ja = 街角文庫
     ko = 도서 교환
+    lt = Knygų mainai
     nb = Bokhylle
     nl = Boekenkast
     pl = Wymiana książek
@@ -4352,6 +4440,7 @@
     it = Centro di riciclaggio
     ja = リサイクルセンター
     ko = 재활용센터
+    lt = Perdirbimo centras
     mr = भंगार केंद्र
     nb = Resirkuleringssenter
     nl = Milieustraat
@@ -4393,6 +4482,7 @@
     it = Contenitore per materiali riciclabili
     ja = リサイクルボックス
     ko = 재활용 쓰레기통
+    lt = Perdirbimo konteineris
     mr = रीसायकलिंग कंटेनर
     nb = Gjenvinningsbeholder
     nl = Recycling container
@@ -4437,6 +4527,7 @@
     it = Batterie
     ja = バッテリー
     ko = 배터리
+    lt = Akumuliatoriai
     mr = घरगुती बॅटरी
     nb = Batterier
     nl = Batterijen
@@ -4478,6 +4569,7 @@
     it = Vestiti usati
     ja = 古着
     ko = 낡은 옷
+    lt = Drabužiai
     mr = कपडे
     nb = Gamle klær
     nl = Oude kleding
@@ -4518,6 +4610,7 @@
     it = Contenitori in vetro
     ja = ガラス瓶
     ko = 유리병
+    lt = Stikliniai buteliai
     mr = काचेच्या बाटल्या
     nb = Glassemballasje
     nl = Glazen flessen
@@ -4558,6 +4651,7 @@
     it = Rifiuti in carta e cartone
     ja = 紙くず
     ko = 종이 쓰레기
+    lt = Popierius
     mr = कागद
     nb = Papiravfall
     nl = Papierafval
@@ -4598,6 +4692,7 @@
     it = Rifiuti in plastica
     ja = プラスチックごみ
     ko = 플라스틱 쓰레기
+    lt = Plastikas
     mr = प्लास्टिक
     nb = Plastavfall
     nl = Plastic afval
@@ -4638,6 +4733,7 @@
     it = Bottiglie di plastica
     ja = ペットボトル
     ko = 플라스틱 병
+    lt = Plastikiniai buteliai
     mr = प्लास्टिकच्या बाटल्या
     nb = Plastflasker
     nl = Plastic flessen
@@ -4679,6 +4775,7 @@
     it = Rifiuti metallici
     ja = スクラップ金属
     ko = 고철
+    lt = Metalo laužas
     mr = भंगार धातू
     nb = Metallavfall
     nl = Schroot
@@ -4719,6 +4816,7 @@
     it = Rifiuti di apparecchiature elettriche ed elettroniche
     ja = 電子廃棄物
     ko = 전자제품 쓰레기
+    lt = Elektroninės atliekos
     mr = इलेक्ट्रॉनिक कचरा
     nb = Elektronisk avfall
     nl = Elektronisch afval
@@ -4751,6 +4849,7 @@
     fr = Carton
     he = לוחות קרטון
     it = Cartone
+    lt = Kartonas
     mr = पुठ्ठा
     nl = Karton
     pl = Karton
@@ -4775,6 +4874,7 @@
     fr = Emballages métalliques
     he = פחיות
     it = Lattine
+    lt = Skardinės
     mr = कॅन
     nl = Blikafval
     pl = Puszki
@@ -4799,6 +4899,7 @@
     fr = Chaussures
     he = נעליים
     it = Scarpe
+    lt = Batai
     mr = पादत्राणे
     nl = Schoenen
     pl = Buty
@@ -4823,6 +4924,7 @@
     fr = Déchets organiques
     he = פסולת אורגנית/ירוקה
     it = Umido
+    lt = Organinės atliekos
     nl = GFT afval
     pl = Odpady zielone
     pt-BR = Lixo verde/orgânico
@@ -4846,6 +4948,7 @@
     fr = Briques alimentaires
     he = קרטון
     it = Tetrapak
+    lt = Kartonai
     mr = पेय कार्टन
     nl = Drankverpakkingen
     pl = Kartony po napojach
@@ -4875,6 +4978,7 @@
     it = Ristorante
     ja = レストラン
     ko = 레스토랑
+    lt = Restoranas
     mr = उपहारगृह
     nl = Restaurant
     pl = Restauracja
@@ -4936,6 +5040,7 @@
     it = Scuola
     ja = 学校
     ko = 학교
+    lt = Mokykla
     mr = शाळा
     nb = Skole
     nl = School
@@ -4978,6 +5083,7 @@
     it = Riparo
     ja = 避難所
     ko = 대피소
+    lt = Pastogė
     mr = निवारा
     nb = Ly
     nl = Beschutting
@@ -5084,6 +5190,7 @@
     it = Terme pubbliche
     ja = 公衆浴場
     ko = 대중목욕탕
+    lt = Viešasis baseinas
     mr = सार्वजनिक स्नान
     nb = Offentlig bad
     nl = Publiek bad
@@ -5124,6 +5231,7 @@
     it = Doccia
     ja = シャワー
     ko = 샤워시설
+    lt = Dušas
     mr = अंघोळ
     nb = Dusj
     nl = Douche
@@ -5164,6 +5272,7 @@
     it = Stripclub
     ja = ストリップクラブ
     ko = 스트립클럽
+    lt = Striptizo klubas
     mr = स्ट्रिपक्लब
     nb = Stripklubb
     nl = Stripclub
@@ -5201,6 +5310,7 @@
     it = Taxi
     ja = タクシー
     ko = 택시
+    lt = Taksi
     mr = टॅक्सी
     nb = Drosje
     nl = Taxi
@@ -5238,6 +5348,7 @@
     it = Telefono
     ja = 公衆電話
     ko = 전화
+    lt = Telefonas
     mr = फोन
     nb = Telefon
     nl = Telefoon
@@ -5278,6 +5389,7 @@
     it = Teatro
     ja = 劇場
     ko = 연극
+    lt = Teatras
     mr = नाट्यगृह
     nb = Teater
     nl = Theater
@@ -5316,6 +5428,7 @@
     it = Servizi igienici
     ja = トイレ
     ko = 화장실
+    lt = Tualetas
     mr = शौचालय
     nb = Toalett
     nl = Toiletten
@@ -5360,6 +5473,7 @@
     it = Municipio
     ja = 役場
     ko = 시청
+    lt = Rotušė
     mr = नगर भवन
     nb = Rådhus
     nl = Gemeentehuis
@@ -5400,6 +5514,7 @@
     it = Università
     ja = 大学
     ko = 대학
+    lt = Universitetas
     mr = विद्यापीठ
     nb = Universitet
     nl = Universiteit
@@ -5433,6 +5548,7 @@
     hi = वितरक मशीन
     it = Distributore automatico
     ja = 自動販売機
+    lt = Automatas
     mr = विक्रीयंत्र
     nl = Automaat
     pl = Automat sprzedający
@@ -5469,6 +5585,7 @@
     it = Distributore automatico di sigarette
     ja = たばこ自動販売機
     ko = 담배자판기
+    lt = Cigarečių automatas
     mr = सिगारेट विक्रीयंत्र
     nb = Sigarettautomat
     nl = Sigarettenautomaat
@@ -5501,6 +5618,7 @@
     he = מכונת קפה
     hi = कॉफ़ी वितरक
     it = Macchina del caffè
+    lt = Kavos automatas
     mr = कॉफी विक्रीयंत्र
     nl = Koffieautomaat
     pl = Automat z kawą
@@ -5525,6 +5643,7 @@
     he = מכונת קונדומים
     hi = कंडोम वितरक मशीन
     it = Distributore di profilattici
+    lt = Prezervatyvų automatas
     mr = कंडोम विक्रीयंत्र
     nl = Condoomautomaat
     pl = Automat z prezerwatywami
@@ -5558,6 +5677,7 @@
     it = Distributore automatico di bibite
     ja = 飲料自動販売機
     ko = 음료자동판매기
+    lt = Gėrimų automatas
     mr = पेय विक्रीयंत्र
     nb = Drikkeautomat
     nl = Drankautomaat
@@ -5590,6 +5710,7 @@
     he = מכונת מזון
     hi = खाद्य वितरक
     it = Distributore automatico di alimenti
+    lt = Maisto automatas
     mr = अन्न विक्रीयंत्र
     nl = Etenswarenautomaat
     pl = Automat z jedzeniem
@@ -5615,6 +5736,7 @@
     he = מתקן עיתונים
     hi = समाचार पत्र वितरक
     it = Distributore automatico di giornali
+    lt = Laikraščių automatas
     mr = वृत्तपत्र विक्रीयंत्र
     nl = Krantenautomaat
     pl = Automat z gazetami
@@ -5691,6 +5813,7 @@
     it = Biglietteria automatica del trasporto pubblico
     ja = 公共交通機関の券売機
     ko = 대중교통표 자동판매기
+    lt = Bilietų aparatas
     mr = तिकीट यंत्र
     nb = Billettmaskin for offentlig transport
     nl = Kaartjesautomaat voor openbaar vervoer
@@ -5724,6 +5847,7 @@
     he = מכונת דברי מתיקה
     hi = मिठाई वितरक
     it = Distributore automatico di dolciumi
+    lt = Saldumynų automatas
     mr = मिठाई विक्रीयंत्र
     nl = Snoepautomaat
     pl = Automat ze słodyczami
@@ -5776,6 +5900,7 @@
     he = תא חבילות
     hi = पार्सल भंड़ार
     it = Punto di ritiro
+    lt = Siuntų saugojimo spintelė
     mr = पार्सल लॉकर
     nl = Pakketjeskluis
     pl = Paczkomat
@@ -5811,6 +5936,7 @@
     it = Ispezione del veicolo
     ja = 車検
     ko = 차량검사
+    lt = Automobilių apžiūra
     mr = वाहन तपासणी
     nb = Inspeksjon av kjøretøy
     nl = Voertuiginspectie
@@ -5843,6 +5969,7 @@
     he = משאבת דלק
     hi = ईंधन डिस्पेंसर
     it = Pompa di rifornimento
+    lt = Degalų kolonėlė
     mr = इंधन विक्रीयंत्र
     nl = Tankautomaat
     pt-BR = Bomba de combustível
@@ -5875,6 +6002,7 @@
     it = Veterinario
     ja = 獣医
     ko = 동물병원
+    lt = Veterinarijos gydytojas
     mr = पशुवैद्यकीय डॉक्टर
     nb = Veterinær
     nl = Dierenarts
@@ -5916,6 +6044,7 @@
     it = Contenitore per rifiuti
     ja = ゴミ箱
     ko = 쓰레기통
+    lt = Šiukšliadėžė
     mr = कचरा पेटी
     nb = Søppelbøtte
     nl = Vuilnisbak
@@ -5956,6 +6085,7 @@
     it = Cassonetto
     ja = ゴミ
     ko = 휴지통
+    lt = Šiukšlių konteineris
     mr = कचऱ्याची मोठी पेटी
     nb = Søppeldunk
     nl = Vuilcontainer
@@ -6057,6 +6187,7 @@
     he = מחסום
     it = Barriera
     ja = 障害物
+    lt = Barjeras
     mr = अडथळा
     nb = Barriere
     nl = Barrière
@@ -6092,6 +6223,7 @@
     it = Blocco
     ja = ブロック
     ko = 블록
+    lt = Blokas
     mr = अडथळा
     nb = Blokk
     nl = Blok
@@ -6131,6 +6263,7 @@
     it = Pilastro
     ja = 柱
     ko = 기둥
+    lt = Bokštelis
     mr = खांब
     nb = Pullert
     nl = Pilaar
@@ -6170,6 +6303,7 @@
     it = Controllo di frontiera
     ja = 国境管理
     ko = 국경통제소
+    lt = Pasienio kontrolė
     mr = सीमा नियंत्रण
     nb = Grensekontroll
     nl = Grenscontrole
@@ -6202,6 +6336,7 @@
     fr = Chaîne
     he = שרשרת
     it = Catena
+    lt = Grandinė
     mr = साखळी
     nl = Ketting
     pl = Łańcuch
@@ -6230,6 +6365,7 @@
     he = מחסום אופניים
     it = Barriera per biciclette
     ja = バリカー
+    lt = Dviračių barjeras
     mr = सायकल अडथळा
     nl = Fietsbarrière
     pl = Bariera rowerowa
@@ -6308,6 +6444,7 @@
     it = Fossato
     ja = 堀
     ko = "해자 외호"
+    lt = Griovys
     nb = Vollgrav
     nl = Gracht
     pl = Rów
@@ -6388,6 +6525,7 @@
     it = Ingresso
     ja = エントランス
     ko = 입구
+    lt = Įėjimas
     mr = प्रवेशद्वार
     nb = Inngangspassasje
     nl = Ingang
@@ -6420,6 +6558,7 @@
     he = גדר
     it = Steccato
     ja = フェンス
+    lt = Tvora
     mr = कुंपण
     nb = Gjerde
     nl = Hek
@@ -6455,6 +6594,7 @@
     it = Cancello
     ja = ゲート
     ko = 게이트
+    lt = Vartai
     mr = दार
     nb = Port
     nl = Poort
@@ -6487,6 +6627,7 @@
     he = גדר חיה
     it = Siepe
     ja = 生垣
+    lt = Gyvatvorė
     mr = झुडुपांचे कुंपण
     nl = Heg
     pl = Żywopłot
@@ -6534,6 +6675,7 @@
     it = Sbarra
     ja = ブームバリア
     ko = 차량차단기
+    lt = Pakeliamieji vartai
     mr = लिफ्ट दार
     nb = Bom
     nl = Slagboom
@@ -6566,6 +6708,7 @@
     he = קיר תמך
     it = Muro di sostegno
     ja = 擁壁
+    lt= Atraminė siena
     mr = संधारक भिंत
     nl = Keermuur
     pl = Mur oporowy
@@ -6679,6 +6822,7 @@
     it = Barriera ferroviaria
     ja = ブームバリア
     ko = 차량차단기
+    lt= Pasukamieji vartai
     mr = झुलते दार
     nb = Bom
     nl = Slagboom
@@ -6717,6 +6861,7 @@
     it = Casello di pedaggio
     ja = 料金所
     ko = 톨게이트
+    lt= Mokesčių rinkimo stendas
     mr = टोल बूथ
     nb = Bomstasjon
     nl = Tolhokje
@@ -6749,6 +6894,7 @@
     hi = दीवार
     it = Muro
     ja = 壁
+    lt = Siena
     mr = भिंत
     nl = Muur
     pl = Mur
@@ -6775,6 +6921,7 @@
     he = גבול
     it = Confine
     ja = 境界線
+    lt = Riba
     mr = सीमा
     nl = Grens
     pl = Granica
@@ -6801,6 +6948,7 @@
     he = גבול מנהלי
     it = Confine amministrativo
     ja = 行政境界
+    lt = Administracinė riba
     mr = प्रशासकीय सीमा
     nl = Administratieve grens
     pl = Granica administracyjna
@@ -6827,6 +6975,7 @@
     fr = Frontière nationale
     he = גבול לאומי
     it = Confine nazionale
+    l t= Valstybinė siena
     mr = राष्ट्रीय सीमा
     nl = Natiegrens
     pl = Granica państwa
@@ -6851,6 +7000,7 @@
     fr = Frontière régionale
     he = גבול אזורי
     it = Confine regionale
+    lt = Regioninė riba
     mr = प्रादेशिक सीमा
     nl = Regiogrens
     pl = Granica regionu
@@ -6888,6 +7038,7 @@
     it = Parco nazionale
     ja = 国立公園
     ko = 국립 공원
+    lt = Nacionalinis parkas
     mr = राष्ट्रीय उद्यान
     nb = Nasjonalpark
     nl = Nationaal park
@@ -6973,6 +7124,7 @@
     it = Area protetta
     ja = 保護区域
     ko = 보호구역
+    lt = Saugoma teritorija
     mr = संरक्षित क्षेत्र
     nb = Vernet område
     nl = Beschermd gebied
@@ -7031,6 +7183,7 @@
     it = Edificio
     ja = 建物
     ko = 건물
+    lt = Pastatas
     mr = इमारत
     nb = Bygning
     nl = Gebouw
@@ -7117,6 +7270,7 @@
     it = Garage
     ja = 車庫
     ko = 차고
+    lt = Garažas
     mr = गराज
     nb = Garasje
     nl = Garage
@@ -7190,6 +7344,7 @@
     he = מחסן
     hi = मालगोदाम
     it = Magazzino
+    lt = Sandėlys
     mr = वखार
     nl = Magazijn
     pl = Magazyn
@@ -7226,6 +7381,7 @@
     it = Tomba
     ja = 墓
     ko = 무덤
+    lt = Kapas
     nb = Grav
     nl = Graf
     pl = Mogiła
@@ -7266,6 +7422,7 @@
     it = Artigianato
     ja = 工房
     ko = 공예
+    lt = Amatai
     mr = हस्तकला
     nb = Håndverk
     nl = Ambacht
@@ -7307,6 +7464,7 @@
     it = Apicoltore
     ja = 養蜂家
     ko = 양봉가
+    lt = Bitininkas
     mr = मधमाश्या पाळणारा
     nb = Birøkter
     nl = Imker
@@ -7348,6 +7506,7 @@
     it = Fabbro
     ja = 鍛冶屋
     ko = 대장장이
+    lt = Kalvis
     mr = लोहार
     nb = Smed
     nl = Smid
@@ -7389,6 +7548,7 @@
     it = Birrificio
     ja = 醸造所
     ko = 양조장
+    lt = Alaus darykla
     mr = दारूभट्टी
     nb = Bryggeri
     nl = Brouwerij
@@ -7552,6 +7712,7 @@
     it = Elettricista
     ja = 電気技師
     ko = 전기기술자
+    lt = Elektrikas
     mr = इलेक्ट्रिशियन
     nb = Elektriker
     nl = Elektricien
@@ -7593,6 +7754,7 @@
     it = Riparazioni elettroniche
     ja = 電子機器修理
     ko = 전자제품 수리
+    lt = Elektronikos taisymas
     mr = इलेक्ट्रॉनिक्स दुरुस्ती
     nb = Elektronikk reparasjon
     nl = Electronica-reparatie
@@ -7634,6 +7796,7 @@
     it = Giardiniere
     ja = 造園家
     ko = 조경사
+    lt = Sodininkas
     mr = माळी
     nb = Anleggsgartner
     nl = Tuinarchitect
@@ -7674,6 +7837,7 @@
     it = Mulino a macina
     ja = 粉砕機
     ko = 그라인딩 밀
+    lt = Malūnas
     mr = ग्राइंडिंग मिल
     nb = Slipemølle
     nl = Malende molen
@@ -7716,6 +7880,7 @@
     it = Artigiano
     ja = 手芸
     ko = 수예
+    lt = Rankdarbiai
     mr = हस्तकला
     nb = Kunsthåndverk
     nl = Handwerk
@@ -7841,6 +8006,7 @@
     it = Fabbro
     ja = 錠前屋
     ko = 자물쇠 제조공
+    lt = Raktų meistras
     mr = लॉकस्मिथ
     nb = Låsesmed
     nl = Slotenmaker
@@ -7882,6 +8048,7 @@
     it = Metalmeccanico
     ja = 金属工
     ko = 금속공
+    lt = Metalo darbininkas
     mr = धातू कामगार
     nb = Metallarbeider
     nl = Metaalarbeider
@@ -7922,6 +8089,7 @@
     it = Imbianchino
     ja = 塗装工
     ko = 페인트공
+    lt = Namų dažytojas
     mr = चित्रकार
     nb = Maler
     nl = Schilder
@@ -7963,6 +8131,7 @@
     it = Fotografo
     ja = 写真家
     ko = 사진작가
+    lt = Fotografas
     mr = छायाचित्रकार
     nb = Fotograf
     nl = Fotograaf
@@ -8005,6 +8174,7 @@
     it = Negozio di macchine fotografiche
     ja = カメラショップ
     ko = 카메라 샵
+    lt = Fotoaparatų parduotuvė
     mr = कॅमेरा शॉप
     nb = Kamerabutikk
     nl = Camerawinkel
@@ -8047,6 +8217,7 @@
     it = Idraulico
     ja = 配管工
     ko = 배관공
+    lt = Santechnikas
     mr = नळकामगार
     nb = Rørlegger
     nl = Loodgieter
@@ -8089,6 +8260,7 @@
     it = Segheria
     ja = 製材所
     ko = 제재소
+    lt = Lentpjūvė
     mr = सुमेल
     nb = Sagbruk
     nl = Zagerij
@@ -8130,6 +8302,7 @@
     it = Calzolaio
     ja = 靴修理
     ko = 구두수선
+    lt = Batų taisymas
     mr = चांभार
     nb = Skoreparasjon
     nl = Schoenmaker
@@ -8170,6 +8343,7 @@
     it = Casa vinicola
     ja = ワイナリー
     ko = 포도주 양조장
+    lt = Vyninė
     mr = वाइनरी
     nb = Vingård
     nl = Wijnhandel
@@ -8212,6 +8386,7 @@
     it = Sarto
     ja = 仕立て屋
     ko = 양복점
+    lt = Siuvėjas
     mr = शिंपी
     nb = Skredder
     nl = Kleermaker
@@ -8250,6 +8425,7 @@
     it = Cucina africana
     ja = アフリカ料理
     ko = 아프리카식 음식
+    lt = Afrikietiška
     nb = Afrikansk mat
     nl = Afrikaans
     pl = Kuchnia afrykańska
@@ -8287,6 +8463,7 @@
     it = Cucina americana
     ja = アメリカ料理
     ko = 미국식 음식
+    lt = Amerikietiškas
     nb = Amerikansk mat
     nl = Amerikaans
     pl = Kuchnia amerykańska
@@ -8324,6 +8501,7 @@
     it = Cucina araba
     ja = アラビア料理
     ko = 아랍식 음식
+    lt = Arabiškas
     nb = Arabisk mat
     nl = Arabisch
     pl = Kuchnia arabska
@@ -8361,6 +8539,7 @@
     it = Cucina argentina
     ja = アルゼンチン料理
     ko = 아르헨티나식 음식
+    lt = Argentinietiškas
     nb = Argentinsk mat
     nl = Argentijns
     pl = Kuchnia argentyńska
@@ -8398,6 +8577,7 @@
     it = Cucina asiatica
     ja = アジア料理
     ko = 아시아식 음식
+    lt = Azijietiškas
     nb = Asiatisk mat
     nl = Aziatisch
     pl = Kuchnia azjatycka
@@ -8435,6 +8615,7 @@
     it = Cucina austriaca
     ja = オーストリア料理
     ko = 오스트리아식 음식
+    lt = Austriškas
     nb = Østerriksk mat
     nl = Oostenrijks
     pl = Kuchnia austriacka
@@ -8472,6 +8653,7 @@
     it = Bagel
     ja = ベーグル
     ko = 베이글
+    lt = Bageliai
     nb = Bagel
     nl = Bagels
     pl = Bajgle
@@ -8509,6 +8691,7 @@
     it = Cucina balcanica
     ja = バルカン料理
     ko = 발칸 반도식 음식
+    lt = Balkanų
     nb = Balkan mat
     nl = Balkan
     pl = Kuchnia bałkańska
@@ -8546,6 +8729,7 @@
     it = Barbecue
     ja = バーベキュー
     ko = 바베큐
+    lt = Barbekiu
     mr = चुलीवरचे जेवण
     nb = Grillmat
     nl = Barbecue
@@ -8584,6 +8768,7 @@
     it = Cucina bavarese
     ja = ババロア料理
     ko = 바이에른식 음식
+    lt = Bavariškas
     nb = Bayersk mat
     nl = Beiers
     pl = Kuchnia bawarska
@@ -8657,6 +8842,7 @@
     it = Cucina brasiliana
     ja = ブラジル料理
     ko = 브라질식 음식
+    lt = Braziliškas
     nb = Brasiliansk mat
     nl = Braziliaans
     pl = Kuchnia brazylijska
@@ -8694,6 +8880,7 @@
     it = Colazione
     ja = 朝食
     ko = 아침 식사
+    lt = Pusryčiai
     mr = नाश्ता
     nb = Frokost
     nl = Ontbijt
@@ -8722,6 +8909,7 @@
     fi = Kuplatee
     hi = बुलबुले वाली चाय
     it = Bubble tea
+    lt = Burbulinė arbata
     ro = Ceai cu perle
     ru = Чай с шариками
     sk = Bublinkový čaj
@@ -8750,6 +8938,7 @@
     it = Hamburger
     ja = ハンバーガー
     ko = 햄버거
+    lt = Burgeriai
     mr = बर्गर
     nb = Burger
     nl = Hamburgers
@@ -8824,6 +9013,7 @@
     it = Torte
     ja = ケーキ
     ko = 케이크
+    lt = Tortai
     mr = केक
     nb = Kake
     nl = Taart
@@ -8862,6 +9052,7 @@
     it = Cucina caraibica
     ja = カリブ料理
     ko = 카리브식 음식
+    lt = Karibų
     nb = Karibisk mat
     nl = Caraïbisch
     pl = Kuchnia karaibska
@@ -8899,6 +9090,7 @@
     it = Pollo
     ja = 鶏肉
     ko = 닭고기
+    lt = Vištiena
     mr = चिकन
     nb = Kylling
     nl = Kip
@@ -8937,6 +9129,7 @@
     it = Cucina cinese
     ja = 中華料理
     ko = 중국식 음식
+    lt = Kinų
     mr = चिनी
     nb = Kinesisk mat
     nl = Chinees
@@ -8975,6 +9168,7 @@
     it = Caffè
     ja = コーヒー
     ko = 커피
+    lt = Kava
     mr = कॉफी
     nb = Kaffe
     nl = Koffie
@@ -9014,6 +9208,7 @@
     it = Crêpes
     ja = クレープ
     ko = 크레이프
+    lt = Krepas
     nb = Crepe
     nl = Pannenkoek
     pl = Naleśnikarnia
@@ -9051,6 +9246,7 @@
     it = Cucina croata
     ja = クロアチア料理
     ko = 크로아티아식 음식
+    lt = Kroatų
     nb = Kroatisk mat
     nl = Kroatisch
     pl = Kuchnia chorwacka
@@ -9088,6 +9284,7 @@
     it = Curry
     ja = カレー
     ko = 카레
+    lt = Karis
     mr = रस्सा
     nb = Karri
     nl = Curry's
@@ -9240,6 +9437,7 @@
     it = Cucina etiope
     ja = エチオピア料理
     ko = 에티오피아식 음식
+    lt = Etiopijos
     nb = Etiopisk mat
     nl = Ethiopisch
     pl = Kuchnia etiopska
@@ -9277,6 +9475,7 @@
     it = Cucina filippina
     ja = フィリピン料理
     ko = 필리핀식 음식
+    lt = Filipiniečių
     nb = Filippinsk mat
     nl = Filipijns
     pl = Kuchnia filipińska
@@ -9351,6 +9550,7 @@
     it = Pesce
     ja = 魚料理
     ko = 생선
+    lt = Žuvis
     mr = मासे
     nb = Fisk
     nl = Vis
@@ -9385,6 +9585,7 @@
     it = Fish and Chips
     ja = フィッシュ・アンド・チップス
     ko = 피쉬 앤 칩스
+    lt = Žuvis ir bulvytės
     nb = Fisk og pommes frites
     pl = Ryba i frytki
     pt = Peixe e batatas fritas
@@ -9421,6 +9622,7 @@
     it = Cucina francese
     ja = フランス料理
     ko = 프랑스식 음식
+    lt = Prancūzų
     nb = Fransk mat
     nl = Frans
     pl = Kuchnia francuska
@@ -9495,6 +9697,7 @@
     it = Cucina georgiana
     ja = ジョージア料理
     ko = 그루지야식 음식
+    lt = Sakartvelų
     nb = Georgisk mat
     nl = Georgisch
     pl = Kuchnia gruzińska
@@ -9532,6 +9735,7 @@
     it = Cucina tedesca
     ja = ドイツ料理
     ko = 독일식 음식
+    lt = Vokiečių
     nb = Tysk mat
     nl = Duits
     pl = Kuchnia niemiecka
@@ -9569,6 +9773,7 @@
     it = Cucina greca
     ja = ギリシャ料理
     ko = 그리스식 음식
+    lt = Graikų
     nb = Gresk mat
     nl = Grieks
     pl = Kuchnia grecka
@@ -9606,6 +9811,7 @@
     it = Cucina alla griglia
     ja = グリル
     ko = 그릴
+    lt = Grilis
     nb = Grill
     nl = Gegrilde gerechten
     pl = Dania z grilla
@@ -9678,6 +9884,7 @@
     it = Hot dog
     ja = ホットドッグ
     ko = 핫도그
+    lt = Hotdogai
     nb = Hotdog
     nl = Hotdogs
     pl = Hot-dogi
@@ -9715,6 +9922,7 @@
     it = Cucina ungherese
     ja = ハンガリー料理
     ko = 헝가리식 음식
+    lt = Vengrų
     nb = Ungarsk mat
     nl = Hongaars
     pl = Kuchnia węgierska
@@ -9752,6 +9960,7 @@
     it = Gelateria
     ja = アイスクリーム
     ko = 아이스크림
+    lt = Ledai
     mr = आईसक्रीम
     nb = Iskrem
     nl = Ijs
@@ -9790,6 +9999,7 @@
     it = Cucina indiana
     ja = インド料理
     ko = 인도식 음식
+    lt = Indų
     mr = भारतीय
     nb = Indisk mat
     nl = Indisch
@@ -9828,6 +10038,7 @@
     it = Cucina indonesiana
     ja = インドネシア料理
     ko = 인도네시아식 음식
+    lt = Indoneziečių
     nb = Indonesisk mat
     nl = Indonesisch
     pl = Kuchnia indonezyjska
@@ -9865,6 +10076,7 @@
     it = Cucina internazionale
     ja = 国際料理
     ko = 국제 음식
+    lt = Tarptautinė
     mr = आंतरराष्ट्रीय
     nb = Internasjonal mat
     nl = Internationaal
@@ -9903,6 +10115,7 @@
     it = Cucina irlandese
     ja = アイルランド料理
     ko = 아일랜드식 음식
+    lt = Airių
     nb = Irsk mat
     nl = Iers
     pl = Kuchnia irlandzka
@@ -9940,6 +10153,7 @@
     it = Cucina italiana
     ja = イタリア料理
     ko = 이탈리아식 음식
+    lt = Italų
     mr = इटालियन
     nb = Italiensk mat
     nl = Italiaans
@@ -9978,6 +10192,7 @@
     it = Cucina italiana, pizza
     ja = イタリア料理；ピザ
     ko = 이탈리아식, 피자
+    lt = Italų, pica
     mr = इटालियन, पिझ्झा
     nb = Italiensk mat;pizza
     nl = Italiaans, pizza
@@ -10016,6 +10231,7 @@
     it = Cucina giapponese
     ja = 日本料理
     ko = 일본식 음식
+    lt = Japonų
     mr = जपानी
     nb = Japansk mat
     nl = Japans
@@ -10054,6 +10270,7 @@
     it = Kebab
     ja = カバブ
     ko = 케밥
+    lt = Kebabai
     nb = Kebab
     nl = Kebab
     pl = Kebab
@@ -10091,6 +10308,7 @@
     it = Cucina coreana
     ja = 韓国料理
     ko = 한국식 음식
+    lt = Korėjiečių
     nb = Koreansk mat
     nl = Koreaans
     pl = Kuchnia koreańska
@@ -10165,6 +10383,7 @@
     it = Cucina libanese
     ja = レバノン料理
     ko = 레바논식 음식
+    lt = Libano
     nb = Libanesisk mat
     nl = Libanees
     pl = Kuchnia libańska
@@ -10202,6 +10421,7 @@
     it = Cucina locale
     ja = 地元料理
     ko = 현지식 음식
+    lt = Vietinė
     mr = स्थानिक
     nb = Lokal mat
     nl = Regionale keuken
@@ -10240,6 +10460,7 @@
     it = Cucina malgascia
     ja = マダガスカル料理
     ko = 마다가스카르식 음식
+    lt = Malagasių
     nb = Gassisk
     nl = Malagassisch
     pl = Kuchnia malgaska
@@ -10277,6 +10498,7 @@
     it = Cucina malese
     ja = マレーシア料理
     ko = 말레이시아식 음식
+    lt = Malaizijos
     nb = Malaysisk mat
     nl = Maleisisch
     pl = Kuchnia malezyjska
@@ -10314,6 +10536,7 @@
     it = Cucina mediterranea
     ja = 地中海料理
     ko = 지중해식 음식
+    lt = Viduržemio jūros virtuvė
     nb = Middelhavsmat
     nl = Mediterraans
     pl = Kuchnia śródziemnomorska
@@ -10351,6 +10574,7 @@
     it = Cucina messicana
     ja = メキシコ料理
     ko = 멕시코식 음식
+    lt = Meksikietiškas
     nb = Meksikansk mat
     nl = Mexicaans
     pl = Kuchnia meksykańska
@@ -10388,6 +10612,7 @@
     it = Cucina marocchina
     ja = モロッコ料理
     ko = 모로코식 음식
+    lt = Marokietiškas
     nb = Marokkansk mat
     nl = Marokkaans
     pl = Kuchnia marokańska
@@ -10425,6 +10650,7 @@
     it = Noodles
     ja = 麺類
     ko = 국수
+    lt = Makaronai
     mr = नूडल्स
     nb = Nudler
     nl = Noedels
@@ -10463,6 +10689,7 @@
     it = Cucina orientale
     ja = 東洋料理
     ko = 극동식 음식
+    lt = Rytų Azijos
     nb = Orientalsk mat
     nl = Oosters
     pl = Kuchnia orientalna
@@ -10500,6 +10727,7 @@
     it = Pancake
     ja = ホットケーキ
     ko = 팬케이크
+    lt = Blynai
     nb = Pannekake
     nl = Pannenkoek
     pl = Naleśniki
@@ -10537,6 +10765,7 @@
     it = Pasta
     ja = パスタ
     ko = 파스타
+    lt = Makaronai
     mr = पास्ता
     nb = Pasta
     nl = Pasta
@@ -10575,6 +10804,7 @@
     it = Cucina persiana
     ja = ペルシャ料理
     ko = 페르시아식 음식
+    lt = Persų
     nb = Persisk mat
     nl = Perzisch
     pl = Kuchnia perska
@@ -10612,6 +10842,7 @@
     it = Cucina peruviana
     ja = ペルー料理
     ko = 페루식 음식
+    lt = Peru
     nb = Peruansk mat
     nl = Peruaans
     pl = Kuchnia peruwiańska
@@ -10649,6 +10880,7 @@
     it = Pizza
     ja = ピザ
     ko = 피자
+    lt = Pica
     mr = पिझ्झा
     nb = Pizza
     nl = Pizza's
@@ -10687,6 +10919,7 @@
     it = Cucina polacca
     ja = ポーランド料理
     ko = 폴란드식 음식
+    lt = Lenkų
     nb = Polsk mat
     nl = Pools
     pl = Kuchnia polska
@@ -10724,6 +10957,7 @@
     it = Cucina portoghese
     ja = ポルトガル料理
     ko = 포르투갈식 음식
+    lt = Portugalų
     nb = Portugisisk mat
     nl = Portugees
     pl = Kuchnia portugalska
@@ -10797,6 +11031,7 @@
     it = Cucina regionale
     ja = 郷土料理
     ko = 지역적 음식
+    lt = Regioninis
     mr = प्रादेशिक
     nb = Regional mat
     nl = Regionale keuken
@@ -10835,6 +11070,7 @@
     it = Cucina russa
     ja = ロシア料理
     ko = 러시아식 음식
+    lt = Rusų
     nb = Russisk mat
     nl = Russisch
     pl = Kuchnia rosyjska
@@ -10872,6 +11108,7 @@
     it = Panini
     ja = サンドイッチ
     ko = 샌드위치
+    lt = Sumuštiniai
     mr = सँडविच
     nb = Smørbrød
     nl = Broodjes
@@ -10910,6 +11147,7 @@
     it = Salsicce
     ja = ソーセージ
     ko = 소시지
+    lt = Dešros
     nb = Pølse
     nl = Worst
     pl = Kiełbasiarnia
@@ -10948,6 +11186,7 @@
     it = Pancake salati
     ja = おいしいホットケーキ
     ko = 맛좋은 팬케이크
+    lt = Pikantiški blyneliai
     nb = Fylte pannekaker
     nl = Hartige pannenkoeken
     pl = Wytrawne naleśniki
@@ -10985,6 +11224,7 @@
     it = Frutti di mare
     ja = シーフード
     ko = 해산물
+    lt = Jūros gėrybės
     mr = मासळी जेवण
     nb = Sjømat
     nl = Vis en zeevruchten
@@ -11060,6 +11300,7 @@
     it = Cucina spagnola
     ja = スペイン料理
     ko = 스페인식 음식
+    lt = Ispanų
     nb = Spansk mat
     nl = Spaans
     pl = Kuchnia hiszpańska
@@ -11134,6 +11375,7 @@
     it = Sushi
     ja = 寿司
     ko = 초밥
+    lt = Suši
     nb = Sushi
     nl = Sushi
     pl = Sushi
@@ -11208,6 +11450,7 @@
     it = Tè
     ja = 紅茶
     ko = 차
+    lt = Arbata
     mr = चहा
     nb = Te
     nl = Thee
@@ -11246,6 +11489,7 @@
     it = Cucina tailandese
     ja = タイ料理
     ko = 타이식 음식
+    lt = Tailando
     nb = Thaimat
     nl = Thais gerechten
     pl = Kuchnia tajska
@@ -11283,6 +11527,7 @@
     it = Cucina turca
     ja = トルコ料理
     ko = 터키식 음식
+    lt = Turkų
     nb = Tyrkisk mat
     nl = Turks
     pl = Kuchnia turecka
@@ -11320,6 +11565,7 @@
     it = Cucina vegana
     ja = ビーガン料理
     ko = 비건 음식
+    lt = Veganų
     nb = Vegansk
     nl = Veganistisch
     pl = Kuchnia wegańska
@@ -11357,6 +11603,7 @@
     it = Cucina vegetariana
     ja = ベジタリアン料理
     ko = 채식주의자 음식
+    lt = Vegetarų
     mr = शाकाहारी
     nb = Vegetarisk
     nl = Vegetarisch
@@ -11395,6 +11642,7 @@
     it = Cucina vietnamita
     ja = ベトナム料理
     ko = 베트남식 음식
+    lt = Vietnamiečių
     nb = Vietnamesisk mat
     nl = Vietnamees
     pl = Kuchnia wietnamska
@@ -11457,6 +11705,7 @@
     it = Punto di raccolta di emergenza
     ja = 緊急集合場所
     ko = 비상 집결지
+    lt = Avarinio susirinkimo vieta
     mr = आपत्कालीन विधानसभा पॉइंट
     nb = Nødsamlingssted
     nl = Verzamelpunt voor noodgevallen
@@ -11497,6 +11746,7 @@
     it = Defibrillatore
     ja = 除細動器
     ko = 제세동기
+    lt = Defibriliatorius
     mr = कंपनरोधक
     nb = Hjertestarter
     nl = Defibrillator (AED)
@@ -11536,6 +11786,7 @@
     it = Idrante
     ja = 消火栓
     ko = 소화전
+    lt = Priešgaisrinis hidrantas
     mr = अग्निशामक नळ
     nb = Brannhydrant
     nl = Brandkraan
@@ -11575,6 +11826,7 @@
     it = Telefono di emergenza
     ja = 緊急電話
     ko = 긴급 전화
+    lt = Skubios pagalbos telefonas
     mr = संकटकालीन फोन
     nb = Nødtelefon
     nl = Praatpaal
@@ -11615,6 +11867,7 @@
     it = Ingresso
     ja = エントランス
     ko = 입구
+    lt = Įėjimas
     mr = प्रवेशद्वार
     nb = Inngang
     nl = Ingang
@@ -11657,6 +11910,7 @@
     it = Entrata principale
     ja = 正面玄関
     ko = 정문
+    lt = Pagrindinis įėjimas
     mr = मुख्य प्रवेशद्वार
     nb = Hovedinngang
     nl = Hoofdingang
@@ -11700,7 +11954,7 @@
     it = Uscita
     ja = 終了する
     ko = 종료
-    lt = Išeiti
+    lt = Išėjimas
     mr = बाहेर पडा
     nb = Utgang
     nl = Ga naar
@@ -11788,6 +12042,7 @@
     it = Laboratorio Medico
     ja = 医療研究所
     ko = 의료 연구실
+    lt = Medicinos laboratorija
     mr = वैद्यकीय प्रयोगशाळा
     nb = Medisinsk laboratorium
     nl = Medisch laboratorium
@@ -11830,6 +12085,7 @@
     it = Fisioterapista
     ja = 理学療法士
     ko = 물리치료사
+    lt = Fizioterapeutas (-ė)
     mr = फिजिओथेरपिस्ट
     nb = Fysioterapeut
     nl = Fysiotherapeut
@@ -11872,6 +12128,7 @@
     it = Medicina alternativa
     ja = 代替医療
     ko = 대체 약품
+    lt = Alternatyvioji medicina
     mr = पर्यायी औषध
     nb = Alternativ medisin
     nl = Alternatieve geneeskunde
@@ -11914,6 +12171,7 @@
     it = Audiologia
     ja = オーディオロジー
     ko = 청력학
+    lt = Audiologas (-ė)
     mr = ऑडिओलॉजी
     nb = Audiologi
     nl = Audiologie
@@ -11957,6 +12215,7 @@
     it = Centro di donazione del sangue
     ja = 献血センター
     ko = 헌혈센터
+    lt = Kraujo donorystės centras
     mr = रक्तदान केंद्र
     nb = Bloddonasjonssenter
     nl = Bloeddonatiecentrum
@@ -11999,6 +12258,7 @@
     it = Optometria
     ja = オプトメトリー
     ko = 검안
+    lt = Optometristas (-ė)
     mr = ऑप्टोमेट्री
     nb = Optometri
     nl = Optometrie
@@ -12041,6 +12301,7 @@
     it = Podologia
     ja = 足病学
     ko = 발병학
+    lt = Podologas (-ė)
     mr = पोडियाट्री
     nb = Fotterapi
     nl = Podologie
@@ -12083,6 +12344,7 @@
     it = Psicoterapia
     ja = 心理療法
     ko = 심리치료
+    lt = Psichoterapeutas (-ė)
     mr = मानसोपचार
     nb = Psykoterapi
     nl = Psychotherapie
@@ -12167,6 +12429,7 @@
     it = Logopedia
     ja = ロゴペディックス
     ko = 대화 요법
+    lt = Logopedija
     mr = स्पीच थेरपी
     nb = Snakketerapi
     nl = Logopedie
@@ -12200,6 +12463,7 @@
     hi = राजमार्ग
     it = Via
     ja = 道路
+    lt = Greitkelis
     mr = महामार्ग
     nl = Straat
     pl = Droga
@@ -12283,6 +12547,7 @@
     it = Strada dedicata agli autobus
     ja = バス専用道路
     ko = 버스전용도로
+    lt = Specialus kelias autobusams
     mr = समर्पित बस रस्ता
     nb = Dedikert bussvei
     nl = Speciale busweg
@@ -12329,6 +12594,7 @@
     it = Fermata dell'autobus
     ja = バス停
     ko = 버스 정류장
+    lt = Autobusų stotelė
     mr = बस थांबा
     nb = Busstopp
     nl = Bushalte
@@ -12369,6 +12635,7 @@
     it = Strada in costruzione
     ja = 工事中の道路
     ko = 공사 중 도로
+    lt = Tiesiamas kelias
     mr = बांधकामाधीन रस्ता
     nb = Veikonstruksjon
     nl = Baan in aanbouw
@@ -12402,6 +12669,7 @@
     hi = साइकिल मार्ग
     it = Pista ciclabile
     ja = 自転車道
+    lt = Dviračių takas
     mr = सायकल वाट
     nb = Sykkelvei
     nl = Fietspad
@@ -12458,6 +12726,7 @@
     he = מעלית
     hi = उत्थापक
     it = Ascensore
+    lt = Liftas
     mr = उद्वाहक(लिफ्ट)
     nl = Lift
     pl = Winda
@@ -12492,6 +12761,7 @@
     it = Sentiero
     ja = 歩道
     ko = 길
+    lt = Pėsčiųjų takas
     mr = पादचारी मार्ग
     nb = Gangvei
     nl = Voetpad
@@ -12609,6 +12879,7 @@
     et = Jalakäijate ala
     fi = Jalankulkualue
     he = אזור להולכי רגל
+    lt = Pėsčiųjų zona
     mr = पादचारी झोन
     nl = Voetgangerszone
     pl = Obszar drogi pieszej
@@ -12627,6 +12898,7 @@
     et = Jalakäijate sild
     fi = Jalankulkusilta
     he = גשר הולכי רגל
+    lt = Pėsčiųjų tiltas
     mr = पादचारी पूल
     nl = Voetgangersbrug
     pl = Most dla pieszych
@@ -12646,6 +12918,7 @@
     et = Jalakäijate tunnel
     fi = Jalankulkutunneli
     he = מנהרה להולכי רגל
+    lt = Pėsčiųjų tunelis
     mr = पादचारी बोगदा
     nl = Voetgangerstunnel
     pl = Tunel dla pieszych
@@ -12675,6 +12948,7 @@
     it = Guado
     ja = 浅瀬
     ko = 여울
+    lt = Brasta
     nb = Vadested
     nl = Voorde
     pl = Bród
@@ -12712,6 +12986,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Gyvenamoji gatvė
     mr = वस्ती मार्ग
     nb = Gate
     nl = Straat
@@ -12761,6 +13036,7 @@
     it = Autostrada
     ja = ストリート
     ko = 거리
+    lt = Greitkelis
     mr = महामार्ग
     nb = Motorvei
     nl = Snelweg
@@ -12787,6 +13063,7 @@
     et = Mootorrataste sild
     fi = Moottoritiesilta
     it = Ponte autostradale
+    lt = Greitkelio tiltas
     mr = महामार्ग पूल
     nl = Snelwegbrug
     pl = Most drogowy
@@ -12802,6 +13079,7 @@
     et = Kiirtee tunnel
     fi = Moottoritietunneli
     it = Tunnel autostradale
+    lt = Greitkelio tunelis
     mr = महामार्ग बोगदा
     nl = Snelwegtunnel
     pl = Tunel drogowy
@@ -12828,6 +13106,7 @@
     hu = Kijárat
     id = Keluar
     ja = ジャンクション
+    lt = Išvažiavimas
     mr = रस्ता निर्गमन
     nb = Avkjørsel
     nl = Afrit
@@ -12898,7 +13177,7 @@
     it = Sentiero
     ja = 歩道
     ko = 길
-    lt = Kelias
+    lt = Takas
     mr = पथ
     nb = Sti
     nl = Pad
@@ -13019,6 +13298,7 @@
     et = Jalgratta- ja jalgtee
     fi = Pyörä- ja jalkatie
     he = שביל להולכי רגל ואופניים
+    lt = Dviračių ir pėsčiųjų takas
     mr = सायकल आणि पाऊलवाट
     nl = Fietspad
     pl = Ścieżka dla rowerów
@@ -13076,6 +13356,7 @@
     it = Strada pedonale
     ja = ストリート
     ko = 거리
+    lt = Pėsčiųjų gatvė
     mr = पादचारी मार्ग
     nb = Gågate
     nl = Voetgangersgebied
@@ -13103,6 +13384,7 @@
     fi = Jalankulkualue
     he = אזור הולכי רגל
     it = Area pedonale
+    lt = Pėsčiųjų zona
     mr = पादचारी झोन
     pl = Obszar deptaka
     ru = Пешеходная зона
@@ -13119,6 +13401,7 @@
     et = Jalakäijate sild
     fi = Jalankulkusilta
     he = גשר הולכי רגל
+    lt = Pėsčiųjų tiltas
     mr = पादचारी पूल
     nl = Voetgangersbrug
     pl = Most dla pieszych
@@ -13135,6 +13418,7 @@
     et = Jalakäijate tunnel
     fi = Jalankulkutunneli
     he = מנהרה להולכי רגל
+    lt = Pėsčiųjų tunelis
     mr = पादचारी बोगदा
     nl = Voetgangerstunnel
     pl = Tunel dla pieszych
@@ -13164,6 +13448,7 @@
     it = Strada
     ja = ストリート
     ko = 거리
+    lt = Pagrindinis kelias
     mr = प्राथमिक मार्ग
     nb = Hovedvei
     nl = Hoofdweg
@@ -13233,6 +13518,7 @@
     it = Pista
     ja = レース場
     ko = 경마장
+    lt = Lenktynių trasa
     mr = शर्यतीचा मार्ग
     nb = Løpebane
     nl = Racebaan
@@ -13271,6 +13557,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Gyvenamoji gatvė
     mr = रस्ता
     nb = Gate
     nl = Straat
@@ -13322,6 +13609,7 @@
     it = Area di sosta
     ja = 休憩所
     ko = 휴게소
+    lt = Poilsiavietė
     mr = विश्रांती क्षेत्र
     nb = Rasteplass
     nl = Parkeerplaats
@@ -13361,6 +13649,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Kelias
     mr = रस्ता
     nb = Vei
     nl = Straat
@@ -13403,6 +13692,7 @@
     it = Ponte
     ja = 橋
     ko = 다리
+    lt = Tiltas
     mr = पूल
     nb = Bru
     nl = Brug
@@ -13450,6 +13740,7 @@
     it = Tunnel
     ja = トンネル
     ko = 터널
+    lt = Tunelis
     mr = बोगदा
     nb = Tunnel
     nl = Tunnel
@@ -13490,6 +13781,7 @@
     it = Strada
     ja = ストリート
     ko = 거리
+    lt = Antrinis kelias
     mr = दुय्यम मार्ग
     nb = Sekundærvei
     nl = Secundaire weg
@@ -13563,6 +13855,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Aptarnavimo kelias
     mr = सेवा मार्ग
     nb = Service-vei
     nl = Straat
@@ -13597,6 +13890,7 @@
     et = Sissesõidutee
     fi = Ajotie
     he = כביש גישה
+    lt = Privažiavimas
     mr = चालकमार्ग
     pl = Droga podjazdowa
     pt-BR = Via de acesso
@@ -13682,6 +13976,7 @@
     it = Autovelox
     ja = 自動速度違反取締装置
     ko = 스피드 카메라
+    lt = Greičio kontrolės kamera
     mr = वेग कॅमेरा
     nb = Fotoboks
     nl = Flitspaal
@@ -13720,6 +14015,7 @@
     it = Scale
     ja = 歩道
     ko = 길
+    lt = Laiptai
     mr = पायऱ्या
     nb = Trapper
     nl = Trap
@@ -13765,6 +14061,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Tretinis kelias
     mr = तृतीयक मार्ग
     nb = Tertiærvei
     nl = Tertiaire weg
@@ -13836,6 +14133,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Keliukas
     mr = ट्रॅक
     nb = Traktor/Skogsbilvei
     nl = Straat
@@ -13894,6 +14192,7 @@
     it = Semaforo
     ja = 交通信号
     ko = 신호등
+    lt = Šviesoforai
     mr = वाहतूक दिवे
     nb = Trafikklys
     nl = Verkeerslichten
@@ -13935,6 +14234,7 @@
     it = Strada
     ja = ストリート
     ko = 거리
+    lt = Magistralinis kelias
     mr = राष्ट्रीय महामार्ग
     nb = Riksvei
     nl = Straat
@@ -14004,6 +14304,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lt = Kelias
     mr = किरकोळ रस्ता
     nb = Småvei
     nl = Straat
@@ -14125,6 +14426,7 @@
     it = Oggetto storico
     ja = 史跡
     ko = 역사적 물건
+    lt = Istorinis objektas
     mr = ऐतिहासिक
     nb = Historisk gjenstand
     nl = Historisch object
@@ -14251,6 +14553,7 @@
     it = Sito archeologico
     ja = 考古遺跡
     ko = 발굴
+    lt = Archeologinė vietovė
     mr = पुरातत्व स्थळ
     nb = Arkeologisk område
     nl = Archeologische site
@@ -14293,6 +14596,7 @@
     it = Campo di battaglia
     ja = 古戦場
     ko = 전장터
+    lt = Istorinis mūšio laukas
     mr = रणांगण
     nb = Slagmarken
     nl = Slagveld
@@ -14335,6 +14639,7 @@
     it = Cippo di confine
     ja = 境界標
     ko = 경계석
+    lt = Ribų akmuo
     mr = सीमेचा दगड
     nb = Grensestein
     nl = Grenssteen
@@ -14419,6 +14724,7 @@
     it = Castello
     ja = 城
     ko = 성
+    lt = Pilis
     mr = गढी
     nb = Borg
     nl = Kasteel
@@ -14459,6 +14765,7 @@
     it = Castra
     ja = カストラ
     ko = 로마 요새
+    lt = Romėnų tvirtovė
     mr = रोमन किल्ला
     nb = Romersk fort
     nl = Castra
@@ -14501,6 +14808,7 @@
     it = Castello
     ja = 城
     ko = 성
+    lt = Tvirtovė
     mr = गढी
     nb = Borg
     nl = Kasteel
@@ -14542,6 +14850,7 @@
     it = Chiesa fortificata
     ja = 要塞化された教会
     ko = 요새화된 교회
+    lt = Įtvirtinta bažnyčia
     mr = तटबंदी असलेले चर्च
     nb = Befestet kirke
     nl = Weerkerk
@@ -14584,6 +14893,7 @@
     it = Fortezza
     ja = 要塞
     ko = 요새
+    lt = Tvirtovė
     mr = किल्ला
     nb = Festning
     nl = Vesting
@@ -14625,6 +14935,7 @@
     it = Fortezza di collina
     ja = ヒルフォート
     ko = 힐포트
+    lt = Piliakalnis
     mr = हिलफोर्ट
     nb = Bygdeborg
     nl = Heuvelfort
@@ -14665,6 +14976,7 @@
     it = Cremlino
     ja = クレムリ
     ko = 크렘린
+    lt = Kremlius
     mr = क्रेमलिन
     nb = Kreml
     nl = Kremlin
@@ -14706,6 +15018,7 @@
     it = Maniero
     ja = マナー・ハウス
     ko = 매너하우스
+    lt = Dvaro rūmai
     mr = मनोर घर
     nb = Herregård
     nl = Manoir
@@ -14748,6 +15061,7 @@
     it = Palazzo
     ja = 宮殿
     ko = 궁전
+    lt = Rūmai
     mr = राजवाडा
     nb = Palass
     nl = Paleis
@@ -14789,6 +15103,7 @@
     it = Castello giapponese
     ja = 日本の城
     ko = 일본의 성
+    lt = Japoniška pilis
     mr = जपानी किल्ला
     nb = Japanske borger
     nl = Japans kasteel
@@ -14830,6 +15145,7 @@
     it = Castello
     ja = 城
     ko = 성
+    lt = Pilis
     mr = किल्ला
     nb = Slott
     nl = Landhuis
@@ -14870,6 +15186,7 @@
     it = Porta cittadina
     ja = 城門
     ko = 성문
+    lt = Miesto vartai
     mr = शहराचा दरवाजा
     nb = Byport
     nl = Stadspoort
@@ -14912,6 +15229,7 @@
     it = Muro della città
     ja = 城壁
     ko = 도시의 벽
+    lt = Miesto siena
     mr = शहराची भिंत
     nb = Bymur
     nl = Stadsmuur
@@ -14955,6 +15273,7 @@
     it = Fortezza
     ja = 歴史的な要塞
     ko = 요새
+    lt = Fortas
     mr = दुर्ग
     nb = Fort
     nl = Fort
@@ -14996,6 +15315,7 @@
     it = Forca
     ja = 絞首台
     ko = 교수대
+    lt = Kartuvės
     mr = फाशी
     nb = Galge
     nl = Galg
@@ -15036,7 +15356,7 @@
     it = Locomotiva storica
     ja = 歴史的な機関車
     ko = 역사적인 기관차
-    lt = Istorinis lokomotyvas
+    lt = Istorinis garvežys
     mr = ऐतिहासिक लोकोमोटिव्ह
     nb = Historisk lokomotiv
     nl = Historische locomotief
@@ -15079,6 +15399,7 @@
     it = Memoriale
     ja = 記念碑
     ko = 기념비
+    lt = Paminklas
     mr = स्मारक
     nb = Minnesmerke
     nl = Gedenkteken
@@ -15120,6 +15441,7 @@
     it = Croce commemorativa
     ja = メモリアルクロス
     ko = 기념 십자가
+    lt = Paminklinis kryžius
     mr = मेमोरियल क्रॉस
     nb = Minnekors
     nl = Herdenkingskruis
@@ -15163,6 +15485,7 @@
     it = Memoriale
     ja = 銘板
     ko = 기념비
+    lt = Atminimo lentelė
     mr = फलक
     nb = Minneplakett
     nl = Gedenkplaat
@@ -15204,6 +15527,7 @@
     it = Scultura
     ja = 彫刻
     ko = 기념비
+    lt = Skulptūra
     mr = शिल्प
     nb = Skulptur
     nl = Sculptuur
@@ -15246,6 +15570,7 @@
     it = Statua memoriale
     ja = 塑像
     ko = 기념비
+    lt = Statula
     mr = पुतळा
     nb = Statue
     nl = Standbeeld
@@ -15286,6 +15611,7 @@
     it = Pietre d'inciampo
     ja = ストルパーシュタイン
     ko = 장애물
+    lt = Stolpersteinas
     mr = अडथळा
     nb = Snublesteiner
     nl = Stolperstein
@@ -15370,6 +15696,7 @@
     it = Monumento ai caduti
     ja = 戦争記念施設
     ko = 전쟁기념관
+    lt = Karo paminklas
     mr = युद्ध स्मारक
     nb = Krigsminnesmerke
     nl = Oorlogsmonument
@@ -15454,6 +15781,7 @@
     it = Monumento
     ja = 記念碑
     ko = 기념탑
+    lt = Paminklas
     mr = स्मारक
     nl = Monument
     pl = Monument
@@ -15534,6 +15862,7 @@
     it = Rovine
     ja = 古跡
     ko = 유적
+    lt = Istoriniai griuvėsiai
     mr = अवशेष
     nb = Ruiner
     nl = Ruïne
@@ -15575,6 +15904,7 @@
     it = Nave storica
     ja = 退役船
     ko = 배
+    lt = Laivas
     mr = जहाज
     nb = Skip
     nl = Historisch schip
@@ -15658,6 +15988,7 @@
     it = Tomba
     ja = 墓
     ko = 무덤
+    lt = Kapavietė
     mr = थडगे
     nb = Grav
     nl = Graftombe
@@ -15698,6 +16029,7 @@
     it = Crocifisso
     ja = 歴史的な十字架
     ko = 길가의 십자가
+    lt = Pakelės kryžius
     mr = ख्रिश्चन क्रॉस
     nb = Veikantkors
     nl = Wegkruis
@@ -15739,6 +16071,7 @@
     it = Edicola votiva
     ja = 歴史的な祠
     ko = 길가의 신사
+    lt = Pakelės šventovė
     mr = देवस्थान
     nb = Helligdom ved veikanten
     nl = Kruisbeeld
@@ -15779,7 +16112,7 @@
     it = Naufragio
     ja = 難破船
     ko = 난파선
-    lt = Laivo avarija
+    lt = Sudužęs laivas
     mr = जहाजाचा नाश
     nb = Skipsvrak
     nl = Schipbreuk
@@ -15862,6 +16195,7 @@
     hi = इंटरनेट उपलब्ध
     ja = インターネット
     ko = 인터넷
+    lt = Internetas
     mr = इंटरनेट
     nl = Internet
     pt = Internet
@@ -15886,6 +16220,7 @@
     hi = वाई-फाई उपलब्ध
     ja = インターネット
     ko = 인터넷
+    lt = Internetas
     mr = इंटरनेट
     nl = Draadloos internet
     pt = Internet
@@ -15910,6 +16245,7 @@
     he = צומת
     it = Incrocio
     ja = 交差点
+    lt = Jungtis
     mr = जंक्शन
     nl = Kruispunt
     pl = Skrzyżowanie
@@ -15939,6 +16275,7 @@
     hi = गोल चक्कर
     it = Rotonda
     ja = ラウンドアバウト
+    lt = Žiedas
     mr = गोलमार्ग
     nl = Rotonde
     pl = Rondo
@@ -15992,6 +16329,7 @@
     he = חלקות חקלאיות
     it = Orti comunitari
     ja = 市民農園
+    lt = Sklypai
     mr = वाटप
     nl = Volkstuinen
     pl = Działki
@@ -16027,6 +16365,7 @@
     it = Bacino d'acqua
     ja = 水地
     ko = 저수지
+    lt = Baseinas
     mr = कुंड
     nb = Basseng
     nl = Waterbassin
@@ -16098,6 +16437,7 @@
     it = Sagrato della chiesa
     ja = キリスト教教会付属地
     ko = 교회 마당
+    lt = Šventorius
     nb = Kirkegård
     nl = Kerkhof
     pl = Teren kościelny
@@ -16129,6 +16469,7 @@
     hi = वाणिज्य क्षेत्र
     it = Area commerciale
     ja = 商業用地
+    lt = Komercinė zona
     mr = व्यावसायिक क्षेत्र
     nl = Commercieel gebied
     pl = Teren handlu i usług
@@ -16154,6 +16495,7 @@
     he = אתר בניה
     it = Cantiere
     ja = 建設工事中
+    lt = Statybos zona
     mr = बांधकाम
     nl = Bouwplaats
     pl = Teren budowy
@@ -16178,6 +16520,7 @@
     fr = Établissements éducatifs
     he = קריית חינוך
     it = Strutture didattiche
+    lt = Švietimo priemonė
     mr = शैक्षणिक सुविधा
     nl = Educatieve voorzieningen
     pl = Placówki oświatowe
@@ -16210,6 +16553,7 @@
     it = Terreno agricolo
     ja = 農地
     ko = 농지
+    lt = Dirbamoji žemė
     mr = शेतजमीन
     nb = Jordbruksområde
     nl = Landbouwgrond
@@ -16240,6 +16584,7 @@
     he = חצר חקלאית
     it = Fattoria
     ja = 農地
+    lt = Ūkio kiemas
     nl = Boerenerf
     pl = Obejście gospodarskie
     pt = Pátio de quinta
@@ -16263,6 +16608,7 @@
     fr = Champ
     he = שדה
     hi = क्षेत्र
+    lt = Laukas
     mr = क्षेत्र
     nl = Veld
     pl = Pole
@@ -16298,7 +16644,7 @@
     it = Aiuola
     ja = 花壇
     ko = "화단"
-    lt = Geliu lova
+    lt = Gėlynas
     mr = फ्लॉवरबेड
     nb = Blomsterbed
     nl = Bloemenbed
@@ -16339,6 +16685,7 @@
     it = Foresta
     ja = 森林
     ko = 숲
+    lt = Miškas
     mr = वन
     nb = Skog
     nl = Bos
@@ -16377,6 +16724,7 @@
     it = Foresta di conifere
     ja = 森林
     ko = 숲
+    lt = Spygliuočių miškas
     mr = शंकुमंत जंगल
     nb = Barskog
     nl = Naaldbos
@@ -16415,6 +16763,7 @@
     it = Foresta de cidua
     ja = 森林
     ko = 숲
+    lt = Lapuočių miškas
     mr = पानझडी जंगल
     nb = Løvskog
     nl = Loofbos
@@ -16454,6 +16803,7 @@
     it = Foresta mista
     ja = 森林
     ko = 숲
+    lt = Mišrių lapų tipo miškas
     mr = मिश्र वन
     nb = Skog
     nl = Gemengd bos
@@ -16482,6 +16832,7 @@
     fi = Autotallit
     it = Garage
     ja = ガレージ
+    lt = Garažai
     mr = गराज
     nl = Garages
     pl = Garaże
@@ -16517,6 +16868,7 @@
     it = Prato erboso
     ja = 芝生
     ko = 잔디
+    lt = Žolė
     mr = हिरवळ
     nb = Plen
     nl = Gazon
@@ -16568,6 +16920,7 @@
     fr = Culture sous serre
     he = חממה
     ja = 温室栽培
+    lt = Šiltnamis
     mr = हरितगृह
     nl = Kassen
     pt = Estufas
@@ -16592,6 +16945,7 @@
     he = אזור תעשייה
     it = Zona industriale
     ja = 工業用地
+    lt Pramoninė zona
     mr = औद्योगिक जमीन
     nl = Industrieterrein
     pl = Obszar przemysłowy
@@ -16626,6 +16980,7 @@
     it = Luogo di scarico
     ja = 埋立地
     ko = 쓰레기 매립지
+    lt = Sąvartynas
     mr = कचराक्षेत्र
     nb = Land-deponi
     nl = Stortplaats
@@ -16657,6 +17012,7 @@
     he = אחו
     it = Radura
     ja = 牧草地
+    lt = Pieva
     mr = कुरण
     nl = Weiland
     pl = Łąka
@@ -16682,6 +17038,7 @@
     he = שטח צבאי
     it = Area militare
     ja = 軍用地
+    lt = Karinė zona
     mr = लष्करी क्षेत्र
     nl = Militair terrein
     pl = Teren wojskowy
@@ -16707,6 +17064,7 @@
     he = פרדס
     it = Frutteto
     ja = 果樹園
+    lt = Vaismedžių sodas
     mr = फळबागा
     nl = Boomgaard
     pl = Sad
@@ -16732,6 +17090,7 @@
     he = מחצבה
     it = Cava
     ja = 採石場
+    lt = Karjeras
     mr = खाण
     nl = Steengroeve
     pl = Kamieniołom
@@ -16766,6 +17125,7 @@
     it = Impianti ferroviari
     ja = 鉄道施設
     ko = 차량 기지
+    lt = Geležinkelio teritorija
     mr = रेल्वे परिसर
     nb = Jernbaneområde
     nl = Spoorwegfaciliteiten
@@ -16797,6 +17157,7 @@
     he = אזור מיועד לבילוי
     it = Area divertimento
     ja = レクリエーション
+    lt = Poilsiavietė
     mr = मनोरंजन मैदान
     nl = Recreatiezone
     pl = Teren rekreacyjny
@@ -16830,6 +17191,7 @@
     it = Bacino
     ja = 貯水池
     ko = 저수지
+    lt = Rezervuaras
     mr = पाणी
     nb = Vann
     pl = Woda
@@ -16859,6 +17221,7 @@
     he = אזור מגורים
     it = Area residentiale
     ja = 住宅地
+    lt = Gyvenamasis vietovė
     mr = निवासी जमीन
     nl = Woonwijk
     pl = Tereny zamieszkania
@@ -16909,6 +17272,7 @@
     he = בריכת מלח
     it = Salina
     ja = 塩田
+    lt = Druskos tvenkinys
     mr = तलाव
     nl = Zoutpoel
     pl = Słone jezioro
@@ -16930,6 +17294,7 @@
     et = Maa
     he = כפר ירוק
     ja = 村の中心
+    lt = Žemė
     mr = जमीन
     nl = Dorpspark
     pl = Nawsie
@@ -16954,6 +17319,7 @@
     he = כרם
     it = Vigne
     ja = ブドウ園
+    lt = Vynuogynas
     mr = द्राक्षमळा
     nl = Wijngaard
     pl = Winnica
@@ -16998,6 +17364,7 @@
     et = Avalik maa
     he = קרקע ציבורית
     ja = レジャー(共有地)
+    lt = Viešoji žemė
     mr = सार्वजनिक जमीन
     nl = Openbare grond
     pt = Terreno baldio
@@ -17031,6 +17398,7 @@
     it = Area sgambamento cani
     ja = ドッグエリア
     ko = 애완견 지역
+    lt = Šunų parkas
     mr = कुत्र्याचे क्षेत्र
     nb = Hundeområde
     nl = Hondenuitlaatplek
@@ -17071,6 +17439,7 @@
     it = Centro benessere
     ja = フィットネスセンター、ジム
     ko = 피트니스센터
+    lt = Sporto centras
     mr = व्यायामशाळा
     nb = Treningssenter
     nl = Fitnesscentrum
@@ -17110,6 +17479,7 @@
     it = Centro fitness
     ja = フィットネスステーション
     ko = 피트니스 스테이션
+    lt = Treniruoklis
     nb = Treningsstasjon
     nl = Fitness-Station
     pl = Stacja fitness
@@ -17149,6 +17519,7 @@
     it = Sala da ballo
     ja = ダンスホール
     ko = "댄스홀"
+    lt = Šokių salė
     nb = Dansesal
     nl = Danszaal
     pl = Sala taneczna
@@ -17188,6 +17559,7 @@
     it = Giardino
     ja = 庭園
     ko = 정원
+    lt = Sodas
     mr = बाग
     nb = Hage
     nl = Tuin
@@ -17214,6 +17586,7 @@
     es = Jardín residencial
     et = Elamu aed
     he = גן מגורים
+    lt = Gyvenamasis sodas
     pl = Ogród przydomowy
     pt = Jardim residencial
     pt-BR = Jardim residencial
@@ -17243,6 +17616,7 @@
     it = Campo da golf
     ja = ゴルフコース
     ko = 골프장
+    lt = Golfo laukas
     mr = गोल्फचे मैदान
     nb = Golfbane
     nl = Golfbaan
@@ -17280,6 +17654,7 @@
     it = Minigolf
     ja = ミニゴルフ
     ko = 미니골프
+    lt = Minigolfas
     mr = मिनीगोल्फ
     nb = Minigolf
     nl = Minigolf
@@ -17326,6 +17701,7 @@
     he = החלקה על קרח
     it = Pista di pattinaggio
     ja = アイスリンク
+    lt = Ledo čiuožykla
     mr = हिम क्रीडा क्षेत्र
     nl = Schaatsbaan
     pl = Lodowisko
@@ -17352,6 +17728,7 @@
     hi = मरीना
     it = Porto turistico
     ja = マリーナ
+    lt = Marina
     nl = Jachthaven
     pt = Marina
     pt-BR = Marina
@@ -17384,6 +17761,7 @@
     it = Riserva naturale
     ja = 自然保護区
     ko = 천연보호구역
+    lt = Gamtos draustinis
     mr = संरक्षित निसर्गक्षेत्र
     nb = Naturreservat
     nl = Natuurreservaat
@@ -17425,6 +17803,7 @@
     it = Posti a sedere all'aperto
     ja = 屋外席
     ko = 야외 좌석
+    lt = Lauko sėdimosios vietos
     mr = बाहेरची आसनव्यवस्था
     nb = Uteservering
     nl = Zitplaatsen buiten
@@ -17465,6 +17844,7 @@
     it = Parco
     ja = 公園
     ko = 공원
+    lt = Parkas
     mr = उद्यान
     nb = Park
     nl = Park
@@ -17487,6 +17867,7 @@
     ref = type.leisure.park
     en = Private Park
     he = פארק סגור לכניסה
+    lt = Privatus parkas
 
   [type.leisure.park.permissive]
     ref = type.leisure.park
@@ -17495,6 +17876,7 @@
     ref = type.leisure.park
     en = Private Park
     he = פארק פרטי
+    lt = Privatus parkas
 
   [type.leisure.picnic_table]
     en = Picnic Table
@@ -17520,6 +17902,7 @@
     it = Tavolo da picnic
     ja = ピクニック用のテーブル
     ko = "피크닉 테이블"
+    lt = Pikniko stalas
     mr = जेवायचे टेबल
     nb = Piknikbord
     nl = Picknicktafel
@@ -17559,6 +17942,7 @@
     it = Campo sportivo
     ja = 運動場
     ko = 운동장
+    lt = Sporto aikštelė
     mr = क्रीडांगण
     nb = Idrettsplass
     nl = Sportveld
@@ -17598,6 +17982,7 @@
     it = Campo giochi
     ja = 児童公園
     ko = 놀이터
+    lt = Žaidimų aikštelė
     mr = खेळाचे मैदान
     nb = Lekeplass
     nl = Speeltuin
@@ -17622,6 +18007,7 @@
     es = Zona recreativa
     et = Puhkeväljak
     he = אזור מיועד לבילוי
+    lt = Poilsiavietė
     mr = मनोरंजन मैदान
     nl = Recreatieterrein
     pl = Teren rekreacji
@@ -17656,6 +18042,7 @@
     it = Sauna
     ja = サウナ
     ko = 사우나
+    lt = Pirtis
     nb = Badstue
     nl = Sauna
     pl = Sauna
@@ -17716,6 +18103,7 @@
     it = Centro sportivo
     ja = スポーツセンター
     ko = 스포츠 센터
+    lt = Sporto centras
     mr = क्रीडासंकुल
     nb = Sportssenter
     nl = Sportcentrum
@@ -17756,6 +18144,7 @@
     it = Centro di arrampicata
     ja = クライミングセンター
     ko = 등반 센터
+    lt = Laipiojimo centras
     mr = चढण केंद्र
     nb = Klatresenter
     nl = Klimhal
@@ -17796,6 +18185,7 @@
     it = Centro Yoga
     ja = ヨガスタジオ
     ko = 요가 스튜디오
+    lt = Jogos studija
     mr = योगासन केंद्र
     nb = Yogastudio
     nl = Yogastudio
@@ -17834,6 +18224,7 @@
     it = Stadio
     ja = スタジアム
     ko = 경기장
+    lt = Stadionas
     mr = क्रीडागार(स्टेडियम)
     nb = Stadion
     nl = Stadion
@@ -17874,6 +18265,7 @@
     it = Piscina
     ja = プール
     ko = 수영장
+    lt = Baseinas
     mr = जलतरण तलाव
     nb = Svømmebasseng
     nl = Zwembad
@@ -17899,6 +18291,7 @@
     fr = Piscine privée
     he = בריכת שחייה פרטית
     it = Piscina privata
+    lt = Privatus baseinas
     nl = Privé zwembad
     sk = Súkromné kúpalisko
 
@@ -17912,6 +18305,7 @@
     fr = Piste de course
     it = Pista da corsa
     ja = トラック
+    lt = Trasa
     mr = ट्रॅक
     nl = Parcours
     pt = Pista para desportos não motorizados
@@ -17947,6 +18341,7 @@
     it = Parco acquatico
     ja = ウォーターパーク
     ko = 워터파크
+    lt = Vandens parkas
     mr = जल उद्यान
     nb = Vannpark
     nl = Waterpark
@@ -17973,6 +18368,7 @@
     et = Rannakuurort
     he = אתר נופש על החוף
     it = Resort balneare
+    lt = Paplūdimio kurortas
     mr = समुद्री रिसॉर्ट
     nl = Strandresort
     ru = Пляжный курорт
@@ -17992,6 +18388,7 @@
     he = מלאכותי-מעשה ידי אדם
     it = Stabilimento balneare
     ja = 構造物
+    lt = Žmogaus sukurtas
     mr = मानवनिर्मित
     nl = Kunstmatige constructies
     pt = Construção humana
@@ -18064,6 +18461,7 @@
     it = Ciminiera industriale
     ja = 工場煙突
     ko = 공장 굴뚝
+    lt = Kaminas
     mr = कारखाना चिमणी
     nb = Fabrikkpipe
     nl = Fabrieksschoorsteen
@@ -18091,6 +18489,7 @@
     fr = Layon
     he = אזור חיץ
     ja = 森林の切れ目
+    lt = Miško iškirtimo linija
     nl = Bospad
     pl = Przecinka leśna
     pt = Atalhada
@@ -18134,6 +18533,7 @@
     fr = Mât de drapeau
     he = עמוד דגל
     it = Alza bandiera
+    lt = Vėliavos stiebas
     mr = ध्वजस्तंभ
     nl = Vlaggenpaal
     pl = Maszt flagowy
@@ -18166,6 +18566,7 @@
     it = Faro
     ja = 灯台
     ko = 등대
+    lt = Švyturys
     mr = दीपगृह
     nb = Fyr
     nl = Vuurtoren
@@ -18195,6 +18596,7 @@
     fr = Mât
     he = תורן
     it = Pilone
+    lt = Stiebas
     mr = डोलकाठी
     nl = Mast
     pl = Maszt
@@ -18215,6 +18617,7 @@
     he = מזח
     it = Molo
     ja = 桟橋
+    lt = Molas
     mr = धक्का
     nl = Pier
     pl = Molo
@@ -18236,6 +18639,7 @@
     he = צינור
     it = Condotto
     ja = パイプライン
+    lt = Dujotiekis
     mr = नळमार्ग
     nl = Pijpleiding
     pl = Rurociąg
@@ -18256,6 +18660,7 @@
     et = Maapealne torujuhe
     he = צינור עילי
     ja = 地表のパイプライン
+    lt = Antžeminis dujotiekis
     mr = जमिनीवरील नळमार्ग
     nl = Bovengrondse pijpleiding
     pl = Rurociąg nad ziemią
@@ -18326,6 +18731,7 @@
     it = Videocamera di sorveglianza
     ja = 監視カメラ
     ko = 감시 카메라
+    lt = Stebėjimo kamera
     mr = संनिरीक्षण कॅमेरा
     nb = Overvåkingskamera
     nl = Bewakingscamera
@@ -18365,6 +18771,7 @@
     it = Torre
     ja = タワー
     ko = 타워
+    lt = Bokštas
     mr = मनोरा
     nb = Tårn
     nl = Toren
@@ -18406,6 +18813,7 @@
     it = Torre delle comunicazioni
     ja = 通信塔
     ko = 커뮤니케이션 타워
+    lt = Komunikacijos bokštas
     mr = कम्युनिकेशन टॉवर
     nb = Kommunikasjonstårn
     nl = Communicatie Toren
@@ -18436,6 +18844,7 @@
     hi = अपशिष्ट जलोपचार
     it = Impianto di trattamento delle acque reflue
     ja = 下水処理場
+    lt = Nuotekų valykla
     mr = सांडपाणी संयंत्र(प्लांट)
     nl = Waterzuiveringsinstallatie
     pl = Oczyszczalnia ścieków
@@ -18469,6 +18878,7 @@
     it = Rubinetto dell'acqua
     ja = 給水栓
     ko = 수도꼭지
+    lt = Vandens čiaupas
     mr = पाण्याचा नळ
     nb = Vannkran
     nl = Waterkraan
@@ -18511,6 +18921,7 @@
     it = Cisterna per acqua
     ja = 給水塔
     ko = 급수탑
+    lt = Vandens bokštas
     mr = पाण्याचा मनोरा(टाकी)
     nb = Vanntårn
     nl = Watertoren
@@ -18550,6 +18961,7 @@
     it = Pozzo d'acqua
     ja = 井戸
     ko = 우물
+    lt = Šulinys
     mr = पाण्याची विहीर
     nb = Brønn
     nl = Waterput
@@ -18592,6 +19004,7 @@
     it = Mulino a vento
     ja = 風車
     ko = 풍차
+    lt = Vėjo malūnas
     mr = पवनचक्की
     nb = Vindmølle
     nl = Windmolen
@@ -18619,6 +19032,7 @@
     he = עבודות תעשיה
     it = Fabbrica
     ja = 工場
+    lt = Fabrika
     mr = औद्योगिक कामे
     nl = Fabriek
     pl = Fabryka
@@ -18647,6 +19061,7 @@
     he = צבאי
     it = Forze armate
     ja = 軍事
+    lt = Karinė
     mr = लष्करी
     nl = Militair
     pl = Wojskowe
@@ -18673,6 +19088,7 @@
     it = Bunker
     ja = 掩蔽壕
     ko = 벙커
+    lt = Bunkeris
     mr = बंकर
     nl = Bunker
     pl = Bunkier
@@ -18699,6 +19115,7 @@
     fr = Col de montagne
     hi = दर्रा
     it = Passo
+    lt = Kalnų perėja
     mr = डोंगरवाट
     nl = Bergpas
     ru = Перевал
@@ -18730,6 +19147,7 @@
     it = Natura
     ja = 自然
     ko = 자연
+    lt = Gamta
     mr = नैसर्गिक
     nb = Natur
     nl = Natuur
@@ -18771,6 +19189,7 @@
     it = Roccia nuda
     ja = 岩肌
     ko = 베어 락
+    lt = Plikas akmuo
     mr = खडक
     nb = Bar stein
     nl = Kale rots
@@ -18896,6 +19315,7 @@
     it = Baia
     ja = 港湾
     ko = 만
+    lt = Įlanka
     mr = खाडी
     nb = Bukt
     nl = Baai
@@ -18937,6 +19357,7 @@
     it = Spiaggia
     ja = ビーチ
     ko = 바닷가
+    lt = Paplūdimys
     mr = समुद्रकिनारा
     nb = Strand
     nl = Strand
@@ -18978,6 +19399,7 @@
     it = Spiaggia sabbiosa
     ja = 砂浜
     ko = 모래 사장
+    lt = Smėlio paplūdimys
     mr = वालुकामय समुद्रकिनारा
     nb = Sandstrand
     nl = Zandstrand
@@ -19019,6 +19441,7 @@
     it = Spiaggia di ghiaia
     ja = グラベルビーチ
     ko = 자갈 해변
+    lt = Žvyro paplūdimys
     mr = रेव बीच
     nb = Grusstrand
     nl = Kiezelstrand
@@ -19060,6 +19483,7 @@
     it = Capo
     ja = 岬
     ko = 곶
+    lt = Kyšulys
     mr = केप
     nb = Kapp
     nl = Kaap
@@ -19101,6 +19525,7 @@
     it = Grotta
     ja = 洞窟
     ko = 동굴
+    lt = Olos įėjimas
     mr = गुहा
     nb = Grotte
     nl = Grot
@@ -19141,6 +19566,7 @@
     it = Falesia
     ja = 崖
     ko = 절벽
+    lt = Skardis
     mr = कडा
     nb = Klippe
     nl = Klif
@@ -19262,6 +19688,7 @@
     it = Costa
     ja = 海岸線
     ko = 연안
+    lt = Pakrantė
     mr = किनारपट्टी
     nb = Kyst
     nl = Kustlijn
@@ -19302,6 +19729,7 @@
     it = Deserto
     ja = 荒野
     ko = 사막
+    lt = Dykuma
     nb = Ørken
     nl = Woestijn
     pl = Pustynia
@@ -19335,6 +19763,7 @@
     it = Geyser
     ja = 間欠泉
     ko = 간헐천
+    lt = Geizeris
     mr = गिझर
     nb = Geysir
     nl = Geiser
@@ -19378,6 +19807,7 @@
     it = Ghiacciaio
     ja = 氷河
     ko = 빙하
+    lt = Ledynas
     mr = हिमनदी
     nb = Isbre
     nl = Gletsjer
@@ -19420,6 +19850,7 @@
     it = Prateria
     ja = 草原
     ko = 초원
+    lt = Pieva
     mr = गवताळ प्रदेश
     nb = Sletteland
     nl = Grasland
@@ -19543,6 +19974,7 @@
     it = Lago
     ja = 湖
     ko = 호수
+    lt = Ežeras
     mr = सरोवर
     nb = Innsjø
     nl = Meer
@@ -19624,6 +20056,7 @@
     it = Stagno
     ja = 池
     ko = 연못이
+    lt = Tvenkinys
     mr = तलाव
     nb = Dam
     nl = Plas
@@ -19664,6 +20097,7 @@
     it = Serbatoio
     ja = 貯水池
     ko = 저수지
+    lt = Rezervuaras
     mr = जलाशय
     nb = Reservoar
     nl = Reservoir
@@ -19704,6 +20138,7 @@
     it = Bacino d'acqua
     ja = 水地
     ko = 저수지
+    lt = Baseinas
     mr = कुंड
     nb = Basseng
     nl = Waterbassin
@@ -19745,6 +20180,7 @@
     it = Fiume
     ja = 河川
     ko = 강
+    lt = Upė
     mr = नदी
     nb = Elv
     nl = Rivier
@@ -19786,6 +20222,7 @@
     it = Terra
     ja = 陸地
     ko = 땅
+    lt = Žemė
     mr = जमीन
     nb = Land
     nl = Land
@@ -19827,6 +20264,7 @@
     it = Prato
     ja = 牧草地
     ko = 초지
+    lt = Pieva
     mr = कुरण
     nb = Eng
     nl = Weiland
@@ -19868,6 +20306,7 @@
     it = Frutteto
     ja = 果樹園
     ko = 과수원
+    lt = Vaismedžių sodas
     mr = फळबागा
     nb = Frukthage
     nl = Boomgaard
@@ -19909,6 +20348,7 @@
     it = Monte
     ja = 山頂
     ko = 산
+    lt = Viršūnė
     mr = शिखर
     nb = Topp
     nl = Top
@@ -19989,6 +20429,7 @@
     it = Roccia
     ja = 岩
     ko = 암석
+    lt = Akmuo
     mr = खडक
     nb = Fjell
     nl = Steen
@@ -20072,6 +20513,7 @@
     it = Sorgente
     ja = 泉
     ko = 샘
+    lt = Natūralus šaltinis
     mr = झरे
     nb = Kilde
     nl = Bron
@@ -20117,6 +20559,7 @@
     it = Stretto
     ja = 海峡
     ko = 해협
+    lt = Sąsiauris
     mr = सामुद्रधुनी
     nb = Sund
     nl = Zeestraat
@@ -20157,6 +20600,7 @@
     it = Fila di alberi
     ja = 並木
     ko = 나무 행
+    lt = Medžių eilė
     mr = झाडाची रांग
     nb = Trerekke
     nl = Bomenrij
@@ -20198,6 +20642,7 @@
     it = Vigneto
     ja = ブドウ園
     ko = 포도원
+    lt = Vynuogynas
     mr = द्राक्षमळा
     nb = Vingård
     nl = Wijngaard
@@ -20239,6 +20684,7 @@
     it = Vulcano
     ja = 火山
     ko = 화산
+    lt = Ugnikalnis
     mr = ज्वालामुखी
     nb = Vulkan
     nl = Vulkaan
@@ -20280,6 +20726,7 @@
     it = Corpo d'acqua
     ja = 水地
     ko = 수역
+    lt = Vanduo
     mr = पाणवठा
     nb = Vann
     nl = Waterlichaam
@@ -20322,6 +20769,7 @@
     it = Terreno paludoso
     ja = 湿地帯
     ko = 습지 구역
+    lt = Šlapynė
     mr = ओलिताची जमीन
     nb = Våtmarksområde
     nl = Moerasland
@@ -20362,6 +20810,7 @@
     it = Torbiera
     ja = 泥炭地
     ko = 수렁
+    lt = Pelkė
     mr = ओलिताची जमीन
     nb = Myr
     nl = Moeras
@@ -20403,6 +20852,7 @@
     it = Palude
     ja = 沼地
     ko = 소택
+    lt = Pelkė
     mr = ओलिताची जमीन
     nb = Sump
     nl = Moeras
@@ -20461,6 +20911,7 @@
     it = Ufficio
     ja = オフィス
     ko = 사무실
+    lt = Biuras
     mr = कार्यालय
     nb = Kontor
     nl = Kantoor
