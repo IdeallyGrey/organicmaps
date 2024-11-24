@@ -744,7 +744,7 @@
     id = Setelah lima puluh meter
     it = Tra cinquanta metri
     ja = 五十メートル先
-    ko = 오십 미터 앞l
+    ko = 오십 미터 앞
     lt = Už penkiasdešimt metrų
     mr = पन्नास मीटर मध्ये
     nb = Om femti meter
