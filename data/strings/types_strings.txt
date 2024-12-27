@@ -975,6 +975,7 @@
     it = Biergarten
     ja = ビアガーデン
     ko = 비어가르텐
+    lt = Biergarten
     nb = Uteservering
     nl = Biertuin
     pl = Ogródek piwny
@@ -11283,6 +11284,7 @@
     it = Ramen
     ja = ラーメン
     ko = 라면
+    lt = Ramen
     nb = Ramen
     nl = Ramennoedels
     pl = Zupa ramen
@@ -21435,6 +21437,7 @@
     fr = Voie sans issue
     it = Strada senza uscita
     ja = 行き止まり
+    lt = Nėra išvažiavimo
     mr = रस्ता बंद
     nl = Doodlopende weg
     pl = Ślepy koniec drogi
@@ -21509,6 +21512,7 @@
     it = Ufficio aziendale
     ja = 会社事務所
     ko = 회사
+    lt = Įmonės biuras
     mr = कंपनी कार्यालय
     nb = Firmakontor
     nl = Bedrijfskantoor
@@ -21549,6 +21553,7 @@
     it = Agenzia immobiliare
     ja = 不動産業者
     ko = 부동산중개사
+    lt = Nekilnojamojo turto agentas
     mr = इस्टेट एजंट
     nb = Eiendomsmegler
     nl = Makelaar
@@ -21590,6 +21595,7 @@
     it = Ufficio governativo
     ja = 官庁
     ko = 관공서
+    lt = Vyriausybinė biuras
     mr = सरकारी कार्यालय
     nb = Offentlig kontor
     nl = Overheidskantoor
@@ -21630,6 +21636,7 @@
     it = Ufficio assicurazioni
     ja = 保険会社
     ko = 보험 사무실
+    lt = Draudimo biuras
     mr = विमा कार्यालय
     nb = Forsikring
     nl = Verzekeringskantoor
@@ -21670,6 +21677,7 @@
     it = Studio legale
     ja = 弁護士事務所
     ko = 법률 사무소
+    lt = Teisininko biuras
     mr = वकील
     nb = Advokatkontor
     nl = Advocatenkantoor
@@ -21710,6 +21718,7 @@
     it = Sede ONG
     ja = NGO 事務局
     ko = NGO 사무실
+    lt = Nevyriausybinė organizacija
     mr = अशासकीय संस्था
     nb = NGO-kontor
     nl = NGO-kantoor
@@ -21752,6 +21761,7 @@
     it = Operatore di telefonia mobile
     ja = 携帯電話事業者
     ko = 이동통신 사업자
+    lt = Telekomunikacijų įmonė
     mr = दूरसंचार कंपनी
     nb = Mobiloperatør
     nl = Mobiele provider
@@ -21781,6 +21791,7 @@
     fr = Biologique
     he = אורגני
     it = Biologico
+    lt = Ekologiška
     mr = सेंद्रिय
     nl = Biologisch
     pt = Orgânico
@@ -21817,6 +21828,7 @@
     it = Città
     ja = 市
     ko = 도시
+    lt = Miestas
     mr = शहर
     nb = By
     nl = Stad
@@ -21859,6 +21871,7 @@
     it = Capitale
     ja = 首都
     ko = 수도
+    lt = Sostinė
     mr = राजधानी
     nb = Hovedstad
     nl = Hoofdstad
@@ -21931,6 +21944,7 @@
     it = Continente
     ja = 大陸
     ko = 대륙
+    lt = Žemynas
     mr = खंड
     nb = Kontinent
     nl = Continent
@@ -21973,6 +21987,7 @@
     it = Paese
     ja = 国
     ko = 나라
+    lt = Šalis
     mr = देश
     nb = Land
     nl = Land
@@ -22015,6 +22030,7 @@
     it = Contea
     ja = 郡
     ko = 카운티
+    lt = Apskritis
     mr = परगणा
     nb = Fylke
     nl = Graafschap
@@ -22056,6 +22072,7 @@
     it = Fattoria
     ja = 農場
     ko = 농장
+    lt = Ūkis
     mr = शेत
     nb = Gård
     nl = Boerderij
@@ -22099,6 +22116,7 @@
     it = Piccolo villaggio
     ja = 村
     ko = 작은 마을
+    lt = Gyvenvietė
     mr = पाडा
     nb = Landsby
     nl = Gehucht
@@ -22142,6 +22160,7 @@
     it = Isola
     ja = 島
     ko = 섬
+    lt = Sala
     mr = बेट
     nb = Øy
     nl = Eiland
@@ -22184,6 +22203,7 @@
     it = Isola
     ja = 島
     ko = 섬
+    lt = Salelė
     mr = बेट
     nb = Øy
     nl = Eilandje
@@ -22225,6 +22245,7 @@
     it = Abitazione isolata
     ja = 小規模な村
     ko = 고립된 주거
+    lt = Izoliuota gyvenvietė
     mr = निवासस्थान
     nb = Isolert bosetting
     nl = Geïsoleerde woning
@@ -22266,6 +22287,7 @@
     it = Località
     ja = 地域
     ko = 장소
+    lt = Vietovė
     mr = परिसर
     nb = Sted
     nl = Plaats
@@ -22309,7 +22331,12 @@
     it = Quartiere
     ja = 地域
     ko = 동네
+<<<<<<< HEAD
     lv = Apkaime
+||||||| parent of 67e27c51e4 (Worked on LT translations)
+=======
+    lt = Kaimynystė
+>>>>>>> 67e27c51e4 (Worked on LT translations)
     mr = शेजार
     nb = Strøk
     nl = Wijk
@@ -22399,6 +22426,7 @@
     it = Oceano
     ja = 海
     ko = 대양
+    lt = Vandenynas
     mr = महासागर
     nb = Hav
     nl = Oceaan
@@ -22440,6 +22468,7 @@
     it = Regione
     ja = 地方
     ko = 지역
+    lt = Regionas
     mr = प्रदेश
     nb = Region
     nl = Regio
@@ -22482,6 +22511,7 @@
     it = Mare
     ja = 海
     ko = 바다
+    lt = Jūra
     mr = समुद्र
     nb = Sjø
     nl = Zee
@@ -22524,6 +22554,7 @@
     it = Piazza
     ja = 広場
     ko = 광장
+    lt = Aikštė
     mr = चौरस
     nb = Torg
     nl = Plein
@@ -22566,6 +22597,7 @@
     it = Provincia
     ja = 州
     ko = 주
+    lt = Valstija
     mr = राज्य
     nb = Stat
     nl = Deelstaat
@@ -22607,6 +22639,7 @@
     it = Stato
     ja = 州
     ko = 주
+    lt = Valstija
     mr = राज्य
     nb = Stat
     nl = Deelstaat
@@ -22650,7 +22683,12 @@
     it = Quartiere
     ja = 区
     ko = 교외
+<<<<<<< HEAD
     lv = Pilsētas apgabals
+||||||| parent of 67e27c51e4 (Worked on LT translations)
+=======
+    lt = Priemiestis
+>>>>>>> 67e27c51e4 (Worked on LT translations)
     mr = उपनगर
     nb = Forstad
     nl = Buitenwijk
@@ -22693,6 +22731,7 @@
     it = Città
     ja = 町
     ko = 타운
+    lt = Miestelis
     mr = नगर
     nb = By
     nl = Stad
@@ -22735,6 +22774,7 @@
     it = Villaggio
     ja = 村
     ko = 마을
+    lt = Kaimas
     mr = गाव
     nb = Landsby
     nl = Dorp
@@ -22784,6 +22824,7 @@
     he = גנרטור
     it = Generatore
     ja = 発電機
+    lt =Elektros generatorius
     mr = जनित्र(जनरेटर)
     pt = Gerador de energia
     pt-BR = Gerador de energia
@@ -22817,6 +22858,7 @@
     it = Generatore solare
     ja = 太陽光発電機
     ko = 태양열 발전기
+    lt = Saulės generatorius
     mr = सौर जनरेटर
     nb = Solenergi generator
     nl = Zonne-generator
@@ -22860,6 +22902,7 @@
     it = Generatore eolico
     ja = 風力発電機
     ko = 풍력 발전기
+    lt = Vėjo generatorius
     mr = वारा जनरेटर
     nb = Vindgenerator
     nl = Wind generator
@@ -22903,6 +22946,7 @@
     it = Centrale elettrica a turbina a gas
     ja = ガスタービン発電所
     ko = 가스 터빈 발전소
+    lt = Dujų turbinos elektrinė
     mr = गॅस टर्बाइन पॉवर प्लांट
     nb = Gassturbinkraftverk
     nl = Gasturbine elektriciteitscentrale
@@ -22946,6 +22990,7 @@
     it = Centrale idroelettrica
     ja = 水力発電所
     ko = 수력 발전소
+    lt = Hidroelektrinė
     mr = जलविद्युत प्रकल्प
     nb = Vannkraftverk
     nl = Waterkrachtcentrale
@@ -22976,6 +23021,7 @@
     he = קו חשמל
     it = Cavo elettrico
     ja = 電力線
+    lt = Elektros linija
     mr = विद्युत तार
     nl = Hoogspanningsleiding
     pl = Linia wysokiego napięcia
@@ -22998,6 +23044,7 @@
     fr = Ligne électrique souterraine
     he = קו חשמל תת קרקעי
     ja = 地下電力線
+    lt = Požeminė elektros linija
     mr = भूमिगत विद्युत तार
     nl = Ondergrondse hoogspanningsleiding
     pl = Podziemna linia wysokiego napięcia
@@ -23021,6 +23068,7 @@
     he = קו מתח משני
     it = Cavo elettrico
     ja = 低圧電力線
+    lt = Mažoji elektros linija
     mr = किरकोळ विद्युत तार
     nl = Laag-/middelspanningsleiding
     pl = Linia niskiego napięcia
@@ -23055,6 +23103,7 @@
     it = Centrale elettrica
     ja = 発電所
     ko = 발전소
+    lt = Elektrinė
     mr = वीज प्रकल्प
     nb = Kraftverk
     nl = Energiecentrale
@@ -23098,6 +23147,7 @@
     it = Centrale elettrica a carbone
     ja = 石炭火力発電所
     ko = 석탄 발전소
+    lt = Anglies elektrinė
     mr = कोळसा ऊर्जा प्रकल्प
     nb = Kullkraftverk
     nl = Kolen elektriciteitscentrale
@@ -23147,6 +23197,7 @@
     it = Centrale solare
     ja = 太陽光発電所
     ko = 태양광 발전소
+    lt = Saulės elektrinė
     mr = सौर ऊर्जा संयंत्र
     nb = Solkraftverk
     nl = Zonne-energiecentrale
@@ -23190,6 +23241,7 @@
     it = Centrale eolica
     ja = 風力発電所
     ko = 풍력 발전소
+    lt = Vėjo elektrinė
     mr = पवन ऊर्जा संयंत्र
     nb = Vindkraftverk
     nl = Windkrachtcentrale
@@ -23251,6 +23303,7 @@
     it = Sottostazione elettrica
     ja = 変電所
     ko = 변전소
+    lt = Transformatorių pastotė
     mr = विद्युत सबस्टेशन
     nb = Trafo
     nl = Transformatorstation
@@ -23291,6 +23344,7 @@
     it = Pilone elettrico
     ja = 電柱
     ko = 전봇대
+    lt = Aukštos įtampos stulpas
     mr = विद्युत मनोरा
     nb = Strømmast
     nl = Elektriciteitsmast
@@ -23362,6 +23416,7 @@
     he = תחבורה ציבורית
     it = Trasporto pubblico
     ja = 公共交通機関
+    lt = Viešasis transportas
     mr = सार्वजनिक वाहतूक
     nb = Offentlig transport
     nl = Openbaar vervoer
@@ -23385,6 +23440,7 @@
     he = רציף תחבורה
     hi = रेलवे प्लेटफार्म
     ja = 公共交通機関のプラットホーム
+    lt = Platforma
     mr = फलाट
     nl = Platform
     pl = Przystanek transportu publicznego
@@ -23408,6 +23464,7 @@
     hi = रेल
     it = Ferrovia
     ja = 鉄道
+    lt = Geležinkelis
     mr = रेल्वे
     nb = Jernbane
     nl = Spoorweg
@@ -23432,6 +23489,7 @@
     he = מסילת רכבת נטושה
     it = Ferrovia abbandonata
     ja = 廃線
+    lt = Apleistas geležinkelis
     nl = Voormalig treinspoor
     pt = Ferrovia abandonada
     pt-BR = Ferrovia abandonada
@@ -23451,6 +23509,7 @@
     fr = Chemin de fer abandonné
     he = גשר רכבת נטוש
     ja = 廃線(橋)
+    lt = Apleistas geležinkelio tiltas
     nl = Voormalige spoorbrug
     pt = Ferrovia abandonada
     pt-BR = Ferrovia abandonada
@@ -23469,6 +23528,7 @@
     fr = Chemin de fer abandonné
     he = מנהרת רכבת נטושה
     ja = 廃線(トンネル)
+    lt = Apleistas geležinkelio tunelis
     nl = Voormalige spoortunnel
     pt = Ferrovia abandonada
     pt-BR = Ferrovia abandonada
@@ -23489,6 +23549,7 @@
     he = מסילת רכבת בבניה
     it = Binari in costruzione
     ja = 建設中の鉄道
+    lt = Geležinkelio statyba
     mr = रेल्वेचे बांधकाम
     nl = Treinspoor in aanbouw
     pl = Tory kolejowe w budowie
@@ -23511,6 +23572,7 @@
     he = מעבר חציית פסי רכבת
     it = Passaggio ferroviario
     ja = 歩行者用踏切
+    lt = Geležinkelio pervaža
     mr = रेल्वे ओलांडणी
     nl = Spoorwegovergang
     pl = Przejście przez tory
@@ -23533,6 +23595,7 @@
     he = מסילת רכבת לא בשימוש
     it = Ferrovia in disuso
     ja = 休止線
+    lt = Nenaudojamas geležinkelis
     nl = Ongebruikt spoor
     pl = Nieużywane tory kolejowe
     pt = Ferrovia em desuso
@@ -23569,6 +23632,7 @@
     it = Funicolare
     ja = フニクラ
     ko = 케이블카
+    lt = Funikulierius
     mr = फ्युनिक्युलर
     nb = Kabelbane
     nl = Tunnel
@@ -23596,6 +23660,7 @@
     fr = Funiculaire
     hi = रज्जुरेल
     ja = ケーブルカー(橋)
+    lt = Funikulieriaus tiltas
     mr = हवाई रज्जुमार्ग
     nl = Kabelspoorbuur
     pt = Funicular
@@ -23614,6 +23679,7 @@
     fr = Funiculaire
     hi = रज्जुरेल
     ja = ケーブルカー(トンネル)
+    lt = Funikulieriaus tunelis
     mr = हवाई रज्जुमार्ग
     nl = Kabelspoortunnel
     pt = Funicular
@@ -23658,6 +23724,7 @@
     it = Passaggio a livello
     ja = 踏切
     ko = 철도 건널목
+    lt = Geležinkelio pervaža
     mr = समतल पारक
     nb = Planovergang
     nl = Spoorwegovergang
@@ -23686,6 +23753,7 @@
     et = Kergrööbas
     it = Metropolitana
     ja = ライトレール
+    lt = Lengvasis geležinkelis
     nl = Lightrail
     pt = Metropolitano de superfície
     pt-BR = Metrô de superfície
@@ -23703,6 +23771,7 @@
     de = Stadtbahnbrücke
     et = Kergrööbas - sild
     ja = ライトレール(橋)
+    lt = Lengvojo geležinkelio tiltas
     nl = Lightrail-brug
     pt = Metropolitano de superfície
     pt-BR = Metrô de superfície
@@ -23719,6 +23788,7 @@
     de = Stadtbahntunnel
     et = Kergrööbas - tunnel
     ja = ライトレール(トンネル)
+    lt = Lengvojo geležinkelio tunelis
     nl = Lightrail-tunnel
     pt = Metropolitano de superfície
     pt-BR = Metrô de superfície
@@ -23749,6 +23819,7 @@
     it = Monorotaia
     ja = モノレール
     ko = 모노레일
+    lt = Vienabėgis geležinkelis
     mr = एकरूळी
     nb = Monorail
     nl = Monorail
@@ -23777,6 +23848,7 @@
     fr = Monorail
     hi = एकरेल
     ja = モノレール(橋)
+    lt = Vienabėgio geležinkelio tiltas
     mr = एकरूळी
     nl = Monorail-brug
     pl = Most kolei jednoszynowej
@@ -23798,6 +23870,7 @@
     fr = Monorail
     hi = एकरेल
     ja = モノレール(トンネル)
+    lt = Vienabėgio geležinkelio tunelis
     mr = एकरूळी
     nl = Monorail-tunnel
     pl = Tunel kolei jednoszynowej
@@ -23819,6 +23892,7 @@
     et = Kitsarööpmeline raudtee
     hi = छोटी रेल लाइन
     ja = 狭軌鉄道
+    lt = Siaurasis geležinkelis
     mr = अरुंदमापी रेल्वे
     nb = Smalsporet jernbane
     nl = Smalspoorbaan
@@ -23840,6 +23914,7 @@
     et = Kitsarööpmelise raudtee sild
     hi = छोटी रेल लाइन
     ja = 狭軌鉄道(橋)
+    lt = Siaurasis geležinkelis tiltas
     mr = अरुंदमापी रेल्वे
     nl = Smalspoorbrug
     pl = Most kolei wąskotorowej
@@ -23858,6 +23933,7 @@
     et = Kitsarööpmelise raudtee tunnel
     hi = छोटी रेल लाइन
     ja = ja = 狭軌鉄道(トンネル)
+    lt = Siaurasis geležinkelis tunelis
     mr = अरुंदमापी रेल्वे
     nl = Smalspoortunnel
     pl = Tunel kolei wąskotorowej
@@ -23879,6 +23955,7 @@
     fr = Quai de gare
     hi = रेलवे प्लेटफार्म
     ja = プラットホーム
+    lt = Geležinkelio peronas
     mr = रेल्वे फलाट
     nb = Jernbaneplattform
     nl = Perron
@@ -23900,6 +23977,7 @@
     et = Muuseumiraudtee
     fr = Chemin de fer touristique
     ja = 保存鉄道
+    lt = Išsaugotas geležinkelis
     nb = Museumsjernbane
     nl = Museumspoorbaan
     pt = Ferrovia preservada
@@ -23917,6 +23995,7 @@
     de = Museumsbahnbrücke
     et = Muuseumiraudtee sild
     ja = 保存鉄道(橋)
+    lt = Išsaugotas geležinkelis tiltas
     nl = Museumspoorbaanbrug
     pt = Ferrovia preservada
     pt-BR = Ferrovia preservada
@@ -23931,6 +24010,7 @@
     de = Museumsbahntunnel
     et = Muuseumiraudtee tunnel
     ja = 保存鉄道(トンネル)
+    lt = Išsaugotas geležinkelis tunelis
     nl = Museumspoorbaantunnel
     pt = Ferrovia preservada
     pt-BR = Ferrovia preservada
@@ -23959,6 +24039,7 @@
     it = Binari
     ja = 鉄道
     ko = 철로
+    lt = Geležinkelis
     mr = रेल्वे
     nb = Toglinje
     nl = Spoorlijn
@@ -24001,6 +24082,7 @@
     it = Ferrovia ad alta velocità
     ja = 高速鉄道
     ko = 고속 철도
+    lt = Greitasis geležinkelis
     mr = हाय-स्पीड रेल्वे
     nb = Høyhastighetsjernbane
     nl = Hogesnelheidstrein
@@ -24042,6 +24124,7 @@
     it = Ferrovia turistica
     ja = 観光鉄道
     ko = 관광 철도
+    lt = Turistinis geležinkelis
     mr = पर्यटन रेल्वे
     nb = Turistjernbane
     nl = Toeristische spoorlijn
@@ -24083,6 +24166,7 @@
     it = Ferrovia
     ja = 鉄道
     ko = 철도
+    lt = Geležinkelis
     mr = रेल्वे
     nb = Jernbane
     nl = Spoor
@@ -24125,6 +24209,7 @@
     it = Ferrovia secondaria
     ja = 二次鉄道
     ko = 보조 철도
+    lt = Geležinkelio atšaka
     mr = दुय्यम रेल्वे
     nb = Sekundær jernbane
     nl = Secundaire spoorwegen
@@ -24167,6 +24252,7 @@
     it = Ferrovia di utilità
     ja = 実用鉄道
     ko = 유틸리티 철도
+    lt = Pramoninis geležinkelis
     mr = उपयुक्तता रेल्वे
     nb = Service jernbane
     nl = Spoorwegen
@@ -24210,6 +24296,7 @@
     it = Sperone ferroviario
     ja = 引き込み線
     ko = 철도 박차
+    lt = Geležinkelio atšaka
     mr = रेल्वे स्पर
     nb = Jernbanespor
     nl = Zijspoor
@@ -24252,6 +24339,7 @@
     it = Binario ausiliario
     ja = 補助線路
     ko = 보조 레일 트랙
+    lt = Industriniai geležinkelio bėgiai
     mr = सहायक रेल्वे ट्रॅक
     nb = Ekstra jernbanespor
     nl = Hulpspoor
@@ -24294,6 +24382,7 @@
     it = Ponte ferroviario
     ja = 鉄道(橋)
     ko = 철도 교량
+    lt = Geležinkelio tiltas
     mr = रेल्वे
     nb = Jernbanebro
     nl = Treinspoorbrug
@@ -24357,6 +24446,7 @@
     it = Tunnel ferroviario
     ja = 鉄道(鉄道)
     ko = 철도 터널
+    lt = Geležinkelio tunelis
     mr = रेल्वे
     nb = Jernbanetunnel
     nl = Spoortunnel
@@ -24418,6 +24508,7 @@
     it = Stazione ferroviaria
     ja = 鉄道駅
     ko = 기차역
+    lt = Geležinkelio stotis
     mr = रेल्वे स्थानक
     nb = Togstasjon
     nl = Station
@@ -24444,6 +24535,7 @@
     en = Light Rail Station
     af = Smalspoorstasie
     de = Stadtbahnbahnhof
+    lt = Lengvojo geležinkelio stotis
     zh-Hans = 轻轨车站
     zh-Hant = 輕軌車站
 
@@ -24464,7 +24556,12 @@
     ref = type.railway.station
     en = Monorail Station
     af = Lugspoorstasie
+<<<<<<< HEAD
     de = Einschienenbahn-Station
+||||||| parent of 67e27c51e4 (Worked on LT translations)
+=======
+    lt = Vienabėgio geležinkelio stotis
+>>>>>>> 67e27c51e4 (Worked on LT translations)
     zh-Hans = 单轨车站
     zh-Hant = 單軌車站
 
@@ -24489,6 +24586,7 @@
     it = Stazione della metrò
     ja = 地下鉄
     ko = 지하철
+    lt = Metro stotis
     mr = भुयारी मार्ग
     nb = T-bane
     nl = Metrostation
@@ -24859,6 +24957,7 @@
     fr = Ligne de métro
     hi = भूमिगत रेल
     it = Binari della metrò
+    lt = Metro linija
     mr = भुयारी मार्गिका
     nl = Metro
     pt = Metro
@@ -24879,6 +24978,7 @@
     et = Metrooliin - sild
     fr = Voie de métro
     hi = भूमिगत रेल
+    lt = Metro linijos tiltas
     mr = भुयारी मार्गिका
     nl = Metrobrug
     pt = Ponte de metro
@@ -24899,6 +24999,7 @@
     et = Metrooliin - tunnel
     fr = Voie de métro
     hi = भूमिगत रेल
+    lt = Metro linijos tunelis
     mr = भुयारी मार्गिका
     nl = Metrotunnel
     pt = Túnel de metro
@@ -24931,6 +25032,7 @@
     it = Stazione metropolitana
     ja = 地下鉄入り口
     ko = 지하철 입구
+    lt = Metro įėjimas
     mr = भुयारी प्रवेशद्वार
     nb = T-bane inngang
     nl = Metro ingang
@@ -25302,6 +25404,7 @@
     hi = ट्राम
     it = Binari del tram
     ja = トラム
+    lt = Tramvajaus linija
     mr = ट्राम मार्गिका
     nl = Tram
     pl = Tory tramwajowe
@@ -25324,6 +25427,7 @@
     fr = Voie de tramway
     hi = ट्राम
     ja = トラム(橋)
+    lt =  Tramvajaus linijos tiltas
     mr = ट्राम मार्गिका
     nl = Trambrug
     pt = Linha de elétrico
@@ -25346,6 +25450,7 @@
     fr = Voie de tramway
     hi = ट्राम
     ja = トラム(トンネル)
+    lt =  Tramvajaus linijos tunelis
     mr = ट्राम मार्गिका
     nl = Tramtunnel
     pt = Linha de elétrico
@@ -25378,6 +25483,7 @@
     it = Fermata del tram
     ja = トラム
     ko = 트램 정류장
+    lt = Tramvajaus stotelė
     mr = ट्राम थांबा
     nb = Trikkestopp
     nl = Tramhalte
@@ -25405,6 +25511,7 @@
     et = Tee
     it = Percorso
     ja = ルート
+    lt = Maršrutas
     mr = मार्ग
     nl = Route
     pt = Rota
@@ -25427,6 +25534,7 @@
     fr = Trajet de ferry
     it = Traghetto
     ja = フェリー航路
+    lt = Keltas
     mr = होडी
     nl = Veerboot
     pl = Przeprawa promowa
@@ -25462,6 +25570,7 @@
     it = Negozio
     ja = 買い物
     ko = 가게
+    lt = Parduotuvė
     mr = दुकान
     nb = Butikk
     nl = Winkel
@@ -25501,6 +25610,7 @@
     it = Negozio di alcolici
     ja = 酒屋
     ko = 주류 샵
+    lt = Alkoholinių gėrimų parduotuvė
     mr = दारूचे दुकान
     nb = Vinmonopol
     nl = Slijterij
@@ -25541,6 +25651,7 @@
     it = Panetteria
     ja = パン屋
     ko = 베이커리
+    lt = Kepykla
     mr = बेकरी
     nb = Bakeri
     nl = Bakkerij
@@ -25583,6 +25694,7 @@
     it = Arredo bagno
     ja = バスルームの備品
     ko = 욕실 가구
+    lt = Vonios baldų parduotuvė
     mr = स्नानगृह सामान
     nb = Baderomsmøbler
     nl = Badkamerinrichting
@@ -25624,6 +25736,7 @@
     it = Estetista
     ja = ビューティーサロン
     ko = 미용실
+    lt = Grožio prekių parduotuvė
     mr = सौंदर्य प्रसाधनगृह
     nb = Skjønnhetssalong
     nl = Schoonheidssalon
@@ -25665,6 +25778,7 @@
     it = Bibite
     ja = ドリンク
     ko = 음료
+    lt = Gėrimai
     mr = शीतपेय
     nb = Drinker
     nl = Drank
@@ -25705,6 +25819,7 @@
     it = Negozio di biciclette
     ja = 自転車屋
     ko = 자전거 가게
+    lt = Dviračių parduotuvė
     mr = सायकलचे दुकान
     nb = Sykkel
     nl = Fietsenwinkel
@@ -25743,6 +25858,7 @@
     it = Centro scommesse
     ja = ブックメーカー
     ko = 마권판매소
+    lt = Lažybų bendrovė
     nl = Boekbinder
     pl = Bukmacher
     pt = Casa de apostas
@@ -25781,6 +25897,7 @@
     it = Libreria
     ja = 本屋
     ko = 서점
+    lt = Knygynas
     mr = पुस्तकांचे दुकान
     nb = Bokhandel
     nl = Boekenwinkel
@@ -25821,6 +25938,7 @@
     it = Macellaio
     ja = 肉屋
     ko = 정육점
+    lt = Mėsininkas
     mr = खाटीक
     nb = Slakter
     nl = Slager
@@ -25863,6 +25981,7 @@
     it = Negozio di cannabis
     ja = 大麻店
     ko = 대마초 판매점
+    lt = Kanapių produktų parduotuvė
     mr = गांजाचे दुकान
     nb = Cannabisbutikk
     nl = Cannabis Winkel
@@ -25904,6 +26023,7 @@
     it = Concessionaria
     ja = カーディーラー
     ko = 자동차 대리점
+    lt = Automobilių prekybos salonas
     mr = कार विक्रेता
     nb = Bil butikk
     nl = Autohandelaar
@@ -25943,6 +26063,7 @@
     it = Ricambi auto
     ja = 車両部品
     ko = 차 부품 가게
+    lt = Automobilių dalių parduotuvė
     mr = कारचे सुट्टे भाग
     nb = Bildeler
     nl = Auto onderdelen
@@ -25983,6 +26104,7 @@
     it = Riparazione auto
     ja = 自動車修理
     ko = 자동차 수리
+    lt = Automobilių remonto dirbtuvė
     mr = कार दुरुस्तीचे दुकान
     nb = Bilverksted
     nl = Auto reparatie
@@ -26023,6 +26145,7 @@
     it = Gommista
     ja = タイヤ修理
     ko = 타이어수리점
+    lt = Padangų remontas
     mr = टायर दुरुस्ती
     nb = Dekkreparasjon
     nl = Bandenreparatie
@@ -26090,6 +26213,7 @@
     it = Tappeti
     ja = カーペット
     ko = 카펫
+    lt = Kilimų parduotuvė
     mr = कार्पेट्स
     nb = Tepper
     nl = Tapijten
@@ -26130,6 +26254,7 @@
     it = Negozio di detersivi
     ja = 化学薬品店
     ko = 화학물질 가게
+    lt = Vaistinė
     mr = औषधालय
     nb = Husholdningsartikler
     nl = Drogisterij
@@ -26172,6 +26297,7 @@
     it = Choccolateria
     ja = チョコレート屋
     ko = 초콜릿 가게
+    lt = Šokolado parduotuvė
     mr = चॉकलेट शॉप
     nb = Butikk
     nl = Chocolaterie
@@ -26213,6 +26339,7 @@
     it = Negozio di abbigliamento
     ja = 洋服
     ko = 옷 가게
+    lt = Drabužių parduotuvė
     mr = कपड्याचे दुकान
     nb = Klesbutikk
     nl = Kledingwinkel
@@ -26254,6 +26381,7 @@
     it = Negozio di caffè
     ja = コーヒー屋
     ko = 커피숍
+    lt = Kavos parduotuvė
     mr = कॉफीचे दुकान
     nb = Butikk
     nl = Koffiewinkel
@@ -26295,6 +26423,7 @@
     it = Negozio di computer
     ja = コンピュータショップ
     ko = 컴퓨터 판매점
+    lt = Kompiuterių parduotuvė
     mr = संगणकाचे दुकान
     nb = Databutikk
     nl = Computerwinkel
@@ -26335,6 +26464,7 @@
     it = Pasticceria
     ja = 菓子類
     ko = 제과점
+    lt =  Saldainių parduotuvė
     mr = मिठाई
     nb = Søtsaker
     nl = Snoepwinkel
@@ -26458,6 +26588,7 @@
     it = Cosmetici
     ja = 化粧品
     ko = 화장품
+    lt = Kosmetikos prekių parduotuvė
     mr = सौंदर्य(कॉस्मेटिक)
     nb = Kosmetikk
     nl = Schoonheidsmiddelen
@@ -26500,6 +26631,7 @@
     it = Tende
     ja = カーテン
     ko = 커튼
+    lt = Užuolaidų parduotuvė
     mr = पडदे
     nb = Gardiner
     nl = Gordijnen
@@ -26543,6 +26675,7 @@
     it = Negozio di specialità gastronomiche
     ja = デリカテッセンショップ
     ko = 델리카트슨 숍
+    lt = Delikatesų parduotuvė
     nb = Delikatessebutikk
     nl = Delicatessenwinkel
     pl = Sklep delikatesowy
@@ -26583,6 +26716,7 @@
     it = Grandi magazzini
     ja = デパート
     ko = 백화점
+    lt = Universalinė parduotuvė
     mr = विभागीय भांडार
     nb = Varehus
     nl = Warenhuis
@@ -26626,6 +26760,7 @@
     it = Ferramenta
     ja = 工具店
     ko = 철물점
+    lt = Statybinių prekių parduotuvė
     mr = हार्डवेअर दुकान
     nb = Jernvareforretning
     nl = IJzerhandel
@@ -26666,6 +26801,7 @@
     it = Lavaggio a secco
     ja = クリーニング屋
     ko = 드라이 클리닝
+    lt = Sausų drabužių valykla
     mr = कोरडे धुलाईघर
     nb = Renseri
     nl = Droogkuis
@@ -26706,6 +26842,7 @@
     it = Negozio di elettronica
     ja = 電気店
     ko = 전자제품
+    lt = Elektronikos parduotuvė
     mr = इलेक्ट्रॉनिक्स
     nb = Elektronikk forhandler
     nl = Elektronicazaak
@@ -26746,6 +26883,7 @@
     it = Sexy Shop
     ja = アダルトショップ
     ko = 성인용품 가게
+    lt = Erotinių prekių parduotuvė
     nb = Erotisk butikk
     nl = Erotiekwinkel
     pl = Sex shop
@@ -26785,6 +26923,7 @@
     it = Merceria
     ja = 生地屋
     ko = 원단 가게
+    lt = Audinių parduotuvė
     mr = फॅब्रिकचे दुकान
     nb = Butikk
     nl = Stoffenwinkel
@@ -26827,6 +26966,7 @@
     it = Negozio di prodotti alimentari della fattoria
     ja = ファームフードショップ
     ko = "농장 식품 가게"
+    lt = Ūkinio maisto parduotuvė
     nb = Gårdsmatbutikk
     nl = Boerderijwinkel
     pl = Sklep z produktami od rolnika
@@ -26869,6 +27009,7 @@
     it = Accessori alla moda
     ja = ファッションアクセサリー
     ko = 패션 악세사리
+    lt = Mados aksesuarai
     mr = फॅशन अॅक्सेसरीज
     nb = Motetilbehør
     nl = Mode accessoires
@@ -26910,6 +27051,7 @@
     it = Fiorista
     ja = フローリスト/花屋
     ko = 꽃가게
+    lt = Gėlininkas
     mr = फुलवाला
     nb = Blomsterhandler
     nl = Bloemist
@@ -26951,6 +27093,7 @@
     it = Pompe funebri
     ja = 葬儀屋
     ko = 장의사
+    lt = Laidotuvių direktoriai
     mr = अंत्यसंस्कार संचालक
     nb = Begravelsebyrå
     nl = Begrafenisondernemer
@@ -26992,6 +27135,7 @@
     it = Negozio di mobili
     ja = 家具店
     ko = 가구 상점
+    lt = Baldų parduotuvė
     mr = फर्निचरचे दुकान
     nb = Møbelbutikk
     nl = Meubelzaak
@@ -27032,6 +27176,7 @@
     it = Vivaio
     ja = ガーデンセンター
     ko = 식물 상점
+    lt = Sodo ir daržo prekių parduotuvė
     mr = बागकामाचे दुकान
     nb = Planteskole
     nl = Tuincentrum
@@ -27074,6 +27219,7 @@
     it = Deposito di gas
     ja = ガス屋
     ko = 주유소
+    lt = Dujų parduotuvė
     mr = गॅसचे दुकान
     nb = Gassbutikk
     nl = Gas winkel
@@ -27115,6 +27261,7 @@
     it = Negozio di regali
     ja = ギフトショップ
     ko = 선물 가게
+    lt = Dovanų parduotuvė
     mr = भेटवस्तूंचे दुकान
     nb = Gavebutikk
     nl = Cadeauwinkel
@@ -27155,6 +27302,7 @@
     it = Fruttivendolo
     ja = 八百屋
     ko = 청과상
+    lt = Vaisių ir daržovių parduotuvė
     mr = भाजीवाला
     nb = Frukt- og grønnsakshandler
     nl = Groentenwinkel
@@ -27198,6 +27346,7 @@
     it = Drogheria
     ja = 買い物
     ko = "식료품점"
+    lt = Maisto prekių parduotuvė
     nb = Dagligvare
     nl = Boodschappen
     pl = Sklep spożywczy
@@ -27238,6 +27387,7 @@
     it = Parrucchiera
     ja = 美容院/理容店
     ko = 이발사
+    lt = Kirpykla
     mr = न्हावी
     nb = Frisør
     nl = Kapper
@@ -27276,6 +27426,7 @@
     hu = Barkácsüzlet
     it = Ferramenta
     ja = ホームセンター
+    lt = Įrangos parduotuvė
     nl = IJzerwaren
     pl = Sklep z narzędziami
     pt = Loja de ferragens
@@ -27316,6 +27467,7 @@
     it = Negozio di alimenti naturali
     ja = 健康食品店
     ko = "건강식품 가게"
+    lt = Sveikų maisto produktų parduotuvė
     nb = Helsekostbutikk
     nl = Natuurvoedingswinkel
     pl = Sklep ze zdrową żywnością
@@ -27358,6 +27510,7 @@
     it = Negozio di erbe
     ja = ハーブ店
     ko = 허브 가게
+    lt = Žolininkas (-ė)
     mr = औषधी वनस्पतींचे दुकान
     nb = Urtebutikk
     nl = Kruiden winkel
@@ -27401,6 +27554,7 @@
     it = Audio ad alta fedeltà
     ja = ハイファイオーディオ
     ko = 하이파이 오디오
+    lt = Garso technikos parduotuvė
     mr = हायफाय ऑडिओ
     nb = HiFi lyd
     nl = HiFi-audio
@@ -27445,6 +27599,7 @@
     it = Negozio di casalinghi
     ja = 家庭用品店
     ko = "가정용품 가게"
+    lt = Namų apyvokos reikmenų parduotuvė
     nb = Husholdningsbutikk
     nl = Huishoudwinkel
     pl = Sklep AGD
@@ -27486,6 +27641,7 @@
     it = Gioielleria
     ja = 宝石店
     ko = 보석류
+    lt = Juvelyrinių dirbinių parduotuvė
     mr = दागिने
     nb = Gullsmed
     nl = Juwelier
@@ -27523,6 +27679,7 @@
     it = Chiosco
     ja = キオスク
     ko = 정자
+    lt = Kioskas
     mr = टपरी
     nb = Kiosk
     nl = Kiosk
@@ -27565,6 +27722,7 @@
     it = Negozio di cucina
     ja = キッチンストア
     ko = "주방용품점"
+    lt = Virtuvės prekių parduotuvė
     nb = Kjøkkenbutikk
     nl = Keukenwinkel
     pl = Sklep kuchenny
@@ -27606,6 +27764,7 @@
     it = Lavanderia
     ja = ランドリー
     ko = 세탁소
+    lt = Skalbykla
     mr = धुलाईघर
     nb = Vaskeri
     nl = Wasserette
@@ -27646,6 +27805,7 @@
     it = Centro commerciale
     ja = モール
     ko = 몰
+    lt = Prekybos centras
     mr = मॉल
     nb = Kjøpesenter
     nl = Winkelcentrum
@@ -27686,6 +27846,7 @@
     it = Centro massaggi
     ja = マッサージ店
     ko = 마사지샵
+    lt = Masažo salonas
     mr = मालिश गृह
     nb = Massasjesalong
     nl = Massagesalon
@@ -27727,6 +27888,7 @@
     it = Negozio di telefonia mobile
     ja = 携帯ショップ
     ko = 휴대폰 대리점
+    lt = Mobiliųjų telefonų parduotuvė
     mr = मोबाईल
     nb = Mobiltelefonbutikk
     nl = Mobiele telefoonwinkel
@@ -27768,6 +27930,7 @@
     it = Negozio
     ja = 消費者金融
     ko = 자금 대출 기관
+    lt = Pinigų skolintojas
     mr = सावकार
     nb = Butikk
     nl = Winkel
@@ -27809,6 +27972,7 @@
     ja = バイクショップ
     ko = 오토바이 가게
     mr = दुचाकी विक्रेता
+    lt = Motociklų parduotuvė
     nb = Motorsykkelforretning
     nl = Motorzaak
     pl = Salon motocyklowy
@@ -27850,6 +28014,7 @@
     it = Riparazione moto
     ja = オートバイの修理
     ko = 오토바이 수리
+    lt = Motociklų remontas
     mr = मोटरसायकल दुरुस्ती
     nb = Motorsykkel reparasjon
     nl = Motorfiets Reparatie
@@ -27893,6 +28058,7 @@
     it = Negozio di Dischi
     ja = CDショップ
     ko = 음악 가게
+    lt = Plokštelių parduotuvė
     mr = संगीताच दुकान
     nb = Platebutikk
     nl = Muziekwinkel
@@ -27934,6 +28100,7 @@
     it = Negozio di strumenti
     ja = 楽器店
     ko = 악기 판매점
+    lt = Muzikinių instrumentų parduotuvė
     mr = वाद्याचे दुकान
     nb = Musikkinstrumenter
     nl = Muziekinstrumentenwinkel
@@ -27974,6 +28141,7 @@
     it = Edicola
     ja = 新聞販売店
     ko = 신문 가판대
+    lt = Laikraščių kioskas
     mr = वृत्तपत्र विक्री
     nb = Aviskiosk
     nl = Kiosk
@@ -28014,6 +28182,7 @@
     it = Ottico
     ja = 眼鏡店
     ko = 안경점 의
+    lt = Optikas
     mr = चष्मेविक्रेता
     nb = Optiker
     nl = Opticien
@@ -28053,6 +28222,7 @@
     it = Attrezzatura sportiva
     ja = アウトドア用品店
     ko = 아웃도어 장비
+    lt = Lauko įrangos parduotuvė
     mr = भटकंतीचे साहित्य
     nb = Fritidsutstyr
     nl = Outdooruitrusting
@@ -28095,6 +28265,7 @@
     it = Punto di raccolta
     ja = 集荷場
     ko = 픽업 장소
+    lt = Pasiėmimo vieta
     mr = पिकअप पॉइंट
     nb = Hentested
     nl = Ophaalpunt
@@ -28183,6 +28354,7 @@
     it = Pasticcino
     ja = ペストリー
     ko = 패스트리
+    lt = Konditerijos parduotuvė
     nb = Bakverk
     nl = Banketbakker
     pl = Cukiernia
@@ -28223,6 +28395,7 @@
     it = Pegni
     ja = 質屋
     ko = 전당포
+    lt = Lombardas
     nb = Pantelåner
     nl = Pandjesbaas
     pl = Lombard
@@ -28263,6 +28436,7 @@
     it = Negozio di animali
     ja = ペットショップ
     ko = 펫샵
+    lt = Naminių gyvūnėlių parduotuvė
     mr = पाळीव प्राण्यांचे दुकान
     nb = Dyrebutikk
     nl = Dierenwinkel
@@ -28305,6 +28479,7 @@
     it = Toelettatura per animali domestici
     ja = ペットグルーミング
     ko = 애완동물 미용
+    lt = Naminių gyvūnėlių kirpimas
     mr = पाळीव प्राणी ग्रूमिंग
     nb = Kjæledyrpleie
     nl = Huisdierverzorging
@@ -28346,6 +28521,7 @@
     it = Negozio di fotografia
     ja = 写真屋
     ko = 사진 가게
+    lt = Fotoprekių parduotuvė
     mr = फोटोचे दुकान
     nb = Fotobutikk
     nl = Fotowinkel
@@ -28472,6 +28648,7 @@
     it = Pescivendolo
     ja = 魚屋
     ko = 생선가게
+    lt = Žuvies pardavėjas
     mr = मासळी उपहारगृह
     nb = Fiskehandler
     nl = Visboer
@@ -28514,6 +28691,7 @@
     it = Negozio di articoli usati
     ja = 古物商
     ko = 중고 판매점
+    lt = Naudotų daiktų parduotuvė
     nb = Bruktbutikk
     nl = Tweedehandswinkel
     pl = Sklep z rzeczami używanymi
@@ -28554,6 +28732,7 @@
     it = Negozio di scarpe
     ja = 靴屋
     ko = 신발 가게
+    lt = Batų parduotuvė
     mr = चपलाचे दूकान
     nb = Skobutikk
     nl = Schoenenwinkel
@@ -28593,6 +28772,7 @@
     it = Negozio sportivo
     ja = スポーツ用品店
     ko = 스포츠 용품
+    lt = Sporto prekių parduotuvė
     mr = क्रीडा साहित्य
     nb = Sportsutstyr
     nl = Sportartikelen
@@ -28633,6 +28813,7 @@
     it = Cartoleria
     ja = 文房具店
     ko = 문방구
+    lt = Kanceliarinių prekių parduotuvė
     mr = लेखनसामग्री दुकान
     nb = Kontorrekvisita
     nl = Kantoorboekhandel
@@ -28671,6 +28852,7 @@
     it = Supermercato
     ja = スーパーマーケット
     ko = 슈퍼마켓
+    lt = Prekybos centras
     mr = महाबाजार
     nb = Supermarked
     nl = Supermarkt
@@ -28709,6 +28891,7 @@
     it = Studio tatuaggi
     ja = タトゥースタジオ
     ko = 타투 가게
+    lt = Tatuiruočių salonas
     mr = गोंदणाचे(टॅटू) दुकान
     nb = Tatovør
     nl = Tattoosalon
@@ -28750,6 +28933,7 @@
     it = Negozio di tè
     ja = 茶販売店
     ko = 차 가게
+    lt = Arbatos parduotuvė
     mr = चहा दुकान
     nb = Tebutikk
     nl = Theewinkel
@@ -28790,6 +28974,7 @@
     it = Biglietteria
     ja = チケット売り場
     ko = 매표소
+    lt = Bilietų parduotuvė
     mr = तिकीटघर
     nb = Billettkontor
     nl = Kaartjesverkoop
@@ -28831,6 +29016,7 @@
     it = Negozio di giocattoli
     ja = おもちゃ屋
     ko = 장난감 가게
+    lt = Žaislų parduotuvė
     mr = खेळण्यांचे दुकान
     nb = Leketøybutikk
     nl = Speelgoedwinkel
@@ -28871,6 +29057,7 @@
     it = Agenzia viaggi
     ja = 旅行会社
     ko = 여행사
+    lt = Kelionių agentūra
     mr = प्रवास एजन्सी
     nb = Reisebyrå
     nl = Reisagentschap
@@ -28911,6 +29098,7 @@
     it = Gommista
     ja = タイヤ専門店
     ko = 타이어 상점
+    lt = Padangų parduotuvė
     mr = टायरचे दुकान
     nb = Dekkforretning
     nl = Bandenwinkel
@@ -28952,6 +29140,7 @@
     it = Negozio di accessori
     ja = 雑貨店
     ko = 잡화점
+    lt = Įvairių prekių parduotuvė
     mr = विविध वस्तु भांडार
     nb = Billigbutikk
     nl = Bazaar
@@ -28992,6 +29181,7 @@
     it = Videoteca
     ja = ビデオショップ
     ko = 비디오 가게
+    lt = Filmų parduotuvė
     mr = व्हिडिओ दुकान
     nb = Videobutikken
     nl = Videowinkel
@@ -29033,6 +29223,7 @@
     it = Negozio di videogiochi
     ja = ゲームショップ
     ko = 비디오 게임 가게
+    lt = Kompiuterinių žaidimų parduotuvė
     mr = व्हिडिओ गेम्स दुकान
     nb = Videospillbutikken
     nl = Winkel voor videogames
@@ -29073,6 +29264,7 @@
     it = Enoteca
     ja = ワイン店
     ko = 와인 샵
+    lt = Vyno parduotuvė
     mr = वाईन विक्रेता
     nb = Alkoholutsalg
     nl = Wijnhandel
@@ -29115,6 +29307,7 @@
     it = Negozio agricolo
     ja = 農産物直売所
     ko = 농산물 가게
+    lt = Žemės ūkio prekių parduotuvė
     mr = शेतीचे दुकान
     nb = Landbruksbutikk
     nl = Agrarische winkel
@@ -29158,6 +29351,7 @@
     it = Oggetti d'antiquariato
     ja = 骨董品
     ko = 고물
+    lt = Antikvariatas
     nb = Antikviteter
     nl = Antiekhandel
     pl = Antyki
@@ -29200,6 +29394,7 @@
     it = Negozio di elettrodomestici
     ja = 家電店
     ko = 가전제품 매장
+    lt = Buitinės technikos parduotuvė
     mr = उपकरणांचे दुकान
     nb = Hvitevarebutikk
     nl = Apparaten winkel
@@ -29245,6 +29440,7 @@
     it = Negozio d'arte
     ja = アートショップ
     ko = 아트샵
+    lt = Meno kūrinių parduotuvė
     nb = Kunstbutikk
     nl = Kunstwinkel
     pl = Sklep artystyczny
@@ -29287,6 +29483,7 @@
     it = Negozio per neonati
     ja = キッズストア
     ko = 어린이 가게
+    lt = Kūdikių prekių parduotuvė
     nb = Barnebutikk
     nl = Babyspullenwinkel
     pl = Sklep z artykułami dziecięcymi
@@ -29329,6 +29526,7 @@
     it = Negozio di borse
     ja = バッグストア
     ko = 가방 판매점
+    lt = Krepšelių parduotuvė
     nb = Veskerbutikk
     nl = Tassenwinkel
     pl = Sklep z torbami
@@ -29371,6 +29569,7 @@
     it = Negozio di letti
     ja = ベッドショップ
     ko = 침대 가게
+    lt = Lovų parduotuvė
     mr = पलंगाचे दुकान
     nb = Sengebutikk
     nl = Bedden winkel
@@ -29414,6 +29613,7 @@
     it = Boutique
     ja = ブティック
     ko = 부티크
+    lt = Butikas
     nb = Boutique
     nl = Boetiek
     pl = Butik
@@ -29456,6 +29656,7 @@
     it = Negozio di beneficenza
     ja = チャリティーショップ
     ko = 자선 상점
+    lt = Labdaros parduotuvė
     nb = Veldedighetsbutikk
     nl = Kringloopwinkel
     pl = Sklep charytatywny
@@ -29498,6 +29699,7 @@
     it = Negozio di formaggi
     ja = チーズ店
     ko = 치즈 가게
+    lt = Sūrių parduotuvė
     nb = Ostebutikk
     nl = Kaaswinkel
     pl = Sklep z serami
@@ -29541,6 +29743,7 @@
     it = Arti e mestieri
     ja = 美術工芸
     ko = 예술과 공예
+    lt = Amatų reikmenų parduotuvė
     nb = Kunst og Håndverk
     nl = Kunst en ambacht
     pl = Sztuka i rzemiosło
@@ -29583,6 +29786,7 @@
     it = Latticini
     ja = 乳製品
     ko = "유제품"
+    lt = Pieno produktų parduotuvė
     nb = Meieriprodukter
     nl = Zuivelproducten
     pl = Nabiał
@@ -29626,6 +29830,7 @@
     it = Negozio di articoli elettrici
     ja = 電気店
     ko = "전기용품점"
+    lt = Elektros reikmenų parduotuvė
     nb = Elektronisk butikk
     nl = Witgoed winkel
     pl = Sklep elektryczny
@@ -29669,6 +29874,7 @@
     it = Negozio di pesca
     ja = フィッシングストア
     ko = 낚시점
+    lt = Žvejybos prekių parduotuvė
     nb = Fiskebutikk
     nl = Viswinkel
     pl = Sklep wędkarski
@@ -29712,6 +29918,7 @@
     it = Decorazioni per interni
     ja = 室内装飾
     ko = 실내 장식
+    lt = Interjero dekoracijų parduotuvė
     nb = Interiørdekorasjoner
     nl = Interieurdecoraties
     pl = Dekoracje wnętrz
@@ -29754,6 +29961,7 @@
     it = Biglietti della lotteria
     ja = 宝くじ
     ko = 복권
+    lt = Loterijos bilietai
     nb = Lotteribilletter
     nl = Loten
     pl = Kolektura
@@ -29797,6 +30005,7 @@
     it = Forniture mediche
     ja = 医療用品
     ko = "의료용품"
+    lt = Medicinos reikmenų parduotuvė
     nb = Medisinsk utstyr
     nl = Medische benodigdheden
     pl = Produkty medyczne
@@ -29840,6 +30049,7 @@
     it = Integratori Alimentari
     ja = 栄養補助食品
     ko = 영양 보조제
+    lt = Mitybos papildų parduotuvė
     nb = Kosttilskudd
     nl = Voedingssupplementen
     pl = Suplementy diety
@@ -29882,6 +30092,7 @@
     it = Vernici
     ja = 塗料
     ko = 그림 물감
+    lt = Dažų parduotuvė
     nb = Maling
     nl = Verfwinkel
     pl = Malatura
@@ -29924,6 +30135,7 @@
     it = Profumeria
     ja = 香水
     ko = "향료 제조업"
+    lt = Kvepalų parduotuvė
     nb = Parfymeri
     nl = Parfumerie
     pl = Perfumeria
@@ -29966,6 +30178,7 @@
     it = Forniture per il cucito
     ja = ミシン用品
     ko = "재봉용품"
+    lt = Siuvimo reikmenų parduotuvė
     nb = Syutstyr
     nl = Naaibenodigdheden
     pl = Przybory do szycia
@@ -30008,6 +30221,7 @@
     it = Noleggio deposito
     ja = ストレージレンタル
     ko = 스토리지 렌탈
+    lt = Sandėliavimo nuoma
     nb = Lagerutleie
     nl = Opslag verhuur
     pl = Wynajem magazynu
@@ -30051,6 +30265,7 @@
     it = Tabaccheria
     ja = タバコ
     ko = 담배
+    lt = Rūkalų parduotuvė
     nb = Tobakk
     nl = Tabakszaak
     pl = Tytoń
@@ -30093,6 +30308,7 @@
     it = Forniture commerciali
     ja = 貿易用品
     ko = "거래 용품"
+    lt = Prekybos reikmenys
     nb = Handler rekvisita
     nl = Handelsbenodigdheden
     pl = Skład materiałów budowlanych
@@ -30136,6 +30352,7 @@
     it = Orologeria
     ja = 時計
     ko = 시계
+    lt = Laikrodžių parduotuvė
     nb = Klokker
     nl = Horlogezaak
     pl = Sklep z zegarkami
@@ -30179,6 +30396,7 @@
     it = Negozio all'ingrosso
     ja = 問屋
     ko = 도매점
+    lt = Didmeninė prekyba
     nb = Engrosbutikk
     nl = Groothandel
     pl = Hurtownia
@@ -30221,6 +30439,7 @@
     it = Sport
     ja = スポーツ
     ko = 스포츠
+    lt = Sportas
     mr = क्रीडा
     nb = Sport
     nl = Sport
@@ -30264,6 +30483,7 @@
     it = Football americano
     ja = アメリカンフットボール
     ko = 미식 축구
+    lt = Amerikietiškas futbolas
     mr = अमेरिकन फुटबॉल
     nb = Amerikansk fotball
     nl = American football
@@ -30308,6 +30528,7 @@
     it = Tiro con l'arco
     ja = アーチェリー
     ko = 양궁
+    lt = Šaudymas iš lanko
     mr = धनुर्विद्या
     nb = Bueskyting
     nl = Boogschieten
@@ -30350,6 +30571,7 @@
     it = Atletica leggera
     ja = 運動競技
     ko = 육상 경기장
+    lt = Atletika
     mr = मैदानी खेळ
     nb = Friidrett
     nl = Atletiek
@@ -30393,6 +30615,7 @@
     it = Football australiano
     ja = オーストラリアンフットボール
     ko = 오스트레일리안 풋볼
+    lt = Australiškas futbolas
     mr = रग्बी
     nb = Australsk fotball
     nl = Australian football
@@ -30432,6 +30655,7 @@
     it = Baseball
     ja = 野球
     ko = 야구
+    lt = Beisbolas
     mr = बेसबॉल
     nb = Baseball
     nl = Honkbal
@@ -30474,6 +30698,7 @@
     it = Pallacanestro
     ja = バスケットボール
     ko = 야구
+    lt = Krepšinis
     mr = बास्केटबॉल
     nb = Basketball
     nl = Basketbal
@@ -30517,6 +30742,7 @@
     it = Beach volley
     ja = ビーチバレー
     ko = 비치발리볼
+    lt = Paplūdimio tinklinis
     mr = बीच व्हॉलीबॉल
     nb = Sandvolleyball
     nl = Beachvolleybal
@@ -30553,6 +30779,7 @@
     it = Bowls
     ja = ローンボウルズ
     ko = 론볼
+    lt = Bočė
     mr = लॉन बोलिंग
     nb = Bowls
     nl = Bowls
@@ -30590,6 +30817,7 @@
     it = Scacchi
     ja = チェス
     ko = 체스
+    lt = Šachmatai
     mr = बुद्धिबळ
     nb = Sjakk
     nl = Schaken
@@ -30629,6 +30857,7 @@
     it = Cricket
     ja = クリケット
     ko = 크리켓
+    lt = Kriketas
     mr = क्रिकेट
     nb = Cricket
     nl = Cricket
@@ -30666,6 +30895,7 @@
     it = Curling
     ja = カーリング
     ko = 컬링
+    lt = Kerlingas
     mr = कर्लिंग
     nb = Curling
     nl = Curling
@@ -30708,6 +30938,7 @@
     it = Equitazione
     ja = 馬術
     ko = 승마 경기장
+    lt = Jojimo sportai
     mr = घोडेस्वार खेळ
     nb = Hestesport
     nl = Paardesport
@@ -30751,6 +30982,7 @@
     it = Golf
     ja = ゴルフ
     ko = 골프
+    lt = Golfas
     mr = गोल्फ
     nb = Golf
     nl = Golf
@@ -30792,6 +31024,7 @@
     it = Ginnastica
     ja = 体操
     ko = 체조
+    lt = Gimnastika
     mr = जिम्नॅस्टिक्स
     nb = Gymnastikk
     nl = Gymnastiek
@@ -30834,6 +31067,7 @@
     it = Palla a mano
     ja = ハンドボール
     ko = 핸드볼
+    lt = Rankinis
     mr = हँडबॉल
     nb = Håndball
     nl = Handbal
@@ -30877,6 +31111,7 @@
     it = Sport vari
     ja = 複数
     ko = 다양한 스포츠
+    lt = Įvairūs sportai
     mr = विविध खेळ
     nb = Ulike idretter
     nl = Diverse sporten
@@ -30920,6 +31155,7 @@
     it = Immersioni in subacquea
     ja = スキューバダイビング
     ko = 스쿠버 다이빙
+    lt = Nardymo vieta
     mr = स्कूबा डायव्हिंग
     nb = Dykking
     nl = Duiken
@@ -30963,6 +31199,7 @@
     it = Tiro
     ja = 射撃競技
     ko = 사격 경기
+    lt = Šaudymas
     mr = शूटिंग
     nb = Skyting
     nl = schieten
@@ -31004,6 +31241,7 @@
     it = Skateboard
     ja = スケートボード
     ko = 스케이트보딩
+    lt = Riedlentės
     mr = स्केट बोर्डिंग
     nb = Rullebrettkjøring
     nl = Skateboarden
@@ -31046,6 +31284,7 @@
     it = Sciare
     ja = スキー
     ko = 스키 타기
+    lt = Slidinėjimas
     mr = स्कीइंग
     nb = Stå på ski
     nl = Skiën
@@ -31089,6 +31328,7 @@
     it = Calcio
     ja = サッカー
     ko = 축구
+    lt = Futbolas
     mr = सॉकर
     nb = Fotball
     nl = Voetbal
@@ -31130,6 +31370,7 @@
     it = Nuoto
     ja = 水泳
     ko = 수영
+    lt = Plaukimas
     mr = जलतरण
     nb = Svømming
     nl = Zwemmen
@@ -31173,6 +31414,7 @@
     it = Tennistavolo
     ja = 卓球
     ko = 탁구
+    lt = Stalo tenisas
     mr = टेबल टेनिस
     nb = Bordtennis
     nl = Tafeltennis
@@ -31217,6 +31459,7 @@
     it = Campo da tennis
     ja = テニスコート
     ko = 테니스 코트
+    lt = Teniso aikštelė
     mr = टेनिस प्रांगण
     nb = Tennisbane
     nl = Tennis
@@ -31260,6 +31503,7 @@
     it = Pallavolo
     ja = バレーボール
     ko = 배구
+    lt = Tinklinis
     mr = व्हॉलीबॉल
     nb = Volleyball
     nl = Volleyball
@@ -31301,6 +31545,7 @@
     it = Bowling
     ja = ボウリング
     ko = 볼링
+    lt = Boulingas
     mr = गोलंदाजी
     nb = Bowling
     nl = Bowlen
@@ -31345,6 +31590,7 @@
     it = Padel
     ja = パデル
     ko = 파델
+    lt = Padelis
     nb = Padel
     nl = Padel
     pl = Padel
@@ -31385,6 +31631,7 @@
     it = Futsal
     ja = フットサル
     ko = 풋살
+    lt = Futsalas
     nb = Futsal
     nl = Futsal
     pl = Futsal
@@ -31426,6 +31673,7 @@
     it = Hockey su ghiaccio
     ja = アイスホッケー
     ko = 아이스 하키
+    lt = Ledo ritulys
     nb = Ishockey
     nl = IJshockey
     pl = Hokej na lodzie
@@ -31467,6 +31715,7 @@
     it = Hockey su prato
     ja = フィールドホッケー
     ko = 필드 하키
+    lt = Lauko ritulys
     nb = Landhockey
     nl = Veldhockey
     pl = Hokej na trawie
@@ -31508,6 +31757,7 @@
     it = Badminton
     ja = バドミントン
     ko = 배드민턴
+    lt = Badmintonas
     nb = Badminton
     nl = Badminton
     pl = Badminton
@@ -31548,6 +31798,7 @@
     it = Palla basca
     ja = バスクペロタ
     ko = 바스크 펠로타
+    lt = Baskų Pelota
     nb = Baskisk pelota
     nl = Baskische peloton
     pl = Pelota baskijska
@@ -31579,6 +31830,7 @@
     hi = पर्यटन
     it = Turismo
     ja = 観光
+    lt = Turizmas
     mr = पर्यटन
     nb = Turisme
     nl = Tourisme
@@ -31615,6 +31867,7 @@
     it = Acquario
     ja = 水族館
     ko = 수족관
+    lt = Akvariumas
     mr = मत्स्यालय
     nb = Akvarium
     nl = Aquarium
@@ -31747,6 +32000,7 @@
     it = Opera d'arte
     ja = 芸術
     ko = 작품
+    lt = Meno kūrinys
     mr = कलाकृती
     nb = Kunstverk
     nl = Kunstwerk
@@ -31786,6 +32040,7 @@
     it = Opera d'arte
     ja = 建築
     ko = 작품
+    lt = Architektūrinis meno kūrinys
     mr = कलाकृती
     nb = Kunstverk
     nl = Kunstwerk
@@ -31826,6 +32081,7 @@
     it = Dipinto
     ja = 絵画
     ko = 작품
+    lt = Paveikslas
     mr = कलाकृती
     nb = Kunstverk
     nl = Schilderij
@@ -31865,6 +32121,7 @@
     it = Scultura
     ja = 彫刻
     ko = 작품
+    lt = Skulptūra
     mr = कलाकृती
     nb = Kunstverk
     nl = Kunstwerk
@@ -31905,6 +32162,7 @@
     it = Statua
     ja = 像
     ko = 작품
+    lt = Statula
     mr = कलाकृती
     nb = Kunstverk
     nl = Standbeeld
@@ -31944,6 +32202,7 @@
     it = Attrattiva
     ja = アトラクション
     ko = 관광 명소
+    lt = Atrakcija
     mr = आकर्षण
     nb = Attraksjon
     nl = Attractie
@@ -31986,7 +32245,7 @@
     it = Giostra di divertimento
     ja = 遊園地
     ko = 놀이기구
-    lt = Atrakcionų atrakcionas
+    lt = Atrakcionas
     lv = Atrakciju brauciens
     mr = मनोरंजन राइड
     nb = Forlystelsesattraksjon
@@ -32320,6 +32579,7 @@
     it = Campeggio
     ja = キャンプ場
     ko = 캠핑
+    lt = Stovyklavietė
     mr = शिबिरवास(कॅम्पिंग)
     nb = Campingplass
     nl = Kampeerterrein
@@ -32446,6 +32706,7 @@
     it = Galleria
     ja = 美術館
     ko = 갤러리
+    lt = Meno galerija
     mr = वीथि
     nb = Galleri
     nl = Galerij
@@ -32486,6 +32747,7 @@
     it = Affittacamere
     ja = ゲストハウス
     ko = 게스트하우스
+    lt = Svečių namai
     mr = अतिथीगृह
     nb = Gjestehus
     nl = Gasthuis
@@ -32522,6 +32784,7 @@
     it = Ostello
     ja = ホステル
     ko = 호스텔
+    lt = Nakvynės namai
     mr = छात्रालय
     nb = Vandrerhjem
     nl = Herberg
@@ -32555,6 +32818,7 @@
     it = Hotel
     ja = ホテル
     ko = 호텔
+    lt = Viešbutis
     mr = मुक्कामगृह
     nb = Hotell
     nl = Hotel
@@ -32595,6 +32859,7 @@
     it = Informazione
     ja = インフォメーション
     ko = 관광 정보
+    lt = Turizmo informacija
     mr = पर्यटन माहिती
     nb = Turistinformasjon
     nl = Toeristische informatie
@@ -32638,6 +32903,7 @@
     it = Tabellone informativo
     ja = 情報板
     ko = 정보 게시판
+    lt = Informacinė lenta
     mr = माहिती फलक
     nb = Informasjonstavle
     nl = Informatiebord
@@ -32721,6 +32987,7 @@
     it = Mappa turistica
     ja = 観光マップ
     ko = 관광안내도
+    lt = Turistinis žemėlapis
     mr = पर्यटन नकाशा
     nb = Turistkart
     nl = Toeristische kaart
@@ -32763,6 +33030,7 @@
     it = Ufficio turistico
     ja = 観光案内所
     ko = 관광정보센터
+    lt = Turizmo biuras
     mr = पर्यटन कार्यालय
     nb = Turistkontor
     nl = Toeristische informatie
@@ -32806,6 +33074,7 @@
     it = Centro visitatori
     ja = ビジターセンター
     ko = 방문자 센터
+    lt = Lankytojų centras
     mr = अभ्यागत केंद्र
     nb = Besøkssenter
     nl = Bezoekerscentrum
@@ -32840,6 +33109,7 @@
     it = Motel
     ja = モーテル
     ko = 모텔
+    lt = Motelis
     nb = Motell
     pl = Motel
     pt = Motel
@@ -32874,6 +33144,7 @@
     it = Museo
     ja = 博物館
     ko = 박물관
+    lt = Muziejus
     mr = संग्रहालय
     nl = Museum
     pl = Muzeum
@@ -32911,6 +33182,7 @@
     it = Area picnic
     ja = ピクニック場
     ko = 피크닉 장소
+    lt = Pikniko vieta
     mr = सहलीचे ठिकाण
     nb = Rasteplasser
     nl = Picnicplaats
@@ -32947,6 +33219,7 @@
     it = Resort
     ja = リゾート
     ko = 리조트
+    lt = Kurortas
     mr = रिसॉर्ट
     nb = Ferieresort
     nl = Complex
@@ -32986,6 +33259,7 @@
     it = Parco divertimenti
     ja = テーマパーク
     ko = 테마 파크
+    lt = Pramogų parkas
     mr = थीम पार्क
     nb = Temapark
     nl = Attractiepark
@@ -33027,6 +33301,7 @@
     it = Punto panoramico
     ja = 観光スポット
     ko = 관점
+    lt = Apžvalgos vieta
     mr = दृष्टिस्थान
     nb = Utsiktspunkt
     nl = Uitkijkpunt
@@ -33069,6 +33344,7 @@
     it = Rifugio
     ja = 無人小屋
     ko = 황야 오두막
+    lt = Trobelė
     nb = Villmarkshytte
     nl = Wildernishut
     pl = Gajówka
@@ -33105,6 +33381,7 @@
     it = Giardino zoologico
     ja = 動物園
     ko = 동물원
+    lt = Zoologijos sodas
     mr = प्राणीसंग्रहालय
     nb = Dyrehage
     nl = Dierentuin
@@ -33145,7 +33422,7 @@
     it = Zoo di coccole
     ja = ふれあい動物園
     ko = 페팅 동물원
-    lt = Petting Zoo
+    lt = Glostymo zoologijos sodas
     mr = पेटिंग प्राणीसंग्रहालय
     nb = Dyrehage
     nl = Kinderboerderij
@@ -33176,6 +33453,7 @@
     et = Liikluse rahustamine
     it = Rallentatore della velocità
     ja = 交通静穏化
+    lt = Eismo ribojimas
     nl = Snelheidsmatigende maatregel
     pl = Uspokojenie ruchu drogowego
     pt = Redutor de velocidade
@@ -33197,6 +33475,7 @@
     fr = Ralentisseur
     it = Dosso
     ja = スピードバンプ
+    lt = Greičio kliūtis
     mr = वाहतूक गतिरोधक
     nl = Verkeersdrempel
     pl = Krótki próg zwalniający
@@ -33219,6 +33498,7 @@
     he = פס האטה
     it = Dosso
     ja = スピードハンプ
+    lt = Greičio kliūtis
     nl = Verkeersheuvel
     pl = Długi próg zwalniający
     pt = Lomba longa
@@ -33271,6 +33551,7 @@
     it = Canale
     ja = 運河
     ko = 운하
+    lt = Kanalas
     mr = कालवा
     nb = Kanal
     nl = Kanaal
@@ -33308,6 +33589,7 @@
     it = Canale
     ja = 運河
     ko = 운하
+    lt = Kanalo tunelis
     mr = कालवा
     nb = Kanal
     nl = Kanaal
@@ -33348,6 +33630,7 @@
     it = Passaggio per pesci
     ja = 魚道
     ko = 물고기 사다리
+    lt = Žuvų pralaida
     mr = मासे शिडी
     nb = Fiskestige
     nl = Vistrap
@@ -33381,6 +33664,7 @@
     hi = बाँध
     it = Diga
     ja = ダム
+    lt = Užtvanka
     mr = धरण
     nl = Dam
     pl = Tama
@@ -33405,6 +33689,7 @@
     he = שוחה
     it = Fosso
     ja = 排水路
+    lt = Griovys
     mr = खंदक
     nl = Sloot
     pl = Rów
@@ -33475,6 +33760,7 @@
     hi = गोदी
     it = Darsena
     ja = ドック
+    lt = Prieplauka
     mr = जलमार्ग गोद
     nl = Dok
     pl = Dok
@@ -33497,6 +33783,7 @@
     et = Kuivenduskraav
     it = Canale di scolo
     ja = 用水路
+    lt = Nutekėjimo sistema
     mr = नाला
     nl = Afvoer
     pt = Valeta de drenagem
@@ -33533,6 +33820,7 @@
     it = Sbarramento
     ja = 水門
     ko = 수문
+    lt = Šliuzas
     mr = जलद्वार
     nb = Sluseport
     nl = Sluisdeur
@@ -33573,6 +33861,7 @@
     it = Fiume
     ja = 河川
     ko = 강
+    lt = Upė
     mr = नदी
     nb = Elv
     nl = Rivier
@@ -33616,6 +33905,7 @@
     it = Torrente
     ja = 小川
     ko = 강
+    lt = Upelis
     mr = नदी
     nb = Elv
     nl = Beek
@@ -33656,6 +33946,7 @@
     it = Torrente
     ja = 小川
     ko = 강
+    lt = Efemerinis upelis
     mr = नदी
     nb = Elv
     nl = Rivier
@@ -33696,6 +33987,7 @@
     it = Torrente
     ja = 小川
     ko = 강
+    lt = Periodinis upelis
     mr = नदी
     nb = Elv
     nl = Beek
@@ -33739,6 +34031,7 @@
     it = Cascata
     ja = 滝
     ko = 폭포
+    lt = Krioklys
     mr = धबधबा
     nb = Foss
     nl = Waterval
@@ -33793,6 +34086,7 @@
     hi = पहियाकुर्सी
     it = Sedia a rotelle
     ja = 車椅子
+    lt = Neįgaliųjų vežimėlis
     mr = चाकखुर्ची
     nl = Rolstoel
     pt = Cadeiras de rodas
@@ -33825,6 +34119,7 @@
     it = Accessibile in parte
     ja = 車椅子でのアクセス制限
     ko = 휠체어 접근 제한
+    lt = Ribota prieiga neįgaliųjų vežimėliais
     mr = चाकखुर्चीसाठी मर्यादित प्रवेश
     nb = Begrenset tilgang for rullestol
     nl = Gedeeltelijk uitgerust voor gehandicapten
@@ -33865,6 +34160,7 @@
     it = Non accessibile ai disabili
     ja = 車椅子でのアクセスなし
     ko = 휠체어 접근 금지
+    lt = Nėra prieigos su neįgaliųjų vežimėliais
     mr = चाकखुर्चीसाठी प्रवेश नाही
     nb = Ingen tilgang for rullestol
     nl = Niet uitgerust voor gehandicapten
@@ -33905,6 +34201,7 @@
     it = Accessibile ai disabili
     ja = 車椅子でのアクセスあり
     ko = 휠체어 접근 가능
+    lt = Visiška prieiga neįgaliųjų vežimėliais
     mr = चाकखुर्चीसाठी प्रवेश
     nb = Full tilgang for rullestol
     nl = Uitgerust voor gehandicapten
@@ -34027,6 +34324,7 @@
     et = Mäesuusarada
     fi = Laskettelurinne
     fr = Piste de ski alpin
+    lt = Kalnų slidinėjimo trasa
     nl = Ski-afdaling
     pt = Esqui alpino
     pt-BR = Esqui alpino
@@ -34046,6 +34344,7 @@
     de = Schwierige Ski-Abfahrt
     et = Raske laskumine
     it = Pista difficile
+    lt = Sudėtinga kalnų slidinėjimo trasa
     nl = Moeilijke afdaling
     pt = Esqui alpino avançado
     pt-BR = Esqui alpino avançado
@@ -34065,6 +34364,7 @@
     de = Leichte Ski-Abfahrt
     et = Kerge laskumine
     it = Pista facile
+    lt = Paprasta kalnų slidinėjimo trasa
     nl = Makkelijke afdaling
     pt = Esqui alpino fácil
     pt-BR = Esqui alpino fácil
@@ -34084,6 +34384,7 @@
     de = Profi-Ski-Abfahrt
     et = Professionaalne laskumine
     it = Pista per esperti
+    lt = Profesionalių kalnų slidinėjimo trasa
     nl = Afdaling voor experts
     pt = Esqui alpino avançado
     pt-BR = Esqui alpino avançado
@@ -34115,6 +34416,7 @@
     de = Mittelschwere Ski-Abfahrt
     et = Keskmise raskusastmega laskumine
     it = Pista media
+    lt = Vidutinio sudėtingumo kalnų slidinėjimo trasa
     nl = Gemiddelde afdaling
     pt = Esqui alpino intermédio
     pt-BR = Esqui alpino intermédio
@@ -34134,6 +34436,7 @@
     de = Anfängerfreundliche Ski-Abfahrt
     et = Algajasõbralik laskumine
     it = Pista per principianti
+    lt = Pradedančiųjų kalnų slidinėjimo trasa
     nl = Beginnersafdaling
     pt = Esqui alpino iniciante
     pt-BR = Esqui alpino iniciante
@@ -34155,6 +34458,7 @@
     et = Murdmaa suusarada
     fi = Latu
     fr = Piste de ski de fond
+    lt = Šiaurietiškojo slidinėjimo trasa
     nl = Langlaufroute
     pt = Pista tipo nórdico
     pt-BR = Pista tipo nórdico
@@ -34176,6 +34480,7 @@
     fr = Piste de luge
     he = מסלול מזחלות
     it = Pista per slitte
+    lt = Slidinėjimo trasa rogutėmis
     nl = Sleebaan
     pt = Pista para trenós
     pt-BR = Pista para trenós
@@ -34255,7 +34560,7 @@
     it = Sentiero escursionistico della neve
     ja = スノーハイキングコース
     ko = 스노우 하이킹 트레일
-    lt = Sniego pėsčiųjų takas
+    lt = Sniego žygių takas
     mr = स्नो हायकिंग ट्रेल
     nb = Tursti i snø
     nl = Sneeuwwandelpad
@@ -34300,7 +34605,7 @@
     it = Connessione alle piste
     ja = ピステ・コネクション
     ko = 피스트 연결
-    lt = "Piste Connection
+    lt = Slidinėjimo trasų sujungimas
     mr = Piste कनेक्शन
     nb = Pisteforbindelse
     nl = Pisteverbinding
@@ -34345,7 +34650,7 @@
     it = Sentiero Skitour
     ja = スキーツアートレイル
     ko = 스키투어 트레일
-    lt = "Skitour" takas
+    lt = „Skitour“ takas
     mr = Skitour ट्रेल
     nb = Skitour-stien
     nl = Skitourspoor
@@ -34389,6 +34694,7 @@
     it = Sede degli eventi
     ja = イベント会場
     ko = 행사장
+    lt = Renginių erdvė
     mr = कार्यक्रमाचे ठिकाण
     nb = Arrangementssted
     nl = Evenementenlocatie
@@ -34432,6 +34738,7 @@
     it = Asta
     ja = オークション
     ko = 경매
+    lt = Aukcionas
     mr = लिलाव
     nb = Auksjon
     nl = Veiling
@@ -34474,6 +34781,7 @@
     it = Oggetti da collezione
     ja = コレクタブル
     ko = 수집품
+    lt = Kolekcionuojami daiktai
     mr = संग्रहणीय वस्तू
     nb = Samleobjekter
     nl = Verzamelobjecten
@@ -34518,7 +34826,7 @@
     it = Disponibile in self-service
     ja = セルフサービス可能
     ko = 셀프 서비스 사용 가능
-    lt = Galimybė naudotis savitarnos paslaugomis
+    lt = Galimybė naudotis savitarna
     mr = स्वयं-सेवा उपलब्ध
     nb = Selvbetjening tilgjengelig
     nl = Zelfbediening beschikbaar

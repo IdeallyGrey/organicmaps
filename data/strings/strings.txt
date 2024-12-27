@@ -3050,7 +3050,7 @@
     it = Alimentari
     ja = 食料雑貨
     ko = 식료품들
-    lt = Bakalėjos
+    lt = Maisto prekės
     lv = Pārtikas preces
     mr = किराणा
     mt = Tal-Merċa
@@ -3387,7 +3387,7 @@
     it = Luoghi turistici
     ja = 観光
     ko = 관광
-    lt = Įžymybės
+    lt = Įdomybės
     lv = Apskates objekti
     mr = पर्यटन
     mt = Siti
@@ -3580,7 +3580,7 @@
     it = Divertimento in famiglia
     ja = 家族の休日
     ko = 가족 기념일
-    lt = Šeimos atostogos
+    lt = Šeimos pramogos
     lv = Atpūta ģimenei
     mr = कौटुंबिक सुट्टी
     mt = Vaganza tal-Familja
@@ -4063,7 +4063,7 @@
     it = Per camper
     ja = RV用
     ko = RV용
-    lt = Rekreacinio transporto aikštelės
+    lt = RV įrenginiai
     lv = Dzīvojamo auto labierīcības
     mt = Faċilitajiet tal-RV
     nb = Bobilanlegg

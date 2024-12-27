@@ -15,6 +15,7 @@ id:Cepat saji
 it:Fast food
 ja:ファストフード
 ko:패스트 푸드
+lt: Greitasis maistas
 nb:Hurtigmat
 pl:Fast food
 pt:Comida rápida
@@ -51,6 +52,7 @@ id:Roti bagel
 it:Bagel
 ja:ベーグル
 ko:베이글
+lt: Bageliai
 nb:Bagel
 pl:Bajgle
 pt:Bagel
@@ -86,6 +88,7 @@ id:Sarapan
 it:Colazione
 ja:朝食
 ko:아침 식사
+lt: Pusryčiai
 nb:Frokost
 pl:Śniadaniarnia
 pt:Pequeno-almoço
@@ -123,6 +126,7 @@ it:Hamburger
 ja:ハンバーガー
 ko:햄버거
 nb:Burger
+lt: Burgeriai
 pl:Burgery
 pt:Hambúrguer
 pt-BR:Hambúrguer
@@ -171,6 +175,7 @@ id:Kue
 it:Torte
 ja:ケーキ
 ko:케이크
+lt:Tortai|kepykla
 nb:Kake
 pl:Ciasta
 pt:Bolo|padaria
@@ -207,6 +212,7 @@ id:Kopi
 it:Caffè
 ja:コーヒー
 ko:커피
+lt:Kava
 nb:Kaffe
 pl:Kawa
 pt:Café|cafetaria
@@ -244,6 +250,7 @@ id:Kari
 it:Curry
 ja:カレー
 ko:카레
+lt:Karis
 nb:Karri
 pl:Curry
 pt:Caril
@@ -352,6 +359,7 @@ id:Ikan dan kentang goreng
 it:Fish and chips
 ja:フィッシュ・アンド・チップス
 ko:피쉬 앤 칩스
+lt:Žuvis ir bulvytės
 nb:Fisk og pommes frites
 pl:Ryba i frytki
 pt:Peixe e batatas fritas
@@ -424,6 +432,7 @@ id:Panggangan
 it:Cucina alla griglia
 ja:グリル
 ko:그릴
+lt:Grilis
 nb:Grill
 pl:Dania z grilla
 pt:Grelhados
@@ -463,6 +472,7 @@ id:Hotdog
 it:Hot dog
 ja:ホットドッグ
 ko:핫도그
+lt:Hotdogai
 nb:Hotdog
 nl:Hotdogs
 pl:Hot-dogi
@@ -500,6 +510,7 @@ id:Es_krim
 it:Gelateria|gelato
 ja:アイスクリーム
 ko:아이스크림
+lt:Ledai|Gelato
 nb:Iskrem
 nl:Ijs
 pl:Lodziarnia
@@ -537,6 +548,7 @@ id:Kebab
 it:Kebab
 ja:カバブ
 ko:케밥
+lt:Kebabai
 nb:Kebab
 nl:Kebab
 pl:Kebab
@@ -571,6 +583,7 @@ id:Bakmi
 it:Noodles
 ja:麺類
 ko:국수
+lt:Makaronai
 nb:Nudler
 pl:Noodle
 pt:Massa asiática
@@ -610,6 +623,7 @@ id:Panekuk|Kue dadar
 it:Pancake|Crêpes
 ja:ホットケーキ|クレープ
 ko:팬케이크|크레이프
+lt:Blynai
 nb:Pannekake|Crepe
 nl:Pannenkoek
 pl:Naleśnik|Naleśnikarnia
@@ -644,6 +658,7 @@ id:Pasta
 it:Pasta
 ja:パスタ
 ko:파스타
+lt:Makaronai
 nb:Pasta
 pl:Makarony
 pt:Massa
