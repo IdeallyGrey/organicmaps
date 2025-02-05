@@ -18754,7 +18754,6 @@
     zh-Hans = 分钟
     zh-Hant = 分鐘
 
-<<<<<<< HEAD
   [day]
     tags = android,ios
     en = d
@@ -18800,53 +18799,6 @@
     zh-Hans = 天
     zh-Hant = 天
 
-||||||| parent of 84659dd447 ([strings] Regenerated)
-  [day]
-    tags = android,ios
-    en = d
-    af = d
-    ar = يوم
-    az = gün
-    be = д
-    bg = д
-    ca = d
-    cs = d
-    da = d
-    de = d
-    es = d
-    et = p
-    eu = e
-    fa = روز
-    fi = pv
-    fr = j
-    he = י
-    hi = दिन
-    hu = nap
-    id = hr
-    it = g
-    ja = 日
-    ko = 일
-    lt = d
-    lv = d
-    mr = दि
-    nb = d
-    nl = d
-    pl = d
-    pt = dia
-    pt-BR = dia
-    ro = z
-    ru = д
-    sk = d
-    sv = d
-    th = วัน
-    tr = g
-    uk = д
-    vi = ngày
-    zh-Hans = 天
-    zh-Hant = 天
-
-=======
->>>>>>> 84659dd447 ([strings] Regenerated)
   [placepage_more_button]
     tags = android,ios
     en = More
@@ -31651,7 +31603,6 @@
   [aa_location_permissions_request]
     comment = Ask user to grant location permissions
     tags = android
-<<<<<<< HEAD
     en = Organic Maps needs location access. When it's safe, check the notification on your phone.
     af = Organic Maps benodig liggingtoegang. Gaan die kennisgewing op jou foon na wanneer dit veilig is.
     ar = تحتاج الخرائط العضوية إلى الوصول إلى الموقع. عندما يكون الوضع آمنًا، تحقق من الإشعارات الموجودة على هاتفك.
@@ -31741,51 +31692,6 @@
     zh-Hant = 此應用程式需要您的許可
 
   [aa_request_permission_activity_text]
-    comment = The text in the activity for location permission request.
-    tags = android
-    en = Organic Maps in Android Auto needs a location permission to work effectively
-    af = Organic Maps in Android Auto het 'n liggingtoestemming nodig om effektief te werk
-    ar = تحتاج الخرائط العضوية في Android Auto إلى إذن تحديد الموقع للعمل بفعالية
-    be = Для эфектыўнай працы Organic Maps у Android Auto патрабуецца дазвол на вызначэнне месцазнаходжання
-    bg = Organic Maps в Android Auto се нуждае от разрешение за местоположение, за да работи ефективно
-    ca = Organic Maps a Android Auto necessita un permís d'ubicació per funcionar de manera eficaç
-    cs = Organic Maps v systému Android Auto potřebují k efektivní práci povolení k poloze
-    da = Organic Maps i Android Auto har brug for en lokationstilladelse for at fungere effektivt
-    de = Organic Maps in Android Auto benötigt eine Standortberechtigung, um effektiv zu funktionieren
-    el = Η εφαρμογή Organic Maps στο Android Auto χρειάζεται μια άδεια τοποθεσίας για να λειτουργήσει αποτελεσματικά
-    es = Organic Maps en Android Auto necesita un permiso de localización para funcionar eficazmente
-    es-MX = Organic Maps en Android Auto necesita un permiso de ubicación para funcionar de manera eficaz
-    et = Android Auto orgaanilised kaardid vajavad tõhusaks tööks asukoha luba
-    eu = Android Auto-ko Organic Maps-ek kokapen-baimena behar du eraginkortasunez funtzionatzeko
-    fa = نقشهu200cهای ارگانیک در Android Auto برای کارکرد مؤثر به مجوز مکان نیاز دارد
-    fi = Android Auton Organic Maps tarvitsevat sijaintiluvan toimiakseen tehokkaasti.
-    fr = Organic Maps dans Android Auto a besoin d'une autorisation de localisation pour fonctionner efficacement
-    he = מפות אורגניות ב-Android Auto זקוקות להרשאת מיקום כדי לעבוד ביעילות
-    hi = एंड्रॉइड ऑटो में ऑर्गेनिक मैप्स को प्रभावी ढंग से काम करने के लिए स्थान अनुमति की आवश्यकता होती है
-    hu = Az Android Auto szerves térképeinek a hatékony működéshez helymeghatározási engedélyre van szükségük
-    id = Organic Maps di Android Auto membutuhkan izin lokasi agar dapat bekerja secara efektif
-    it = Organic Maps in Android Auto ha bisogno di un permesso di localizzazione per funzionare efficacemente
-    ja = Android AutoのOrganic Mapsを有効に機能させるには、位置情報の許可が必要である。
-    ko = 안드로이드 오토의 오가닉 맵이 효과적으로 작동하려면 위치 권한이 필요합니다.
-    lt = Kad Android Auto sistemoje Organic Maps veiktų efektyviai, reikia leidimo nustatyti buvimo vietą
-    mr = Android Auto मधील ऑरगॅनिक नकाशे प्रभावीपणे कार्य करण्यासाठी स्थान परवानगी आवश्यक आहे
-    nb = Organic Maps i Android Auto trenger en posisjonstillatelse for å fungere effektivt
-    nl = Organic Maps in Android Auto heeft een locatie toestemming nodig om effectief te werken
-    pl = Organic Maps w Android Auto wymagają uprawnień do lokalizacji, aby działać efektywnie
-    pt = Os Organic Maps no Android Auto precisam de uma permissão de localização para funcionarem eficazmente
-    pt-BR = O Organic Maps no Android Auto precisa de uma permissão de localização para funcionar efetivamente
-    ro = Organic Maps din Android Auto are nevoie de o permisiune de localizare pentru a funcționa eficient
-    ru = Organic Maps в Android Auto для эффективной работы необходимо разрешение на определение местоположения
-    sk = Organic Maps v službe Android Auto potrebujú na efektívnu prácu povolenie na určenie polohy
-    sv = Organic Maps i Android Auto behöver ett platstillstånd för att fungera effektivt
-    sw = Organic Maps katika Android Auto zinahitaji ruhusa ya eneo ili kufanya kazi kwa ufanisi
-    th = แผนที่ทั่วไปใน Android Auto ต้องได้รับอนุญาตจากตำแหน่งจึงจะทำงานได้อย่างมีประสิทธิภาพ
-    tr = Android Auto'daki Organic Maps etkin bir şekilde çalışması için konum izni gerekiyor
-    uk = Для ефективної роботи Organic Maps в Android Auto потрібен дозвіл на розташування
-    vi = Bản đồ không phải trả tiền trong Android Auto cần có quyền truy cập vị trí để hoạt động hiệu quả
-    zh-Hans = Android Auto 中的有机地图需要获得定位许可才能有效工作
-    zh-Hant = Android Auto 中的有機地圖需要位置權限才能有效運作
-=======
     en = This application requires access to your location for navigation purposes.
     ar = يتطلب هذا التطبيق الوصول إلى موقعك لأغراض التنقل.
     az = Bu proqram naviqasiya məqsədləri üçün məkanınıza giriş tələb edir.
@@ -31828,7 +31734,6 @@
     vi = Ứng dụng này yêu cầu quyền truy cập vào vị trí của bạn cho mục đích điều hướng.
     zh-Hans = 本应用程序需要访问您的位置以进行导航。
     zh-Hant = 此應用程式需要訪問您的位置以進行導航。
->>>>>>> 1e5f93714f ([strings] Updated Lithuanian translation of string.txt)
 
   [aa_grant_permissions]
     comment = Grant Permissions button.
@@ -31877,8 +31782,6 @@
     zh-Hans = 授予权限
     zh-Hant = 授予權限
 
-<<<<<<< HEAD
-=======
   [aa_connected_to_car_notification_title]
     comment = Text that will be displayed in the notification title when the app is connected to Android Auto.
     tags = android
@@ -31926,7 +31829,6 @@
     zh-Hans = 与汽车连接
     zh-Hant = 與汽車連接
 
->>>>>>> 1e5f93714f ([strings] Updated Lithuanian translation of string.txt)
   [button_layer_outdoor]
     comment = Outdoors/hiking map style (activity) name in the Styles and Layers dialog
     tags = android,ios
