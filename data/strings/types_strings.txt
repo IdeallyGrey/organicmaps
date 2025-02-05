@@ -22331,12 +22331,8 @@
     it = Quartiere
     ja = 地域
     ko = 동네
-<<<<<<< HEAD
     lv = Apkaime
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
     lt = Kaimynystė
->>>>>>> 67e27c51e4 (Worked on LT translations)
     mr = शेजार
     nb = Strøk
     nl = Wijk
@@ -22683,12 +22679,8 @@
     it = Quartiere
     ja = 区
     ko = 교외
-<<<<<<< HEAD
     lv = Pilsētas apgabals
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
     lt = Priemiestis
->>>>>>> 67e27c51e4 (Worked on LT translations)
     mr = उपनगर
     nb = Forstad
     nl = Buitenwijk
@@ -24556,12 +24548,8 @@
     ref = type.railway.station
     en = Monorail Station
     af = Lugspoorstasie
-<<<<<<< HEAD
     de = Einschienenbahn-Station
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
     lt = Vienabėgio geležinkelio stotis
->>>>>>> 67e27c51e4 (Worked on LT translations)
     zh-Hans = 单轨车站
     zh-Hant = 單軌車站
 
