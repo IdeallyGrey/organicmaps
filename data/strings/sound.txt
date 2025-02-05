@@ -2220,8 +2220,8 @@
     it = Tra duecento piedi
     ja = 二百フィート先
     ko = 이백 피트 앞
-    mr = दोनशे फुटांत
     lt = Už dviejų šimtų pėdų
+    mr = दोनशे फुटांत
     nb = Om to hundre fot
     nl = Over tweehonderd voet
     pl = Za dwieście stóp
@@ -2306,7 +2306,7 @@
     it = Tra quattrocento piedi
     ja = 四百フィート先
     ko = 사백 피트 앞
-    lt =  Už keturių šimtų pėdų
+    lt = Už keturių šimtų pėdų
     mr = चारशे फुटांत
     nb = Om fire hundre fot
     nl = Over vierhonderd voet

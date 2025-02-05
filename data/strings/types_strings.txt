@@ -22331,8 +22331,8 @@
     it = Quartiere
     ja = 地域
     ko = 동네
-    lv = Apkaime
     lt = Kaimynystė
+    lv = Apkaime
     mr = शेजार
     nb = Strøk
     nl = Wijk
@@ -22679,8 +22679,8 @@
     it = Quartiere
     ja = 区
     ko = 교외
-    lv = Pilsētas apgabals
     lt = Priemiestis
+    lv = Pilsētas apgabals
     mr = उपनगर
     nb = Forstad
     nl = Buitenwijk
@@ -22816,7 +22816,7 @@
     he = גנרטור
     it = Generatore
     ja = 発電機
-    lt =Elektros generatorius
+    lt = Elektros generatorius
     mr = जनित्र(जनरेटर)
     pt = Gerador de energia
     pt-BR = Gerador de energia
@@ -25415,7 +25415,7 @@
     fr = Voie de tramway
     hi = ट्राम
     ja = トラム(橋)
-    lt =  Tramvajaus linijos tiltas
+    lt = Tramvajaus linijos tiltas
     mr = ट्राम मार्गिका
     nl = Trambrug
     pt = Linha de elétrico
@@ -25438,7 +25438,7 @@
     fr = Voie de tramway
     hi = ट्राम
     ja = トラム(トンネル)
-    lt =  Tramvajaus linijos tunelis
+    lt = Tramvajaus linijos tunelis
     mr = ट्राम मार्गिका
     nl = Tramtunnel
     pt = Linha de elétrico
@@ -26452,7 +26452,7 @@
     it = Pasticceria
     ja = 菓子類
     ko = 제과점
-    lt =  Saldainių parduotuvė
+    lt = Saldainių parduotuvė
     mr = मिठाई
     nb = Søtsaker
     nl = Snoepwinkel
@@ -27959,8 +27959,8 @@
     it = Negozio di moto
     ja = バイクショップ
     ko = 오토바이 가게
-    mr = दुचाकी विक्रेता
     lt = Motociklų parduotuvė
+    mr = दुचाकी विक्रेता
     nb = Motorsykkelforretning
     nl = Motorzaak
     pl = Salon motocyklowy

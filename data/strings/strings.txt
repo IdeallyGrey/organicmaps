@@ -7025,7 +7025,7 @@
     zh-Hant = 捐助，以共同打造最好的地圖！
 
   [already_donated]
-    tags = ios,android
+    tags = android,ios
     en = Already donated
     af = Reeds geskenk
     ar = تم التبرع
@@ -7069,7 +7069,7 @@
     zh-Hant = 已捐贈
 
   [remind_me_later]
-    tags = ios,android
+    tags = android,ios
     en = Remind later
     af = Herinner later
     ar = ذكر لاحقاً
@@ -7114,7 +7114,7 @@
     zh-Hant = 稍後提醒
 
   [support_organic_maps]
-    tags = ios,android
+    tags = android,ios
     en = Support Organic Maps
     af = Ondersteun Organic Maps
     ar = دعم Organic Maps
@@ -17708,7 +17708,7 @@
     zh-Hant = 操作員: %@
 
   [editor_category_unsuitable_title]
-    tags = ios,android
+    tags = android,ios
     en = Can't find a suitable category?
     af = Kan u nie 'n geskikte kategorie vind nie?
     ar = لا يمكن العثور على فئة مناسبة؟
@@ -17755,7 +17755,7 @@
     zh-Hant = 找不到合適的類別？
 
   [editor_category_unsuitable_text]
-    tags = ios,android
+    tags = android,ios
     en = Organic Maps allows to add simple point categories only, that means no towns, roads, lakes, building outlines, etc. Please add such categories directly to <a href="https://www.openstreetmap.org">OpenStreetMap.org</a>. Check our <a href="https://organicmaps.app/faq/editing/advanced-map-editing">guide</a> for detailed step by step instructions.
     af = Organiese kaarte laat toe om slegs eenvoudige puntkategorieë by te voeg, dit beteken geen dorpe, paaie, mere, gebouomlynings, ens. Voeg asseblief sulke kategorieë direk by <a href="https://www.openstreetmap.org">OpenStreetMap.org< /a>. Gaan ons <a href="https://organicmaps.app/faq/editing/advanced-map-editing">gids</a> na vir gedetailleerde stap-vir-stap-instruksies.
     ar = تسمح الخرائط العضوية بإضافة فئات نقاط بسيطة فقط، وهذا يعني عدم وجود بلدات وطرق وبحيرات ومخططات للمباني وما إلى ذلك. يرجى إضافة هذه الفئات مباشرة إلى <a href="https://www.openstreetmap.org">OpenStreetMap.org</a>. راجع موقعنا <a href="https://organicmaps.app/faq/editing/advanced-map-editing">دليل</a> للحصول على تعليمات مفصلة خطوة بخطوة.
@@ -19034,7 +19034,7 @@
 
   [dialog_kayak_disable_button]
     comment = A disable button text in the explanation dialog that opens hotel details page on Kayak website.
-    tags = android,ios
+    tags = android
     en = Disable Kayak
     af = Deaktiveer Kayak
     ar = تعطيل Kayak
@@ -29800,7 +29800,7 @@
     zh-Hant = 距離：
 
   [elevation_profile_time]
-    tags = android,ios
+    tags = android
     en = Time:
     af = Tyd:
     ar = المدة:
@@ -31692,6 +31692,7 @@
     zh-Hant = 此應用程式需要您的許可
 
   [aa_request_permission_activity_text]
+    tags = android
     en = This application requires access to your location for navigation purposes.
     ar = يتطلب هذا التطبيق الوصول إلى موقعك لأغراض التنقل.
     az = Bu proqram naviqasiya məqsədləri üçün məkanınıza giriş tələb edir.
@@ -31781,53 +31782,6 @@
     vi = Cấp quyền
     zh-Hans = 授予权限
     zh-Hant = 授予權限
-
-  [aa_connected_to_car_notification_title]
-    comment = Text that will be displayed in the notification title when the app is connected to Android Auto.
-    tags = android
-    en = Connected to car
-    ar = متصل بالسيارة
-    az = Avtomobilə qoşulub
-    be = Падключаны да аўтамабіля
-    bg = Свързан с автомобил
-    ca = Connectat al cotxe
-    cs = Připojení k automobilu
-    da = Forbundet til bilen
-    de = Mit dem Auto verbunden
-    el = Ενεργή σύνδεση με το αυτοκίνητο
-    es = Conectado al coche
-    es-MX = Conectado al automóvil
-    et = Ühendatud autoga
-    eu = Kotxearekin konektatuta
-    fa = متصل به ماشین
-    fi = Liitetty autoon
-    fr = Connecté à la voiture
-    he = מחובר לרכב
-    hi = कार से जुड़ा
-    hu = Autóhoz csatlakoztatva
-    id = Terhubung ke mobil
-    it = Collegato all'auto
-    ja = 自動車に接続されている
-    ko = 차량에 연결
-    lt = Prijungtas prie automobilio
-    lv = Savienots ar automobili
-    mr = कारला जोडलेले
-    nb = Tilkoblet til bil
-    nl = Verbonden met auto
-    pl = Podłączono do samochodu
-    pt = Ligado ao automóvel
-    pt-BR = Conectado ao carro
-    ro = Conectat la mașină
-    ru = Подключено к автомобилю
-    sk = Pripojenie k vozidlu
-    sv = Ansluten till bilen
-    sw = Imeunganishwa na gari
-    th = เชื่อมต่อกับรถยนต์
-    tr = Arabaya bağlı
-    uk = Підключено до автомобіля
-    vi = Đã kết nối với ô tô
-    zh-Hans = 与汽车连接
-    zh-Hant = 與汽車連接
 
   [button_layer_outdoor]
     comment = Outdoors/hiking map style (activity) name in the Styles and Layers dialog
@@ -33869,7 +33823,7 @@
     zh-Hant = 選擇顏色
 
   [edit_track]
-    tags = ios,android
+    tags = android,ios
     en = Edit Track
     af = Wysig Roete
     ar = تعديل المسار
