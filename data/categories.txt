@@ -94,12 +94,8 @@ id:Tempat makan|Makanan
 it:Dove mangiare|Cibo
 ja:食事場所|飲食|飲食店
 ko:어디서먹을까|음식
-<<<<<<< HEAD
 lv:Kur paēst|Ēst|Ēdiens
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:Kur valgyti|Maistas|Valgyti
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:जेवायचे ठिकाण|जेवण|अन्न|भोजन
 nb:Spisesteder|Mat
 pl:Gdzie zjeść|Jedzenie
@@ -148,12 +144,8 @@ id:Toserba|Makanan|Toko
 it:4Alimentari|Cibo|Negozio
 ja:食料雑貨|飲食
 ko:식료품들|음식|쇼핑
-<<<<<<< HEAD
 lv:Pārtikas preces|Pārtika
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:4Maisto prekės|Maisto produktai|Maistas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:किराणा|मंडई|ग्रोसरी
 nb:Dagligvarer|Mat
 nl:Boodschappen|Kruidenier|Eten
@@ -192,12 +184,8 @@ id:5Transportasi
 it:5Trasporto
 ja:交通機関
 ko:수송|교통
-<<<<<<< HEAD
 lv:Transports
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:5Transportas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:वाहतूक|ट्रान्सपोर्ट
 nb:5Transport
 pl:5Transport
@@ -240,12 +228,8 @@ id:Bahan bakar
 it:3Benzinaio
 ja:1ガソリンスタンド
 ko:연료|주유소
-<<<<<<< HEAD
 lv:3Degvielas uzpildes stacija|3DUS|4Benzīntanks
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:3Degalai|2Kuras|3Benzinas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:पेट्रोल|इंधन|डिझेल
 nb:Drivstoff
 pl:4Stacja paliw|3Benzyna|4Paliwo
@@ -290,12 +274,8 @@ id:4Parkir
 it:5Parcheggio
 ja:駐車場
 ko:주차
-<<<<<<< HEAD
 lv:5Autostāvvieta|5Parkings
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:4Parkingas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:वाहनतळ|पार्किंग
 nb:4Parkering
 pl:4Parking
@@ -344,12 +324,8 @@ id:Berbelanja
 it:4Shopping
 ja:ショッピング
 ko:쇼핑
-<<<<<<< HEAD
 lv:4iepirkšanās
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:4Apsipirkimas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:खरेदी|शॉपिंग
 nb:4Shopping
 nl:Winkelen
@@ -389,12 +365,8 @@ id:Hotel|Hotel
 it:Hôtel|Alberghi
 ja:ホテル
 ko:호텔
-<<<<<<< HEAD
 lv:Viesnīca|Hotelis
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:Viešbutis|Viešbučiai
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:मुक्कामगृह|लॉज|निवासगृह|हॉटेल
 nb:Hotell|Hoteller
 pl:Hotel|Hotele
@@ -438,12 +410,8 @@ id:Pemandangan
 it:5Luoghi turistici|4Turistico
 ja:観光
 ko:관광
-<<<<<<< HEAD
 lv:3Apskates objekti|Tūrisms
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:3Įdomybės|3Turizmas|3Atrakcijos
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:पर्यटन|टूर|टूरिज्म
 nb:5Severdigheter
 pl:4Atrakcje turystyczne|Osobliwości miasta|Turystyka|zwiedzanie
@@ -487,12 +455,8 @@ id:Hiburan
 it:Divertimento
 ja:エンターテイメント
 ko:엔터테인먼트
-<<<<<<< HEAD
 lv:3Izklaide|Atpūta
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:Pramogos
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:मनोरंजन|मजा
 nb:Underholdning
 pl:Rozrywka
@@ -536,12 +500,8 @@ id:Kehidupan Malam
 it:Vita notturna
 ja:ナイトライフ
 ko:유흥|나이트 라이프|밤의 생활
-<<<<<<< HEAD
 lv:Naktsdzīve
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:Naktinis gyvenimas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:नाईटलाईफ
 nb:Nattliv
 pl:Życie nocne
@@ -585,12 +545,8 @@ id:Liburan keluarga
 it:Divertimento in famiglia|Vacanze bambini
 ja:家族の休日
 ko:가족 기념일|명절
-<<<<<<< HEAD
 lv:Atpūta ģimenei|Ģimene
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:Šeimos pramogos
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:कौटुंबिक सुट्टी
 nb:Familieferie
 pl:Wypoczynek z dziećmi
@@ -634,12 +590,8 @@ id:2ATM
 it:3Bancomat
 ja:1ATM
 ko:ATM|현금 인출기
-<<<<<<< HEAD
 lv:5Bankomāts|3ATM
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:Bankomatas|Bankomatai
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:ATM|एटीएम
 nb:Minibank
 pl:5Bankomat
@@ -687,14 +639,8 @@ id:Untuk RV
 it:Per camper
 ja:RV用
 ko:RV용
-<<<<<<< HEAD
 lv:4Treileru laukumi|4Treileri|5Karavāna
-it:Per camper
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-it:Per camper
-=======
 lt:RV įrenginiai
->>>>>>> 67e27c51e4 (Worked on LT translations)
 nb:Bobilanlegg
 nl:Caravan faciliteiten|4Caravans|5Campers
 pl:Kamper
@@ -730,12 +676,8 @@ id:uang
 it:soldi
 ja:atm|お金|マネー|金|引き出し|預金|振り込み
 ko:돈
-<<<<<<< HEAD
 lv:nauda|U+1F3E7|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:pinigai|U+1F3E7|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:पैसे|कॅश|नगद|रोकड|रोख
 nb:2Penger
 pl:pieniądze
@@ -777,12 +719,8 @@ id:3Bank
 it:3Banca
 ja:1銀行
 ko:1은행
-<<<<<<< HEAD
 lv:5Banka
-||||||| parent of 67e27c51e4 (Worked on LT translations)
-=======
 lt:3Bankas
->>>>>>> 67e27c51e4 (Worked on LT translations)
 mr:बँक|Bank
 nb:3Bank
 pl:3Bank
